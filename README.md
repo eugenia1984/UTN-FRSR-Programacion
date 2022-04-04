@@ -115,7 +115,7 @@ Voy a crear un repositorio por cada materia cursada, en esta lista encontrarán 
 
 - Inglés
 
-- [Laboratorio de computación 1[(https://github.com/eugenia1984/UTN-FRSR-Laboratorio-de-computacion-1)
+- [Laboratorio de computación 1](https://github.com/eugenia1984/UTN-FRSR-Laboratorio-de-computacion-1)
 
 ### Segundo semestre
 
