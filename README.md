@@ -4,23 +4,67 @@ ENGLISH
 
 Here you will find all my study of Programming at  National Technological University ( Mendoza- San Rafael)
 
-I am going to create a repository for each subject studied, in this list you will find the links to them:
+I'm going to create a repository for each subject studied, in this list you will find the links to them:
 
-## Pre-entry
+## -> Pre-entry
 
-- [Math and Programming](https://github.com/eugenia1984/UTNFRSR-ingreso)
+- [Mathematics and Programming](https://github.com/eugenia1984/UTNFRSR-entry)
 
-## First year
+## -> First year
+
+### First semester
 
 - [Programming 1](https://github.com/eugenia1984/UTN-FRSR-Programacion1)
 
-- Math
+- Data processing system
 
-- Laboratory
+- [Mathematics](https://github.com/eugenia1984/UTN-FRSR-Mathematics)
 
 - English
 
-- Data processing system
+- Computer lab 1
+
+### Second semester
+
+
+- Programming 2
+
+- Architecture and Operating Systems
+
+- Statistics
+
+- English II
+
+- Computer Lab 2
+
+- Investigation methodology
+
+
+## -> Second year
+
+
+### First semester
+
+- Programming 3
+
+- Accounting Organization of the Company
+
+- Business organization
+
+- Elements of Operational Research
+
+- Computer Laboratory 3
+
+
+### Second semester
+
+- Systems Methodology 1
+
+- Database Design and Administration
+
+- Legislation
+
+- Computer Laboratory IV
 
 
 ---
@@ -55,22 +99,65 @@ Aquí encontrarás todos mis estudios de Programación en la Universidad Tecnol�
 
 Voy a crear un repositorio por cada materia cursada, en esta lista encontrarán los links a los mismos:
 
-## Pre ingreso
+## -> Pre ingreso
 
 - [Matemáticas y Programación](https://github.com/eugenia1984/UTNFRSR-ingreso)
 
-## Primer año
+## -> Primer año
 
-- [Programacion](https://github.com/eugenia1984/UTN-FRSR-Programacion1)
+### Primer semestre
 
-- Matematica
-
-- Laboratorio
-
-- Inglés
+- [Programacion 1](https://github.com/eugenia1984/UTN-FRSR-Programacion1)
 
 - Sistema de procesamiento de datos
 
+- [Matemática](https://github.com/eugenia1984/UTN-FRSR-Matematica)
+
+- Inglés
+
+- Laboratorio de computación 1
+
+### Segundo semestre
+
+
+- Programación 2
+
+- Arquitectura y Sistemas Operativos
+
+- Estadística
+
+- Inglés II
+
+-  Laboratorio de computación 2
+
+- Metodología de la Investigación
+
+
+## -> Segundo año
+
+
+### Primer semestre
+
+- Programación 3
+
+- Organización Contable de la Empresa
+
+- Organización Empresarial
+
+- Elementos de la investigación Operativa
+
+- Laboratorio de Computación 3
+
+
+### Segundo semestre
+
+- Metodología de Sistemas 1
+
+- Diseño y Administración de Base de Datos
+
+- Legislación
+
+- Laboratorio de Computación IV
 
 ---
 
