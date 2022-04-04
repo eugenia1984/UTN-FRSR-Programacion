@@ -18,7 +18,7 @@ I'm going to create a repository for each subject studied, in this list you will
 
 - Data processing system
 
-- [Mathematics](https://github.com/eugenia1984/UTN-FRSR-Mathematics)
+- [Mathematics](https://github.com/eugenia1984/UTN-FRSR-Matematica)
 
 - English
 
