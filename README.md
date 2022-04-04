@@ -8,7 +8,7 @@ I'm going to create a repository for each subject studied, in this list you will
 
 ## -> Pre-entry
 
-- [Mathematics and Programming](https://github.com/eugenia1984/UTNFRSR-entry)
+- [Mathematics and Programming](https://github.com/eugenia1984/UTNFRSR-ingreso)
 
 ## -> First year
 
