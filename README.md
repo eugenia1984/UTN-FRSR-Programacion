@@ -6,7 +6,9 @@ Here you will find all my study of Programming at  National Technological Univer
 
 I am going to create a repository for each subject studied, in this list you will find the links to them:
 
-## [Pre-entry](https://github.com/eugenia1984/UTNFRSR-ingreso)
+## Pre-entry
+
+- [Math and Programming](https://github.com/eugenia1984/UTNFRSR-ingreso)
 
 ## First year
 
@@ -53,7 +55,9 @@ Aquí encontrarás todos mis estudios de Programación en la Universidad Tecnol�
 
 Voy a crear un repositorio por cada materia cursada, en esta lista encontrarán los links a los mismos:
 
-## [Pre ingreso](https://github.com/eugenia1984/UTNFRSR-ingreso)
+## Pre ingreso
+
+- [Matemáticas y Programación](https://github.com/eugenia1984/UTNFRSR-ingreso)
 
 ## Primer año
 
