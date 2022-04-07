@@ -20,7 +20,7 @@ I'm going to create a repository for each subject studied, in this list you will
 
 - [Mathematics](https://github.com/eugenia1984/UTN-FRSR-Matematica)
 
-- English
+- [English](https://github.com/eugenia1984/-UTN-FRSR-Ingles1)
 
 - [Computer lab 1](https://github.com/eugenia1984/UTN-FRSR-Laboratorio-de-computacion-1)
 
@@ -113,7 +113,7 @@ Voy a crear un repositorio por cada materia cursada, en esta lista encontrarán 
 
 - [Matemática](https://github.com/eugenia1984/UTN-FRSR-Matematica)
 
-- Inglés
+- [Inglés](https://github.com/eugenia1984/-UTN-FRSR-Ingles1)
 
 - [Laboratorio de computación 1](https://github.com/eugenia1984/UTN-FRSR-Laboratorio-de-computacion-1)
 
