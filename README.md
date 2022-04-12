@@ -16,7 +16,7 @@ I'm going to create a repository for each subject studied, in this list you will
 
 - [Programming 1](https://github.com/eugenia1984/UTN-FRSR-Programacion1)
 
-- Data processing system
+- [Data processing system](https://github.com/eugenia1984/UTN-FRSR-SISTEMA-DE-PROCCESAMIENTO-DE-DATOS)
 
 - [Mathematics](https://github.com/eugenia1984/UTN-FRSR-Matematica)
 
@@ -109,7 +109,7 @@ Voy a crear un repositorio por cada materia cursada, en esta lista encontrarán 
 
 - [Programacion 1](https://github.com/eugenia1984/UTN-FRSR-Programacion1)
 
-- Sistema de procesamiento de datos
+- [Sistema de procesamiento de datos](https://github.com/eugenia1984/UTN-FRSR-SISTEMA-DE-PROCCESAMIENTO-DE-DATOS)
 
 - [Matemática](https://github.com/eugenia1984/UTN-FRSR-Matematica)
 
