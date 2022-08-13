@@ -27,6 +27,7 @@ I'm going to create a repository for each subject studied, in this list you will
 ### Second semester
 
 | 1st Year - 2nd Semester |
+| ----------------------- |
 | Programming 2 |
 | Architecture and Operating Systems |
 | Statistics |
@@ -52,6 +53,7 @@ I'm going to create a repository for each subject studied, in this list you will
 ### Second semester
 
 | 2nd Year - 2nd Semester |
+| ----------------------- |
 | Systems Methodology 1 |
 | Database Design and Administration |
 | Legislation |
@@ -64,9 +66,9 @@ I'm going to create a repository for each subject studied, in this list you will
 
 **PseInt**
 
-**Java**
+**Java** <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/>
 
-**Python**
+**Python** <img src="https://img.icons8.com/color/48/000000/python--v1.png"/>
 
 ---
 
@@ -157,9 +159,9 @@ Voy a crear un repositorio por cada materia cursada, en esta lista encontrarán 
 
 **PseInt**
 
-**Java**
+**Java** <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/>
 
-**Python**
+**Python** <img src="https://img.icons8.com/color/48/000000/python--v1.png"/>
 
 ---
 
