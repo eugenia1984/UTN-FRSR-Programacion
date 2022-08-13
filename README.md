@@ -8,36 +8,31 @@ I'm going to create a repository for each subject studied, in this list you will
 
 ## -> Pre-entry
 
-- [Mathematics and Programming](https://github.com/eugenia1984/UTNFRSR-ingreso)
+| Pre-entry |
+| --------- |
+|  [Mathematics and Programming](https://github.com/eugenia1984/UTNFRSR-ingreso) |
 
 ## -> First year
 
 ### First semester
 
-- [Programming 1](https://github.com/eugenia1984/UTN-FRSR-Programacion1)
-
-- [Data processing system](https://github.com/eugenia1984/UTN-FRSR-SISTEMA-DE-PROCCESAMIENTO-DE-DATOS)
-
-- [Mathematics](https://github.com/eugenia1984/UTN-FRSR-Matematica)
-
-- [English](https://github.com/eugenia1984/UTN-FRSR-Ingles1)
-
-- [Computer lab 1](https://github.com/eugenia1984/UTN-FRSR-Laboratorio-de-computacion-1)
+| 1st Year - 1st Semester |
+| ----------------------- |
+| [Programming 1](https://github.com/eugenia1984/UTN-FRSR-Programacion1) |
+|  [Data processing system](https://github.com/eugenia1984/UTN-FRSR-SISTEMA-DE-PROCCESAMIENTO-DE-DATOS) |
+| [Mathematics](https://github.com/eugenia1984/UTN-FRSR-Matematica) |
+| [English](https://github.com/eugenia1984/UTN-FRSR-Ingles1) |
+| [Computer lab 1](https://github.com/eugenia1984/UTN-FRSR-Laboratorio-de-computacion-1) |
 
 ### Second semester
 
-
-- Programming 2
-
-- Architecture and Operating Systems
-
-- Statistics
-
-- English II
-
-- Computer Lab 2
-
-- Investigation methodology
+| 1st Year - 2nd Semester |
+| Programming 2 |
+| Architecture and Operating Systems |
+| Statistics |
+| English II |
+| Computer Lab 2 |
+| Investigation methodology |
 
 
 ## -> Second year
@@ -45,26 +40,22 @@ I'm going to create a repository for each subject studied, in this list you will
 
 ### First semester
 
-- Programming 3
-
-- Accounting Organization of the Company
-
-- Business organization
-
-- Elements of Operational Research
-
-- Computer Laboratory 3
+| 2nd Year - 1st Semester |
+| ----------------------- |
+| Programming 3 |
+| Accounting Organization of the Company |
+| Business organization |
+| Elements of Operational Research |
+| Computer Laboratory 3 |
 
 
 ### Second semester
 
-- Systems Methodology 1
-
-- Database Design and Administration
-
-- Legislation
-
-- Computer Laboratory IV
+| 2nd Year - 2nd Semester |
+| Systems Methodology 1 |
+| Database Design and Administration |
+| Legislation |
+| Computer Laboratory IV |
 
 
 ---
@@ -72,6 +63,10 @@ I'm going to create a repository for each subject studied, in this list you will
 ## Tech Stack 🛠️
 
 **PseInt**
+
+**Java**
+
+**Python**
 
 ---
 
@@ -89,7 +84,11 @@ I'm going to create a repository for each subject studied, in this list you will
 
 I appreciate your interest in this repository ⌨️ with ❤️ by [María Eugenia Cost](https://github.com/eugenia1984)  😊 and follow me on [LinkedIn](https://www.linkedin.com/in/maríaeugeniacosta/)
 
+
+
 ---
+---
+
 
 SPANISH
 
@@ -101,69 +100,66 @@ Voy a crear un repositorio por cada materia cursada, en esta lista encontrarán 
 
 ## -> Pre ingreso
 
-- [Matemáticas y Programación](https://github.com/eugenia1984/UTNFRSR-ingreso)
+| PreIngreso |
+| -----------|
+| [Matemáticas y Programación](https://github.com/eugenia1984/UTNFRSR-ingreso) |
 
-## -> Primer año
+## :book: Primer año
 
 ### Primer semestre
 
-- [Programacion 1](https://github.com/eugenia1984/UTN-FRSR-Programacion1)
-
-- [Sistema de procesamiento de datos](https://github.com/eugenia1984/UTN-FRSR-SISTEMA-DE-PROCCESAMIENTO-DE-DATOS)
-
-- [Matemática](https://github.com/eugenia1984/UTN-FRSR-Matematica)
-
-- [Inglés](https://github.com/eugenia1984/UTN-FRSR-Ingles1)
-
-- [Laboratorio de computación 1](https://github.com/eugenia1984/UTN-FRSR-Laboratorio-de-computacion-1)
+| 1er Año - 1er Semestre |
+| ---------------------- |
+| [Programacion 1](https://github.com/eugenia1984/UTN-FRSR-Programacion1) |
+| [Sistema de procesamiento de datos](https://github.com/eugenia1984/UTN-FRSR-SISTEMA-DE-PROCCESAMIENTO-DE-DATOS) |
+| [Matemática](https://github.com/eugenia1984/UTN-FRSR-Matematica) |
+| [Inglés](https://github.com/eugenia1984/UTN-FRSR-Ingles1) |
+| [Laboratorio de computación 1](https://github.com/eugenia1984/UTN-FRSR-Laboratorio-de-computacion-1) |
 
 ### Segundo semestre
 
-
-- Programación 2
-
-- Arquitectura y Sistemas Operativos
-
-- Estadística
-
-- Inglés II
-
--  Laboratorio de computación 2
-
-- Metodología de la Investigación
+| 1er Año - 2do Semestre |
+| ---------------------- |
+| Programación 2 |
+| Arquitectura y Sistemas Operativos |
+| Estadística |
+| Inglés II |
+| Laboratorio de computación 2 |
+| Metodología de la Investigación |
 
 
-## -> Segundo año
+## :book: Segundo año
 
 
 ### Primer semestre
 
-- Programación 3
-
-- Organización Contable de la Empresa
-
-- Organización Empresarial
-
-- Elementos de la investigación Operativa
-
-- Laboratorio de Computación 3
+| 2do Año - 1er Semestre |
+| ---------------------- |
+| Programación 3 |
+| Organización Contable de la Empresa |
+| Organización Empresarial |
+| Elementos de la investigación Operativa |
+| Laboratorio de Computación 3 |
 
 
 ### Segundo semestre
 
-- Metodología de Sistemas 1
-
-- Diseño y Administración de Base de Datos
-
-- Legislación
-
-- Laboratorio de Computación IV
+| 2do Año - 2do Semestre |
+| ---------------------- |
+| Metodología de Sistemas 1 |
+| Diseño y Administración de Base de Datos |
+| Legislación |
+| Laboratorio de Computación IV |
 
 ---
 
 ## Stack teconológico 🛠️
 
 **PseInt**
+
+**Java**
+
+**Python**
 
 ---
 
@@ -177,7 +173,12 @@ Voy a crear un repositorio por cada materia cursada, en esta lista encontrarán 
 - Muchas gracias 🤓.
 
 
+---
+
 ## Notas: 
 
 Aprecio tu interés por este repositorio ⌨️ con ❤️ de [María Eugenia Cost](https://github.com/eugenia1984)  😊 y seguime en [LinkedIn](https://www.linkedin.com/in/maríaeugeniacosta/)
+
+---
+---
 
