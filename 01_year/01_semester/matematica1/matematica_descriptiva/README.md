@@ -4,9 +4,13 @@ Temas:
 
 - Teoría y presentación de la materia
 
+- [Teoría de Algebra de Boole y Compuertas](https://github.com/eugenia1984/UTN-FRSR-Programacion/edit/main/01_year/01_semester/matematica1/matematica_descriptiva/algebra_de_boole_y_compuertas.pdf)
+
+---
 ---
 
-##  :star: Clase 1 (04APR) Teoría y presentación de la materia
+
+##  :star: CLASE 1 (04APR) TEORIA Y PRESENTACION DE LA MATERIA
 
 ### Informatizar la matemática
 
@@ -154,8 +158,8 @@ Recuerda que, si se grafica una función lineal, siempre se obtiene una recta. V
 -*----------------------------------->x
  |-1   |     |1      |2      |3
 
-
-
-
 ```
 
+
+---
+---
