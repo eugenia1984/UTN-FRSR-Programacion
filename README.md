@@ -22,7 +22,7 @@ I'm going to create a repository for each subject studied, in this list you will
 |  [Data processing system](https://github.com/eugenia1984/UTN-FRSR-Programacion/tree/main/01_year/01_semester/sdpd) |
 | [Mathematics](https://github.com/eugenia1984/UTN-FRSR-Programacion/tree/main/01_year/01_semester/matematica1) |
 | [English 1](https://github.com/eugenia1984/UTN-FRSR-Programacion/tree/main/01_year/01_semester/ingles) |
-| [Computer lab 1](https://github.com/eugenia1984/UTN-FRSR-Laboratorio-de-computacion-1) |
+| [Computer lab 1](https://github.com/eugenia1984/UTN-FRSR-Programacion/tree/main/01_year/01_semester/laboratorio1) |
 
 ### Second semester
 
@@ -116,7 +116,7 @@ Voy a crear un repositorio por cada materia cursada, en esta lista encontrarán 
 | [Sistema de procesamiento de datos](https://github.com/eugenia1984/UTN-FRSR-Programacion/tree/main/01_year/01_semester/sdpd) |
 | [Matemática](https://github.com/eugenia1984/UTN-FRSR-Programacion/tree/main/01_year/01_semester/matematica1) |
 | [Inglés 1](https://github.com/eugenia1984/UTN-FRSR-Programacion/tree/main/01_year/01_semester/ingles) |
-| [Laboratorio de computación 1](https://github.com/eugenia1984/UTN-FRSR-Laboratorio-de-computacion-1) |
+| [Laboratorio de computación 1](https://github.com/eugenia1984/UTN-FRSR-Programacion/tree/main/01_year/01_semester/laboratorio1) |
 
 ### Segundo semestre
 
