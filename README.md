@@ -18,7 +18,7 @@ I'm going to create a repository for each subject studied, in this list you will
 
 | 1st Year - 1st Semester |
 | ----------------------- |
-| [Programming 1](https://github.com/eugenia1984/UTN-FRSR-Programacion1) |
+| [Programming 1](https://github.com/eugenia1984/UTN-FRSR-Programacion/tree/main/01_year/01_semester/prograamcion1) |
 |  [Data processing system](https://github.com/eugenia1984/UTN-FRSR-Programacion/tree/main/01_year/01_semester/sdpd) |
 | [Mathematics](https://github.com/eugenia1984/UTN-FRSR-Programacion/tree/main/01_year/01_semester/matematica1) |
 | [English 1](https://github.com/eugenia1984/UTN-FRSR-Programacion/tree/main/01_year/01_semester/ingles) |
@@ -112,7 +112,7 @@ Voy a crear un repositorio por cada materia cursada, en esta lista encontrarán 
 
 | 1er Año - 1er Semestre |
 | ---------------------- |
-| [Programacion 1](https://github.com/eugenia1984/UTN-FRSR-Programacion1) |
+| [Programacion 1](https://github.com/eugenia1984/UTN-FRSR-Programacion/tree/main/01_year/01_semester/prograamcion1) |
 | [Sistema de procesamiento de datos](https://github.com/eugenia1984/UTN-FRSR-Programacion/tree/main/01_year/01_semester/sdpd) |
 | [Matemática](https://github.com/eugenia1984/UTN-FRSR-Programacion/tree/main/01_year/01_semester/matematica1) |
 | [Inglés 1](https://github.com/eugenia1984/UTN-FRSR-Programacion/tree/main/01_year/01_semester/ingles) |
