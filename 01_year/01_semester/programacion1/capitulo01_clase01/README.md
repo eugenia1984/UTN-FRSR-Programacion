@@ -51,9 +51,11 @@
 
 - El nombre Java surgio de una de las reuniones creativas celebradas por el eqquipo
 
+
 ## ¿ Qué es Java ?
 
 Es un lenguaje de desarrollo de propósito general y como tal es válidop para desarrollar todo tipo de aplicaciones.
+
 
 ## ¿ Qué lo hace distinto a los demás lenguajes?
 
@@ -71,7 +73,8 @@ Es un lenguaje de desarrollo de propósito general y como tal es válidop para d
 
 - Applets
 
-## Caracterñisticas
+
+## Caracteristicas
 
 - POO
 
