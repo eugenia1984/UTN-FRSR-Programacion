@@ -108,4 +108,4 @@ Acá voy a dejar todas las actividades del curso de ingreso a la **Tecnicatura U
 
 ## Notas: 
 
-Aprecio tu interés por este repositorio ⌨️ con ❤️ de [María Eugenia Cost](https://github.com/eugenia1984)  😊 y seguime en [LinkedIn](https://www.linkedin.com/in/mar%C3%ADaeugeniacosta/)
+Aprecio tu interés por este repositorio ⌨️ con ❤️ de [María Eugenia Cost](https://github.com/eugenia1984)  😊 y seguime en [LinkedIn](https://www.linkedin.com/in/maríaeugeniacosta/)
