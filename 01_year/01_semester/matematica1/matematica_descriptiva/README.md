@@ -8,6 +8,8 @@ Temas:
 
 - [Teoría de Algebra de Boole y Compuertas](https://github.com/eugenia1984/UTN-FRSR-Programacion/edit/main/01_year/01_semester/matematica1/matematica_descriptiva/algebra_de_boole_y_compuertas.pdf)
 
+- [Matrices y Determinantes](https://github.com/eugenia1984/UTN-FRSR-Programacion/edit/main/01_year/01_semester/matematica1/matematica_descriptiva/matrices_y_determinates.pdf)
+
 ---
 ---
 
