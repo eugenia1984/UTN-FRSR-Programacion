@@ -28,12 +28,12 @@ I'm going to create a repository for each subject studied, in this list you will
 
 | 1st Year - 2nd Semester |
 | ----------------------- |
-| Programming 2 |
-| Architecture and Operating Systems |
-| Statistics |
-| English II |
-| Computer Lab 2 |
-| Investigation methodology |
+| [Programming 2](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/tree/main/programacion2) |
+| [Architecture and Operating Systems](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/tree/main/arquitectura_sistemas_operativos) |
+| [Stadistics](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/tree/main/estadistica) |
+| [English II](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/tree/main/ingles2) |
+| [Computer Lab 2](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/tree/main/laboratorio2) |
+| [Investigation methodology](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/tree/main/metodologia_investigacion) |
 
 
 ## -> Second year
