@@ -41,7 +41,7 @@ Voy a crear un repositorio por cada materia cursada, en esta lista encontrarán 
 
 ### Primer semestre
 
-| 2do Año - 1er Semestre |
+| [**2do Año - 1er Semestre**]((https://github.com/eugenia1984/UTN-FRSR-Programacion/tree/main/2do_anio_1er_semestre)) |
 | ---------------------- |
 | Programación 3 |
 | Organización Contable de la Empresa |
@@ -52,7 +52,7 @@ Voy a crear un repositorio por cada materia cursada, en esta lista encontrarán 
 
 ### Segundo semestre
 
-| [**2do Año - 2do Semestre**](https://github.com/eugenia1984/UTN-FRSR-Programacion/tree/main/2do_anio_1er_semestre) |
+| 2do Año - 2do Semestre |
 | ---------------------- |
 | Metodología de Sistemas 1 |
 | Diseño y Administración de Base de Datos |
