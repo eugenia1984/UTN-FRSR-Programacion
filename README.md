@@ -16,7 +16,7 @@ Voy a crear un repositorio por cada materia cursada, en esta lista encontrarán 
 
 ### Primer semestre
 
-| 1er Año - 1er Semestre |
+| [**1er Año - 1er Semestre**](https://github.com/eugenia1984/UTN-FRSR-Programacion/tree/main/01_year/01_semester) |
 | ---------------------- |
 | [Programacion 1](https://github.com/eugenia1984/UTN-FRSR-Programacion/tree/main/01_year/01_semester/prograamcion1) |
 | [Sistema de procesamiento de datos](https://github.com/eugenia1984/UTN-FRSR-Programacion/tree/main/01_year/01_semester/sdpd) |
@@ -110,7 +110,7 @@ I'm going to create a repository for each subject studied, in this list you will
 
 ### First semester
 
-| 1st Year - 1st Semester |
+| [**1st Year - 1st Semester**](https://github.com/eugenia1984/UTN-FRSR-Programacion/tree/main/01_year/01_semester) |
 | ----------------------- |
 | [Programming 1](https://github.com/eugenia1984/UTN-FRSR-Programacion/tree/main/01_year/01_semester/prograamcion1) |
 |  [Data processing system](https://github.com/eugenia1984/UTN-FRSR-Programacion/tree/main/01_year/01_semester/sdpd) |
