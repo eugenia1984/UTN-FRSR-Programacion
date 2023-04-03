@@ -4,7 +4,7 @@
 
 ## :book: Materias:
 
-- **LABORATORIO DE COMPUTACION III** - Lunes
+- [**LABORATORIO DE COMPUTACION III**](https://github.com/eugenia1984/UTN-FRSR-Programacion/tree/main/2do_anio_1er_semestre/laboratorioIII) - Lunes
 
 - **ORGANIZACION CONTABLE DE LA EMPRESA** - Martes -> Inglés III - Big Data
 
