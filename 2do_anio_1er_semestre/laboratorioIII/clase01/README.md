@@ -238,10 +238,16 @@ console.log("*** Fin del ciclo while ***")
 ## 1.2 - CICLO DO WHILE
 
 ```JavaScript
+/**** DO WHILE ****/
+// se ejecuta la menos una vez
+// primero se ejecuta y luego ve si cumple la condicion
+
 do {
   console.log(conteo)
-  conteo++
+  conteo++ // operador unario de post incremento
 } while (conteo < 3);
+
+console.log("*** Fin del ciclo Do While ***")
 ```
 
 ---
