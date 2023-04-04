@@ -7,6 +7,8 @@
 
 ![image](https://user-images.githubusercontent.com/72580574/229650426-d58f7268-ee7d-47e9-86a3-49b22376278d.png)
 
+Cuando hay un **Error** nuestro programa se interrumpe, salvo que hagamos un **manejo de excepción** para que no se corte.
+
 ---
 
 ## 1.2 -  Procesamiento de excepciones
