@@ -288,7 +288,7 @@ console.log("*** Termina el ciclo al encontrar el primer número par ***")
 ```JavaScript
 for (let contando = 0; contando <= 10; contando++) {
   if(contando % 2 !== 0 ) {
-    continue // continua a la sigueinte iteracion
+    continue // continua a la siguiente iteracion
   }
   console.log(contando)
 }
@@ -300,5 +300,17 @@ console.log("*** Termina el ciclo ***")
 ---
 
 ## 1.6 - ETIQUETAS LABELS
+
+```JavaScript
+/*** Etquetas labels ***/
+inicio: for (let contando = 0; contando <= 10; contando++) {
+  if (contando % 2 !== 0) {
+    break inicio; 
+  }
+  console.log(contando);
+}
+
+console.log("*** Termina el ciclo ***");
+```
 
 ---
