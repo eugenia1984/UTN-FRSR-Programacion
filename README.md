@@ -26,14 +26,14 @@ Voy a crear un repositorio por cada materia cursada, en esta lista encontrarán 
 
 ### Segundo semestre
 
-| 1er Año - 2do Semestre |
+| [**1er Año - 2do Semestre**](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester) |
 | ---------------------- |
-| Programación 2 |
-| Arquitectura y Sistemas Operativos |
-| Estadística |
-| Inglés II |
-| Laboratorio de computación 2 |
-| Metodología de la Investigación |
+| [Programación 2](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/tree/main/programacion2 |
+| [Arquitectura y Sistemas Operativos](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/tree/main/arquitectura_sistemas_operativos) |
+| [Estadística](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/tree/main/estadistica) |
+| [Inglés II](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/tree/main/ingles2) |
+| [Laboratorio de computación 2](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/tree/main/laboratorio2) |
+| [Metodología de la Investigación](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/tree/main/metodologia_investigacion) |
 
 
 ## :book: Segundo año
@@ -120,7 +120,7 @@ I'm going to create a repository for each subject studied, in this list you will
 
 ### Second semester
 
-| 1st Year - 2nd Semester |
+| [**1st Year - 2nd Semester**](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester) |
 | ----------------------- |
 | [Programming 2](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/tree/main/programacion2) |
 | [Architecture and Operating Systems](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/tree/main/arquitectura_sistemas_operativos) |
