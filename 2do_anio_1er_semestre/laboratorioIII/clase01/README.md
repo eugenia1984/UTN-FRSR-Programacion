@@ -254,6 +254,18 @@ console.log("*** Fin del ciclo Do While ***")
 
 ## 1.3 - CICLO FOR
 
+```JavaScript
+// inicializador: let i = o
+// condicion a verificar: i < 3
+// actualizacion: i++
+for(let i = 0; i< 3; i++) {
+  console.log("i: ", i)
+}
+
+
+console.log("*** Fin del ciclo for ***")
+```
+
 ---
 
 ## 1.4 - PALABRA RESERVADA BREAK
