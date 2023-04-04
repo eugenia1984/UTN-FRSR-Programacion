@@ -237,6 +237,13 @@ console.log("*** Fin del ciclo while ***")
 
 ## 1.2 - CICLO DO WHILE
 
+```JavaScript
+do {
+  console.log(conteo)
+  conteo++
+} while (conteo < 3);
+```
+
 ---
 
 ## 1.3 - CICLO FOR
