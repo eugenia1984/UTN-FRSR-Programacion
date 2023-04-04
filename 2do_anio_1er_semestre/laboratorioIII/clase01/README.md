@@ -15,13 +15,13 @@ Cuando hay un **Error** nuestro programa se interrumpe, salvo que hagamos un **m
 try:
     10/0
 except Exception as e:
-    print(f"OCurrio un error: {e}")
+    print(f"Ocurrio un error: {e}")
 ```
 
 -> Por consola se ve:
 
 ```
-OCurrio un error: division by zero
+Ocurrio un error: division by zero
 ```
 
 
