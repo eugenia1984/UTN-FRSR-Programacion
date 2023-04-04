@@ -58,6 +58,34 @@ Seguimos...
 
 ## 1.3 - Procesar clases de exception más específicas
 
+```Pyhton
+resultado = None
+a = 10
+b = 0
+
+try:
+    resultado = a/b
+except TypeError as e:
+    print(f"TypeError - Ocurrio un error: {e}")    
+except ZeroDivisionError as e:
+    print(f"ZeroDivisionError - Ocurrio un error: {e}") 
+except Exception as e:
+    print(f"Exception - Ocurrio un error: {e}")
+
+print(f"El resultado es: {resultado}")  
+print("Seguimos...")  
+```
+
+```
+ZeroDivisionError - Ocurrio un error: division by zero
+El resultado es: None
+Seguimos...
+```
+
+En cambio si **a** es un **string** vamos a tener **TypeError**
+
+Si **a** tiene valor **10** y **b** tiene el valor **2** -> el **Resultado** es **5**, no voy a tenr errores.
+
 ---
 
 ## 1.4 - Más de procedimientos de excepciones
