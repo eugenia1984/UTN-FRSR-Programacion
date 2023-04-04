@@ -1,4 +1,4 @@
-# :star: LABORATORIO III - CLASE 01 - 03 ABRIL : EXCEPCIONES
+# :star: LABORATORIO III - CLASE 01 - 03 ABRIL : EXCEPCIONES (PYTHON)
 
 
 ---
@@ -9,7 +9,7 @@
 
 Cuando hay un **Error** nuestro programa se interrumpe, salvo que hagamos un **manejo de excepción** para que no se corte.
 
--**manejo_excepciones.py**:
+- [**manejo_excepciones.py**](https://github.com/eugenia1984/UTN-FRSR-Programacion/blob/main/2do_anio_1er_semestre/laboratorioIII/excepciones/leccion1/manejo_excepciones.py):
 
 ```Python
 try:
@@ -29,7 +29,7 @@ Ocurrio un error: division by zero
 
 ## 1.2 -  Procesamiento de excepciones
 
--**manejo_excepciones.py**:
+- [**manejo_excepciones.py**](https://github.com/eugenia1984/UTN-FRSR-Programacion/blob/main/2do_anio_1er_semestre/laboratorioIII/excepciones/leccion1/manejo_excepciones.py):
 
 ```Python
 resultado = None
@@ -58,7 +58,7 @@ Seguimos...
 
 ## 1.3 - Procesar clases de exception más específicas
 
--**manejo_excepciones_especificas.py**:
+- [**manejo_excepciones_especificas.py**](https://github.com/eugenia1984/UTN-FRSR-Programacion/blob/main/2do_anio_1er_semestre/laboratorioIII/excepciones/leccion1/manejo_excepciones_especificas.py):
 
 ```Pyhton
 resultado = None
@@ -95,7 +95,7 @@ Si **a** tiene valor **10** y **b** tiene el valor **2** -> el **Resultado** es 
 
 Hacemos que los valores de las variables la ingrese el usuario:
 
--**mas_excepciones.py**:
+- [**mas_excepciones.py**](https://github.com/eugenia1984/UTN-FRSR-Programacion/blob/main/2do_anio_1er_semestre/laboratorioIII/excepciones/leccion1/mas_excepciones.py):
 
 ```Python
 resultado = None # necesitamos que sea una variable global
@@ -127,8 +127,8 @@ print("Seguimos...")
 
 **finally** -> se ejecuta siempre
 
-- **try_except_else_finally.py**:
-- 
+- [**try_except_else_finally.py**](https://github.com/eugenia1984/UTN-FRSR-Programacion/blob/main/2do_anio_1er_semestre/laboratorioIII/excepciones/leccion1/try_except_else_finally.py):
+
 ```Python
 resultado = None # necesitamos que sea una variable global
 
@@ -165,7 +165,7 @@ Seguimos...
 ## 1.6 - Creación de clases de Exception personalizadas
 
 
-- **NumerosIgualesException**:
+- [**NumerosIgualesException**](https://github.com/eugenia1984/UTN-FRSR-Programacion/blob/main/2do_anio_1er_semestre/laboratorioIII/excepciones/leccion1/NumerosIgualesException.py):
 
 ```Python
 class NumerosIgualesException (Exception): # Extiende de la clase
@@ -173,7 +173,7 @@ class NumerosIgualesException (Exception): # Extiende de la clase
         self.mensaje= mensaje
 ```
 
-- **excepcion_personalizada.py**:
+- [**excepcion_personalizada.py**](https://github.com/eugenia1984/UTN-FRSR-Programacion/blob/main/2do_anio_1er_semestre/laboratorioIII/excepciones/leccion1/excepcion_personalizada.py):
 
 ```Python
 from NumerosIgualesException import NumerosIgualesException
