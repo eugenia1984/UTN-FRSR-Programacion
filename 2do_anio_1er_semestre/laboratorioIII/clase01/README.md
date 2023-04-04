@@ -222,6 +222,8 @@ Seguimos...
 
 ## 1.1 - CICLO WHILE
 
+- [01-ciclos-while.js](https://github.com/eugenia1984/UTN-FRSR-Programacion/blob/main/2do_anio_1er_semestre/laboratorioIII/tecnicatura_3_js/leccion1/01-ciclos-while.js):
+
 ```JavaScript
 let contador = 0
 
@@ -236,6 +238,8 @@ console.log("*** Fin del ciclo while ***")
 ---
 
 ## 1.2 - CICLO DO WHILE
+
+- [02-ciclos-do-while.js](https://github.com/eugenia1984/UTN-FRSR-Programacion/blob/main/2do_anio_1er_semestre/laboratorioIII/tecnicatura_3_js/leccion1/02-ciclos-do-while.js):
 
 ```JavaScript
 /**** DO WHILE ****/
@@ -254,6 +258,8 @@ console.log("*** Fin del ciclo Do While ***")
 
 ## 1.3 - CICLO FOR
 
+- [03-ciclos-for.js](https://github.com/eugenia1984/UTN-FRSR-Programacion/blob/main/2do_anio_1er_semestre/laboratorioIII/tecnicatura_3_js/leccion1/03-ciclos-for.js):
+
 ```JavaScript
 // inicializador: let i = o
 // condicion a verificar: i < 3
@@ -270,6 +276,7 @@ console.log("*** Fin del ciclo for ***")
 
 ## 1.4 - PALABRA RESERVADA BREAK
 
+- [04-palabra-reservada-break.js](https://github.com/eugenia1984/UTN-FRSR-Programacion/blob/main/2do_anio_1er_semestre/laboratorioIII/tecnicatura_3_js/leccion1/04-palabra-reservada-break.js):
 
 ```JavaScript
 for (let contando = 0; contando <= 10; contando++) {
@@ -284,6 +291,8 @@ console.log("*** Termina el ciclo al encontrar el primer número par ***")
 ---
 
 ## 1.5 - PALABRA RESERVADA CONTINUE
+
+- [05-palabra-reserva-continue.js](https://github.com/eugenia1984/UTN-FRSR-Programacion/blob/main/2do_anio_1er_semestre/laboratorioIII/tecnicatura_3_js/leccion1/05-palabra-reserva-continue.js):
 
 ```JavaScript
 for (let contando = 0; contando <= 10; contando++) {
@@ -301,6 +310,7 @@ console.log("*** Termina el ciclo ***")
 
 ## 1.6 - ETIQUETAS LABELS
 
+- [06-etiquetas-labels.js](https://github.com/eugenia1984/UTN-FRSR-Programacion/blob/main/2do_anio_1er_semestre/laboratorioIII/tecnicatura_3_js/leccion1/06-etiquetas-labels.js)
 ```JavaScript
 /*** Etquetas labels ***/
 inicio: for (let contando = 0; contando <= 10; contando++) {
