@@ -270,6 +270,17 @@ console.log("*** Fin del ciclo for ***")
 
 ## 1.4 - PALABRA RESERVADA BREAK
 
+
+```JavaScript
+for (let contando = 0; contando <= 10; contando++) {
+    if(contando % 2 === 0 ) {
+      console.log("Número par: ", contando)
+      break; // muestra solo el primer numero par y sale
+    }
+}
+console.log("*** Termina el ciclo al encontrar el primer número par ***")
+```
+
 ---
 
 ## 1.5 - PALABRA RESERVADA CONTINUE
