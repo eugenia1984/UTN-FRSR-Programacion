@@ -285,6 +285,18 @@ console.log("*** Termina el ciclo al encontrar el primer número par ***")
 
 ## 1.5 - PALABRA RESERVADA CONTINUE
 
+```JavaScript
+for (let contando = 0; contando <= 10; contando++) {
+  if(contando % 2 !== 0 ) {
+    continue // continua a la sigueinte iteracion
+  }
+  console.log(contando)
+}
+
+// solo imprime los números pares
+console.log("*** Termina el ciclo ***")
+```
+
 ---
 
 ## 1.6 - ETIQUETAS LABELS
