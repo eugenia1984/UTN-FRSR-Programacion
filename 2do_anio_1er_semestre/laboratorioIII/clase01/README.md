@@ -58,6 +58,8 @@ Seguimos...
 
 ## 1.3 - Procesar clases de exception más específicas
 
+-**manejo_excepciones_especificas.py**:
+
 ```Pyhton
 resultado = None
 a = 10
@@ -90,6 +92,28 @@ Si **a** tiene valor **10** y **b** tiene el valor **2** -> el **Resultado** es 
 
 ## 1.4 - Más de procedimientos de excepciones
 
+
+Hacemos que los valores de las variables la ingrese el usuario:
+
+-**mas_excepciones.py**:
+
+```Python
+resultado = None # necesitamos que sea una variable global
+
+try:
+    a = int(input("Ingresa el primer número: "))
+    b = int(input("Ingresa el segundo número: "))
+    resultado = a/b
+except TypeError as e:
+    print(f"TypeError - Ocurrio un error: {e}")    
+except ZeroDivisionError as e:
+    print(f"ZeroDivisionError - Ocurrio un error: {e}") 
+except Exception as e:
+    print(f"Exception - Ocurrio un error: {e}")
+
+print(f"El resultado es: {resultado}")  
+print("Seguimos...")  
+```
 ---
 
 ## 1.5 - Bloques else y finally al manejar excepciones
