@@ -214,3 +214,43 @@ Seguimos...
 ```
 
 ---
+---
+
+# :star: LABORATORIO III - CLASE 01 - 03 ABRIL : CICLOS (JAVASCRIPT)
+
+---
+
+## 1.1 - CICLO WHILE
+
+```JavaScript
+let contador = 0
+
+while(contador < 3) {
+  console.log(contador)
+  contador++
+}
+
+console.log("*** Fin del ciclo while ***")
+```
+
+---
+
+## 1.2 - CICLO DO WHILE
+
+---
+
+## 1.3 - CICLO FOR
+
+---
+
+## 1.4 - PALABRA RESERVADA BREAK
+
+---
+
+## 1.5 - PALABRA RESERVADA CONTINUE
+
+---
+
+## 1.6 - ETIQUETAS LABELS
+
+---
