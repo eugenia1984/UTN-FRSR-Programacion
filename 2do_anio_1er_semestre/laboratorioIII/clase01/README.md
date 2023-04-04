@@ -29,6 +29,31 @@ Ocurrio un error: division by zero
 
 ## 1.2 -  Procesamiento de excepciones
 
+-**manejo_excepciones.py**:
+
+```Python
+resultado = None
+a = 10
+b = 0
+
+try:
+    resultado = a/b
+except Exception as e:
+    print(f"Ocurrio un error: {e}")
+
+print(f"El resultado es: {resultado}")  
+print("Seguimos...")  
+```
+
+```
+Ocurrio un error: division by zero
+El resultado es: None
+Seguimos...
+```
+
+
+:computer: [https://www.w3schools.com/python/python_try_except.asp](https://www.w3schools.com/python/python_try_except.asp)
+
 ---
 
 ## 1.3 - Procesar clases de exception más específicas
