@@ -44,7 +44,7 @@ Voy a crear un repositorio por cada materia cursada, en esta lista encontrarán 
 | [**2do Año - 1er Semestre**](https://github.com/eugenia1984/UTN-FRSR-Programacion/tree/main/2do_anio_1er_semestre) |
 | ---------------------- |
 | Programación 3 |
-| Organización Contable de la Empresa |
+| Organización Contable de la Empresa / Ingles |
 | Organización Empresarial |
 | Elementos de la investigación Operativa |
 | [Laboratorio de Computación 3](https://github.com/eugenia1984/UTN-FRSR-Programacion/tree/main/2do_anio_1er_semestre/laboratorioIII) |
@@ -138,7 +138,7 @@ I'm going to create a repository for each subject studied, in this list you will
 | [**2nd Year - 1st Semester**](https://github.com/eugenia1984/UTN-FRSR-Programacion/tree/main/2do_anio_1er_semestre) |
 | ----------------------- |
 | Programming 3 |
-| Accounting Organization of the Company |
+| Accounting Organization of the Company / English III |
 | Business organization |
 | Elements of Operational Research |
 | [Computer Laboratory 3](https://github.com/eugenia1984/UTN-FRSR-Programacion/tree/main/2do_anio_1er_semestre/laboratorioIII) |
