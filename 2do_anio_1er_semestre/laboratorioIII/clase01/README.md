@@ -118,6 +118,48 @@ print("Seguimos...")
 
 ## 1.5 - Bloques else y finally al manejar excepciones
 
+
+**try**
+
+**except** -> es como el **catch**, para el manejo de errores
+
+**else*+ -> se ejecuta si no hay errores. Es opcional.
+
+**finally** -> se ejecuta siempre
+
+- **try_except_else_finally.py**:
+- 
+```Python
+resultado = None # necesitamos que sea una variable global
+
+try:
+    a = int(input("Ingresa el primer número: "))
+    b = int(input("Ingresa el segundo número: "))
+    resultado = a/b
+except TypeError as e:
+    print(f"TypeError - Ocurrio un error: {e}")    
+except ZeroDivisionError as e:
+    print(f"ZeroDivisionError - Ocurrio un error: {e}") 
+except Exception as e:
+    print(f"Exception - Ocurrio un error: {e}")
+else:
+    print("*** No hay error ***")
+finally:
+    print("Siempre se ejecuta")        
+
+print(f"El resultado es: {resultado}")  
+print("Seguimos...")  
+```
+
+```
+Ingresa el primer número: 8
+Ingresa el segundo número: 2
+*** No hay error ***
+Siempre se ejecuta
+El resultado es: 4.0
+Seguimos...
+```
+
 ---
 
 ## 1.6 - Creación de clases de Exception personalizadas
