@@ -28,7 +28,7 @@ Voy a crear un repositorio por cada materia cursada, en esta lista encontrarán 
 
 | [**1er Año - 2do Semestre**](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester) |
 | ---------------------- |
-| [Programación 2](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/tree/main/programacion2 |
+| [Programación 2](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/tree/main/programacion2) |
 | [Arquitectura y Sistemas Operativos](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/tree/main/arquitectura_sistemas_operativos) |
 | [Estadística](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/tree/main/estadistica) |
 | [Inglés II](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/tree/main/ingles2) |
