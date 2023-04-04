@@ -19,13 +19,13 @@
 
 - MA 23 MAY: Theory - Practice: simple past
 
-- JU 25 MAY: **Holliday**
+- JU 25 MAY: **Holiday**
 
 - MA 06 JUN: Theory: 
 
 - JU 08 JUN: Practise
 
-- MA 20 JUN: **Holliday**
+- MA 20 JUN: **Holiday**
 
 - JU 22 JUN: Practice: job interview draft
 
