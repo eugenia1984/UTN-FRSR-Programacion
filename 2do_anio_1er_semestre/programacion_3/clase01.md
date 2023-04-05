@@ -264,3 +264,7 @@ public class Orden {
 ```
 
 ---
+
+## 1.6 - Comenzamos las pruebas creando objetos de cada clase y las agregamos a la lista de Orden: Parte 1, 2 y 3
+
+---
