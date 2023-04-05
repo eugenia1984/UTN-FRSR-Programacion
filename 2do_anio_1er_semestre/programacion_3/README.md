@@ -4,4 +4,4 @@
 
 ## :book: Clases
 
-- Clase 1: 05APR: Diagrama de Clase UML - Creamos la clase hija Raton y la clase Teclado - Creamos la clase Monitor - Creamos la clase Computadora - Creamos la clase Orden: Parte 1 y 2. 
+- [Clase 1 - 05APR](https://github.com/eugenia1984/UTN-FRSR-Programacion/blob/main/2do_anio_1er_semestre/programacion_3/clase01.md): Diagrama de Clase UML - Creamos la clase hija Raton y la clase Teclado - Creamos la clase Monitor - Creamos la clase Computadora - Creamos la clase Orden: Parte 1 y 2. 
