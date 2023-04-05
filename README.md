@@ -43,7 +43,7 @@ Voy a crear un repositorio por cada materia cursada, en esta lista encontrarán 
 
 | [**2do Año - 1er Semestre**](https://github.com/eugenia1984/UTN-FRSR-Programacion/tree/main/2do_anio_1er_semestre) |
 | ---------------------- |
-| Programación 3 |
+| [Programación 3](https://github.com/eugenia1984/UTN-FRSR-Programacion/tree/main/2do_anio_1er_semestre/programacion_3) |
 | [Organización Contable de la Empresa](https://github.com/eugenia1984/UTN-FRSR-Programacion/tree/main/2do_anio_1er_semestre/organizacion_contable) / [Ingles III](https://github.com/eugenia1984/UTN-FRSR-Programacion/tree/main/2do_anio_1er_semestre/ingles_3) |
 | Organización Empresarial |
 | Elementos de la investigación Operativa |
@@ -137,7 +137,7 @@ I'm going to create a repository for each subject studied, in this list you will
 
 | [**2nd Year - 1st Semester**](https://github.com/eugenia1984/UTN-FRSR-Programacion/tree/main/2do_anio_1er_semestre) |
 | ----------------------- |
-| Programming 3 |
+| [Programming 3](https://github.com/eugenia1984/UTN-FRSR-Programacion/tree/main/2do_anio_1er_semestre/programacion_3) |
 | [Accounting Organization of the Company](https://github.com/eugenia1984/UTN-FRSR-Programacion/tree/main/2do_anio_1er_semestre/organizacion_contable) / [English III](https://github.com/eugenia1984/UTN-FRSR-Programacion/tree/main/2do_anio_1er_semestre/ingles_3) |
 | Business organization |
 | Elements of Operational Research |
