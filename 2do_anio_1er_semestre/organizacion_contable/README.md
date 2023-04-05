@@ -10,4 +10,6 @@ La Empresa. Empresa en marcha. Empresa y Patrimonio. Concepto de ejercicio. Unid
 
 [Conceptos Patrimoniales](https://github.com/eugenia1984/UTN-FRSR-Programacion/blob/main/2do_anio_1er_semestre/organizacion_contable/Conceptos%20Patrimoniales.pdf)
 
+[Contabilidad Básica](https://github.com/eugenia1984/UTN-FRSR-Programacion/blob/main/2do_anio_1er_semestre/organizacion_contable/Contabilidad%20Basica.pdf)
+
 ---
