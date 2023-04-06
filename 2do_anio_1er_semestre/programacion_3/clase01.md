@@ -311,4 +311,46 @@ public class Orden {
 
 OJO al querer crear los objetos de las clases Teclado y Raton el profesor en el constructor solo pasa coo parametros el tipoEntrada y marca, pero en los constructores que hizo tenia el tercer parametro el idRaton y idTeclado, lo cual esta redundante si los quiere hacer auto incrementales, asi que hago un nuevo contructor para cada uno de los objetos que tenga solo los dos parametros y que el id sea auto incremental.
 
+```Java
+package mundopc;
+
+import modelos.*;
+
+public class MundoPC {
+    public static void main(String[] args) {
+        // Creo el primer objeto para luego agregar a al orden
+        Monitor monitorHP = new Monitor("HP", 13);
+        Teclado tecladoHP = new Teclado("Bluetooth", "HP");
+        Raton ratonHP = new Raton("BLoetooth", "HP");
+        Computadora computadoraHP = new Computadora("ComputadoraHP", monitorHP, tecladoHP, ratonHP);
+        
+        // Creo una segunda computadora con sus perifericos para luego agregar a la ordem
+        Monitor monitorGamer = new Monitor("Gamer", 32);
+        Teclado tecladoGamer = new Teclado("Bluetooth", "Gamer");
+        Raton ratonGamer = new Raton("BLoetooth", "Gamer");
+        Computadora computadoraGamer = new Computadora("ComputadoraGamer", monitorGamer, tecladoGamer, ratonGamer);
+   
+        // Creamos la orden y le agregamos las computadoras creadas
+        Orden orden1 = new Orden(); // iniczializamos el array vacio
+        orden1.agregarComputadora(computadoraHP);
+        orden1.agregarComputadora(computadoraGamer);
+        // Muestro la orden !
+        orden1.mostrarOrden();
+    }
+}
+```
+
+
+Y si corro la clase:
+
+OUTPUT:
+```
+run:
+Orden #: 1
+Computadoras de la orden #: 1
+Computadora { idComputadora = 1, nombre = ComputadoraHP, monitor = Monitor { idMonitor = 1, marca = HP, tamanio = 13.0}, teclado = Teclado  idTeclado = 1, DispositivoEntrada { tipoEntrada = Bluetooth, marca = HP}}, raton=Raton { idRaton = 1, DispositivoEntrada { tipoEntrada = BLoetooth, marca = HP}}}
+Computadora { idComputadora = 2, nombre = ComputadoraGamer, monitor = Monitor { idMonitor = 2, marca = Gamer, tamanio = 32.0}, teclado = Teclado  idTeclado = 2, DispositivoEntrada { tipoEntrada = Bluetooth, marca = Gamer}}, raton=Raton { idRaton = 2, DispositivoEntrada { tipoEntrada = BLoetooth, marca = Gamer}}}
+BUILD SUCCESSFUL (total time: 0 seconds)
+```
+
 ---
