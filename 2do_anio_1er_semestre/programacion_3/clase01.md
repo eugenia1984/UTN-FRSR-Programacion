@@ -308,4 +308,7 @@ public class Orden {
 
 ## 1.6 - Comenzamos las pruebas creando objetos de cada clase y las agregamos a la lista de Orden: Parte 1, 2 y 3
 
+
+OJO al querer crear los objetos de las clases Teclado y Raton el profesor en el constructor solo pasa coo parametros el tipoEntrada y marca, pero en los constructores que hizo tenia el tercer parametro el idRaton y idTeclado, lo cual esta redundante si los quiere hacer auto incrementales, asi que hago un nuevo contructor para cada uno de los objetos que tenga solo los dos parametros y que el id sea auto incremental.
+
 ---
