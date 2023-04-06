@@ -353,4 +353,46 @@ Computadora { idComputadora = 2, nombre = ComputadoraGamer, monitor = Monitor { 
 BUILD SUCCESSFUL (total time: 0 seconds)
 ```
 
+- Agrego una nueva computadora para tener una segunda orden con una sola comoutadora:
+
+```Java
+ // Creo otra nueva computadora para mostrar en nueva orden
+        Monitor monitorDell = new Monitor("Dell", 17);
+        Teclado tecladoDell = new Teclado("Bluetooth", "Dell");
+        Raton ratonDell = new Raton("Bluetooth", "Gamer");
+        Computadora computadoraDell = new Computadora("ComputadoraDell", monitorDell, tecladoDell, ratonDell);
+        Orden orden2 = new Orden();
+        orden2.agregarComputadora(computadoraDell);
+        orden2.mostrarOrden();
+```
+
+En el output:
+
+```
+Computadoras de la orden #: 2
+Computadora { idComputadora = 3, nombre = ComputadoraDell, monitor = Monitor { idMonitor = 3, marca = Dell, tamanio = 17.0}, teclado = Teclado  idTeclado = 3, DispositivoEntrada { tipoEntrada = Bluetooth, marca = Dell}}, raton=Raton { idRaton = 3, DispositivoEntrada { tipoEntrada = Bluetooth, marca = Gamer}}}
+BUILD SUCCESSFUL (total time: 0 seconds)
+```
+
+- Tareas: Crear más objetos y agregarlos a la lista, probar argregando más de 10 computadoras a ver si funciona bien lo que hicimos para que la orden tenga como máximo 10 computadoras, no más.
+
+En lo orden2 agrego 11 computadoras:
+
+OUTPUT:
+
+```
+Has superado el límite: 10
+Orden #: 2
+Computadoras de la orden #: 2
+Computadora { idComputadora = 3, nombre = ComputadoraDell, monitor = Monitor { idMonitor = 3, marca = Dell, tamanio = 17.0}, teclado = Teclado  idTeclado = 3, DispositivoEntrada { tipoEntrada = Bluetooth, marca = Dell}}, raton=Raton { idRaton = 3, DispositivoEntrada { tipoEntrada = Bluetooth, marca = Gamer}}}
+Computadora { idComputadora = 1, nombre = ComputadoraHP, monitor = Monitor { idMonitor = 1, marca = HP, tamanio = 13.0}, teclado = Teclado  idTeclado = 1, DispositivoEntrada { tipoEntrada = Bluetooth, marca = HP}}, raton=Raton { idRaton = 1, DispositivoEntrada { tipoEntrada = Bluetooth, marca = HP}}}
+Computadora { idComputadora = 1, nombre = ComputadoraHP, monitor = Monitor { idMonitor = 1, marca = HP, tamanio = 13.0}, teclado = Teclado  idTeclado = 1, DispositivoEntrada { tipoEntrada = Bluetooth, marca = HP}}, raton=Raton { idRaton = 1, DispositivoEntrada { tipoEntrada = Bluetooth, marca = HP}}}
+Computadora { idComputadora = 1, nombre = ComputadoraHP, monitor = Monitor { idMonitor = 1, marca = HP, tamanio = 13.0}, teclado = Teclado  idTeclado = 1, DispositivoEntrada { tipoEntrada = Bluetooth, marca = HP}}, raton=Raton { idRaton = 1, DispositivoEntrada { tipoEntrada = Bluetooth, marca = HP}}}
+Computadora { idComputadora = 1, nombre = ComputadoraHP, monitor = Monitor { idMonitor = 1, marca = HP, tamanio = 13.0}, teclado = Teclado  idTeclado = 1, DispositivoEntrada { tipoEntrada = Bluetooth, marca = HP}}, raton=Raton { idRaton = 1, DispositivoEntrada { tipoEntrada = Bluetooth, marca = HP}}}
+Computadora { idComputadora = 1, nombre = ComputadoraHP, monitor = Monitor { idMonitor = 1, marca = HP, tamanio = 13.0}, teclado = Teclado  idTeclado = 1, DispositivoEntrada { tipoEntrada = Bluetooth, marca = HP}}, raton=Raton { idRaton = 1, DispositivoEntrada { tipoEntrada = Bluetooth, marca = HP}}}
+Computadora { idComputadora = 1, nombre = ComputadoraHP, monitor = Monitor { idMonitor = 1, marca = HP, tamanio = 13.0}, teclado = Teclado  idTeclado = 1, DispositivoEntrada { tipoEntrada = Bluetooth, marca = HP}}, raton=Raton { idRaton = 1, DispositivoEntrada { tipoEntrada = Bluetooth, marca = HP}}}
+Computadora { idComputadora = 1, nombre = ComputadoraHP, monitor = Monitor { idMonitor = 1, marca = HP, tamanio = 13.0}, teclado = Teclado  idTeclado = 1, DispositivoEntrada { tipoEntrada = Bluetooth, marca = HP}}, raton=Raton { idRaton = 1, DispositivoEntrada { tipoEntrada = Bluetooth, marca = HP}}}
+Computadora { idComputadora = 1, nombre = ComputadoraHP, monitor = Monitor { idMonitor = 1, marca = HP, tamanio = 13.0}, teclado = Teclado  idTeclado = 1, DispositivoEntrada { tipoEntrada = Bluetooth, marca = HP}}, raton=Raton { idRaton = 1, DispositivoEntrada { tipoEntrada = Bluetooth, marca = HP}}}
+Computadora { idComputadora = 1, nombre = ComputadoraHP, monitor = Monitor { idMonitor = 1, marca = HP, tamanio = 13.0}, teclado = Teclado  idTeclado = 1, DispositivoEntrada { tipoEntrada = Bluetooth, marca = HP}}, raton=Raton { idRaton = 1, DispositivoEntrada { tipoEntrada = Bluetooth, marca = HP}}}
+```
 ---
