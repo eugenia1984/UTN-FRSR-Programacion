@@ -10,6 +10,6 @@
 
 :computer: -> [ejercicios de cilos en JavaScript](https://github.com/eugenia1984/UTN-FRSR-Programacion/tree/main/2do_anio_1er_semestre/laboratorioIII/tecnicatura_3_js/leccion1)
 
-- Clase 2: 10 Abril: Manejo de archivos(Python) - (JavaScript)
+- [**Clase 2**](https://github.com/eugenia1984/UTN-FRSR-Programacion/tree/main/2do_anio_1er_semestre/laboratorioIII/clase02): 10 Abril: Manejo de archivos(Python) - (JavaScript)
 
 ---
