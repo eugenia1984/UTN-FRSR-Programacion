@@ -48,6 +48,12 @@ Con el método **.write** agregamos texto en el archivo:
 ![image](https://user-images.githubusercontent.com/72580574/231020811-1035a461-8401-4450-b2fb-032ea79b0d21.png)
 
 
+Agregamos más texto, en este caso son acentos y no se visualizan bien en el archivo:
+
+![image](https://user-images.githubusercontent.com/72580574/231021193-e3d5e58b-46db-48ea-b41e-1c5168c11a9b.png)
+
+
+
 ## :star: 1.3 - Lectura de archivos
 
 ## :star: 1.4 - Más formas de trabajar con archivos
