@@ -52,6 +52,10 @@ Agregamos más texto, en este caso son acentos y no se visualizan bien en el arc
 
 ![image](https://user-images.githubusercontent.com/72580574/231021193-e3d5e58b-46db-48ea-b41e-1c5168c11a9b.png)
 
+Agregando: `encoding= 'utf8` ` lo solucionamos:
+
+![image](https://user-images.githubusercontent.com/72580574/231021416-333d9e66-b9ff-4da0-b949-ebc48d174adb.png)
+
 
 
 ## :star: 1.3 - Lectura de archivos
