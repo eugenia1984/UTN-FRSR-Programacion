@@ -23,6 +23,26 @@ En esta clase vamos a ver cómo trabajar con archivos de tipo texto.
 
 ## :star: 1.1 - Introducción a lo que es el manejo de archivos
 
+```Python
+# Declaramos una variable
+# Usamos el método open para abrir el archivo
+# 'prueba.txt' para crear el archivo prueba.txt
+# w-> write
+try: 
+  archivo = open('prueba.txt', 'w') 
+except Exception as e:
+  print(e)
+finally: #siempre se ejecuta
+  archivo.close() #para cerrar el archivo 
+```
+
+Al ejecutar manejo_archivo.py se crea el archivo .txt:
+
+![image](https://user-images.githubusercontent.com/72580574/231020336-190d9193-ca60-4395-9575-e4e0cd8354ea.png)
+
+
+
+
 ## :star: 1.2 - Especificar el juego de caracteres de un archivo de texto
 
 ## :star: 1.3 - Lectura de archivos
