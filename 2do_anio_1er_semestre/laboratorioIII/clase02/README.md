@@ -41,9 +41,12 @@ Al ejecutar manejo_archivo.py se crea el archivo .txt:
 ![image](https://user-images.githubusercontent.com/72580574/231020336-190d9193-ca60-4395-9575-e4e0cd8354ea.png)
 
 
-
-
 ## :star: 1.2 - Especificar el juego de caracteres de un archivo de texto
+
+Con el método **.write** agregamos texto en el archivo:
+
+![image](https://user-images.githubusercontent.com/72580574/231020811-1035a461-8401-4450-b2fb-032ea79b0d21.png)
+
 
 ## :star: 1.3 - Lectura de archivos
 
