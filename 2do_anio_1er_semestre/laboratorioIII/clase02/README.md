@@ -134,6 +134,16 @@ with ManejoArchivos('prueba.txt') as archivo5:
 
 ---
 
-# :stars:  JavaScript
+# :stars:  JavaScript - Arrays
+
+## :book: Temas:
+
+- 1.1 - Arreglos en JavaScript
+
+- 1.2 Recorremos los elementos de un arreglo
+
+- 1.3 Modificamos los elementos
+
+- 1.4 Preguntar si es un Array
 
 ---
