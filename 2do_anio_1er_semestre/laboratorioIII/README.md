@@ -14,4 +14,6 @@
 
 :tv: -> [Ejercicios de archivos con Python](https://github.com/eugenia1984/UTN-FRSR-Programacion/tree/main/2do_anio_1er_semestre/laboratorioIII/archivos-leccion2)
 
+:tv: -> [Ejercicios de arrays de JavaScript](https://github.com/eugenia1984/UTN-FRSR-Programacion/tree/main/2do_anio_1er_semestre/laboratorioIII/tecnicatura_3_js-leccion2-arrays)
+
 ---
