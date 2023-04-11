@@ -84,6 +84,16 @@ Si utilizo **.readline()** me lee la primer linea
 ![image](https://user-images.githubusercontent.com/72580574/231023148-c4635cc5-3aaf-425b-8156-390e25021cfd.png)
 
 
+- Como el archivo a leer esta en la misma carpeta, no necesitamos  especificar la ruta, peor si estuviera en otra carpeta si debemos especificarlo. En vez de usar **'prueba.txt'**:
+
+![image](https://user-images.githubusercontent.com/72580574/231023505-c2678e19-5b54-44af-ba7f-4725b85f2423.png)
+
+
+![image](https://user-images.githubusercontent.com/72580574/231023577-991c5067-828c-4b1b-a66f-6efabd342e15.png)
+
+
+
+
 ## :star: 1.4 - Más formas de trabajar con archivos
 
 ---
