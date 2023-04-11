@@ -152,6 +152,17 @@ Por consola: `[ 'Ferrari', 'Audi', 'Renault' ]`
 
 - 1.2 Recorremos los elementos de un arreglo
 
+```JavaScript
+/*** Para ver los elementos***/
+// el primer elemento es de indiice 0
+console.log(`Primer elemento del array: ${cars[0]}`)
+
+// recorrerlo con un for
+for(let i = 0; i < cars.length; i++) {
+  console.log(`Elemento ${i+1}: ${cars[i]}`)
+}
+```
+
 - 1.3 Modificamos los elementos
 
 - 1.4 Preguntar si es un Array
