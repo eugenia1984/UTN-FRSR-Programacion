@@ -7,7 +7,7 @@ In this Project you will learn to take part in a job interview: talking about jo
 ## Let 's start!
 
 
-## :BOOK: Reading comprehension
+## :book: Reading comprehension
 
 1. **Pre-reading Activity**:
  
@@ -53,5 +53,93 @@ C) Answer the questions below.
 
 - 5 - Does the company seem to be innovative and forward-thinking?
 
+
+---
+
+## :star: Presenting the model
+
+Let’s watch an example of a job  interview. 
+
+### Sample 1 
+
+Watch the following [video](https://www.youtube.com/watch?v=0k0Uc9uAJwk) and choose the correct answer to the questions below.
+
+1. What is the name of the person being interviewed?
+
+a) Daniel
+
+b) Simon
+
+c) Sunshine
+
+d) Oxford
+
+2. What is Simon's current job?
+
+a) Sales manager
+
+b) Office manager
+
+c) CEO
+
+d) Accountant
+
+3. Why does Simon want to leave his current job?
+
+a) He wants a pay raise
+
+b) He wants a promotion
+
+c) He wants a better opportunity
+
+d) He doesn't like his boss
+
+4. What are Simon's strengths?
+
+a) Loyal, hardworking, and punctual
+
+b) Creative, artistic, and musical
+
+c) Athletic, outgoing, and friendly
+
+d) Intelligent, curious, and ambitious
+
+5. What is Simon's biggest weakness?
+
+a) He is emotional
+
+b) He is lazy
+
+c) He is forgetful
+
+d) He is disorganized
+
+6. What benefits does the company offer?
+
+a) Free medical insurance and a free tour for two people
+
+b) Free transportation and a free lunch
+
+c) Free gym membership and a free laptop
+
+d) Free coffee and a free phone
+
+---
+
+As you can appreciate, to introduce yourself talk about you in a job interview, you need to manage different topics: 
+
+● verb to be 
+
+● specific vocabulary related to jobs in IT, duties and job recruitment
+
+● adjectives describing personal traits.
+
+● skills and the use of the gerund (-ing form)
+
+● simple present
+
+● simple past
+
+We will go over them during this workshop. Are you ready?
 
 ---
