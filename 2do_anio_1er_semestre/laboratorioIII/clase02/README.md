@@ -60,7 +60,19 @@ Agregando: `encoding= 'utf8`  lo solucionamos:
 
 ## :star: 1.3 - Lectura de archivos
 
-Con **w**(WRITE escribiamos en el archivo, ahora con **r** leemos(READ)
+Con **w**(WRITE) escribiamos en el archivo
+
+Con **r**(READ) leemos el archivo
+
+Con **a**(APPEND) apendeamos
+
+Con **x** se crea la excepción si todavía no existe el archivo
+
+Con **t**(TEXT) paraa texto
+
+Con **b**(BINARY) para archivo binario
+
+Con **w+**(READ and WRITE) para leer y escribir
 
 ![image](https://user-images.githubusercontent.com/72580574/231022014-ce6c34d0-d85b-4194-abef-118655b0e049.png)
 
