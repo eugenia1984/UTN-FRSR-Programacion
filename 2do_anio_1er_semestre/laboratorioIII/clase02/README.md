@@ -184,4 +184,12 @@ console.log(cars)
 
 - 1.4 Preguntar si es un Array
 
+```JavaScript
+/*** Preguntar si es un array ***/
+console.log(Array.isArray(cars)) // devuelve boolean
+
+// Pregunta si la varaible es una instancia de la clase Array
+console.log(cars instanceof Array)
+```
+
 ---
