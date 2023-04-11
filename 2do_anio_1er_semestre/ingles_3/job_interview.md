@@ -4,10 +4,12 @@ In this Project you will learn to take part in a job interview: talking about jo
 
 ---
 
-## Let 's start!
+## :star: Let 's start!
 
 
 ## :book: Reading comprehension
+
+---
 
 1. **Pre-reading Activity**:
  
@@ -19,13 +21,15 @@ How did you get your job? I signed up for a react school and was selected for th
 
 Do you know what an ad/ advert is? It's an advertisment, an advert, a commercial.
 
+---
+
 2. **While reading Activity**:
 
 
 Attention all tech-savvy individuals! Are you searching for a rewarding career in the IT industry? Our company is hiring skilled and qualified professionals to join our dynamic team. We are looking for individuals who possess expertise in coding, programming, and networking. Along with technical skills, we value qualities such as adaptability, problemsolving, and communication. If you are passionate about technology and ready to excel in your career, apply now and become a part of our 
 innovative company. Don't miss out on this exciting opportunity to pursue your dreams in the IT field
 
-A) Read the ad and find:
+**A)** Read the ad and find:
 
 o four adjectives
 
@@ -39,9 +43,11 @@ o a conditional sentence
 
 o an imperative sentence
 
-B)  Underline and find the meaning of the words you don’t kno
 
-C) Answer the questions below.
+**B)**  Underline and find the meaning of the words you don’t kno
+
+
+**C)** Answer the questions below.
 
 - 1 - What kind of professionals is the company looking for?
 
@@ -64,6 +70,8 @@ Let’s watch an example of a job  interview.
 
 Watch the following [video](https://www.youtube.com/watch?v=0k0Uc9uAJwk) and choose the correct answer to the questions below.
 
+---
+
 1. What is the name of the person being interviewed?
 
 a) Daniel
@@ -73,6 +81,8 @@ b) Simon
 c) Sunshine
 
 d) Oxford
+
+---
 
 2. What is Simon's current job?
 
@@ -84,6 +94,8 @@ c) CEO
 
 d) Accountant
 
+---
+
 3. Why does Simon want to leave his current job?
 
 a) He wants a pay raise
@@ -93,6 +105,8 @@ b) He wants a promotion
 c) He wants a better opportunity
 
 d) He doesn't like his boss
+
+---
 
 4. What are Simon's strengths?
 
@@ -104,6 +118,8 @@ c) Athletic, outgoing, and friendly
 
 d) Intelligent, curious, and ambitious
 
+---
+
 5. What is Simon's biggest weakness?
 
 a) He is emotional
@@ -113,6 +129,8 @@ b) He is lazy
 c) He is forgetful
 
 d) He is disorganized
+
+---
 
 6. What benefits does the company offer?
 
