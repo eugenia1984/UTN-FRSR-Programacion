@@ -165,6 +165,23 @@ for(let i = 0; i < cars.length; i++) {
 
 - 1.3 Modificamos los elementos
 
+```JavaScript
+/** Modificar los elementos **/
+cars[1] = 'Volvo'
+console.log(cars[1])
+
+// agregar nuevos valores al array con PUSH
+cars.push('Toyota')
+console.log(`cars: ${cars}`)
+
+// otro modo con lenght
+cars[cars.length] = 'Porche'
+console.log(cars)
+
+// Otra forma, esta NUNCA USARLA!!!!
+// autos[6] = 'Porche'
+```
+
 - 1.4 Preguntar si es un Array
 
 ---
