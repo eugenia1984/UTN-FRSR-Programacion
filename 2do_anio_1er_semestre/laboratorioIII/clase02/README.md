@@ -123,6 +123,15 @@ class ManejoArchivos:
             self.nombre.close() #lo cerramo
 ```
 
+- La uso:
+
+```Python
+from ManejoArchivos import ManejoArchivos
+# with abre y cierra el archivo, es un context manager
+with ManejoArchivos('prueba.txt') as archivo5:
+     print(archivo5.read()) 
+```    
+
 ---
 
 ## JavaScript
