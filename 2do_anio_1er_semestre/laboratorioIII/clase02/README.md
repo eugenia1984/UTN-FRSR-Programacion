@@ -140,6 +140,16 @@ with ManejoArchivos('prueba.txt') as archivo5:
 
 - 1.1 - Arreglos en JavaScript
 
+```JavaScript
+// Totalmente DEPRECATED, NO USAR
+let autos = new Array('Ferrari', 'Audi', 'Renault')
+// La forma que se usa ahora
+const cars = ['Ferrari', 'Audi', 'Renault']
+console.log(cars)
+```
+
+Por consola: `[ 'Ferrari', 'Audi', 'Renault' ]`
+
 - 1.2 Recorremos los elementos de un arreglo
 
 - 1.3 Modificamos los elementos
