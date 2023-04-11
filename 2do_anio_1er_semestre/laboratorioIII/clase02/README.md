@@ -107,6 +107,22 @@ Utiliza los métodos: `__enter__` para abrir y `__exit__` para cerrar
 ![image](https://user-images.githubusercontent.com/72580574/231024664-703d66cc-2b42-473b-9d07-da549af53175.png)
 
 
+- Creo la clase **ManejoArchivo** para imitar los metodos enter y exit:
+
+```Python
+class ManejoArchivos:
+    def __init__(self, nombre):
+        self.nombre = nombre
+    def __enter__(self):
+        print('Obtenemos el recurso'.center(50, '-'))
+        self.nombre = open(self.nombre, 'r', encoding='utf8')
+        return self.nombre
+    def __exit__(self, exc_type, exc_val, exc_tab):
+        print('Cerramos el recurso'.center(50, '-'))
+        if self.nombre:
+            self.nombre.close() #lo cerramo
+```
+
 ---
 
 ## JavaScript
