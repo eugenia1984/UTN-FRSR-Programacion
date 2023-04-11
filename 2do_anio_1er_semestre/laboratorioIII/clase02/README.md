@@ -2,7 +2,7 @@
 
 ---
 
-## Python - Manejo de archivos
+# :stars:  Python - Manejo de archivos
 
 ## :book: Temas:
 
@@ -134,6 +134,6 @@ with ManejoArchivos('prueba.txt') as archivo5:
 
 ---
 
-## JavaScript
+# :stars:  JavaScript
 
 ---
