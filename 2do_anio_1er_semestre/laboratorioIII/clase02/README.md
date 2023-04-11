@@ -96,6 +96,17 @@ Si utilizo **.readline()** me lee la primer linea
 
 ## :star: 1.4 - Más formas de trabajar con archivos
 
+- Con **a** para anexar información.
+
+![image](https://user-images.githubusercontent.com/72580574/231024026-69845070-4290-4191-9e9a-d9805df327e3.png)
+
+Con **with** se abre y cierra el archiv, no es necesario close().
+
+Utiliza los métodos: `__enter__` para abrir y `__exit__` para cerrar
+
+![image](https://user-images.githubusercontent.com/72580574/231024664-703d66cc-2b42-473b-9d07-da549af53175.png)
+
+
 ---
 
 ## JavaScript
