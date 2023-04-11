@@ -77,7 +77,9 @@ Con **w+**(READ and WRITE) para leer y escribir
 ![image](https://user-images.githubusercontent.com/72580574/231022014-ce6c34d0-d85b-4194-abef-118655b0e049.png)
 
 
-Si dentro de **read()** indico un numero, esa es la cantidad de caracteres qeu va a leer
+Si dentro de **read()** indico un numero, esa es la cantidad de caracteres que va a leer.
+
+Si utilizo **.readline()** me lee la primer linea
 
 ![image](https://user-images.githubusercontent.com/72580574/231023148-c4635cc5-3aaf-425b-8156-390e25021cfd.png)
 
