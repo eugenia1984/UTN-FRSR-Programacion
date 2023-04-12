@@ -82,6 +82,8 @@ c) Sunshine
 
 d) Oxford
 
+-> Answer: b) Simon
+
 ---
 
 2. What is Simon's current job?
@@ -93,6 +95,8 @@ b) Office manager
 c) CEO
 
 d) Accountant
+
+-> Answer: a) Sales manager
 
 ---
 
@@ -106,6 +110,8 @@ c) He wants a better opportunity
 
 d) He doesn't like his boss
 
+-> Answer: c) He wants a better opportunity
+
 ---
 
 4. What are Simon's strengths?
@@ -117,6 +123,8 @@ b) Creative, artistic, and musical
 c) Athletic, outgoing, and friendly
 
 d) Intelligent, curious, and ambitious
+
+-> Answer: a) Loyal, hardworking, and punctual
 
 ---
 
@@ -130,6 +138,8 @@ c) He is forgetful
 
 d) He is disorganized
 
+-> Answer: a) He is emotional
+
 ---
 
 6. What benefits does the company offer?
@@ -141,6 +151,8 @@ b) Free transportation and a free lunch
 c) Free gym membership and a free laptop
 
 d) Free coffee and a free phone
+
+-> Answer: a) Free medical insurance and a free tour for two people
 
 ---
 
