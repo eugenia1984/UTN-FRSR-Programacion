@@ -6,8 +6,7 @@
 
 - MA 11 APR: [Theory - Introduction: Job interview](https://github.com/eugenia1984/UTN-FRSR-Programacion/blob/main/2do_anio_1er_semestre/ingles_3/job_interview.md)
 
-- JU 13 APR: Practice
-
+- JU 13 APR: [Practice]((https://github.com/eugenia1984/UTN-FRSR-Programacion/blob/main/2do_anio_1er_semestre/ingles_3/job_interview.md))
 
 - MA 25 APR: Theory: Specific vocabulary and structures
 
