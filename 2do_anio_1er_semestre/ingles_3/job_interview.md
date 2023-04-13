@@ -177,21 +177,8 @@ We will go over them during this workshop. Are you ready?
 ## Complete this email with the correct option.
 
 
-Dear Colleagues
+![image](https://user-images.githubusercontent.com/72580574/231896725-572a4bf8-2799-46dc-82e0-c1a81634c9e3.png)
 
-My name **is** Jessica Martin and I **am** The IT Support team leader.
-
-The IT Support team members **are** : Mahmoud Al Banawy, Eli Ibrahim and Guido Pitteri. Mahmoud **is**  our network administrator.
-
-Eli and Guido **are** system maintenance officers. **Their**  job is to keep our systems going. 
-
-**Our** job is to support you.
-
-**My** contact number is 675 567 567.
-
-Best regards
-
-Jessica Martin
 
 ---
 
