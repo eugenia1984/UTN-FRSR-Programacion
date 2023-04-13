@@ -173,3 +173,24 @@ As you can appreciate, to introduce yourself talk about you in a job interview, 
 We will go over them during this workshop. Are you ready?
 
 ---
+
+## Complete this email with the correct option.
+
+
+Dear Colleagues
+
+My name **is** Jessica Martin and I **am** The IT Support team leader.
+
+The IT Support team members **are** : Mahmoud Al Banawy, Eli Ibrahim and Guido Pitteri. Mahmoud **is**  our network administrator.
+
+Eli and Guido **are** system maintenance officers. **Their**  job is to keep our systems going. 
+
+**Our** job is to support you.
+
+**My** contact number is 675 567 567.
+
+Best regards
+
+Jessica Martin
+
+---
