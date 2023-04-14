@@ -10,7 +10,9 @@
 
 - [**PROGRAMACIÓN III**](https://github.com/eugenia1984/UTN-FRSR-Programacion/tree/main/2do_anio_1er_semestre/programacion_3) - Miércoles
 
-- **ORGANIZACIÓN MEPRESARIAL** - Viernes
+- **ORGANIZACIÓN EMPRESARIAL** - Viernes
+
+- **ELEMENTOS DE LA ORGANIZACIÓN ADMINSITRATIVA**(https://github.com/eugenia1984/UTN-FRSR-Programacion/tree/main/2do_anio_1er_semestre/elementos_de_la_investigacion_operativa) - Viernes
 
 ---
 
