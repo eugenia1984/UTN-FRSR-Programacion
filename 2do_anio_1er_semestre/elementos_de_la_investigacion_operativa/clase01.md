@@ -167,11 +167,39 @@ objetos o orientado a documentos.
 
 A) ¿Que tarea realiza el administrador de una base de Datos?
 
+Las tareas que realizan son...
+
+... crear la base de datos y planificar su estructura
+
+... manejar los datos
+
+... normaliza los datos para mayor fluidez
+
+... asegura los datos.
+
 B) Menciona dos tareas que realiza el administrador de datos
 
-C) Mencione 2 tipos de base de datos: bse de datos **relacionales**(como MongoDB) y **no relacionales**(como SQL)
+
+El administrador de base de datos ...
+
+... crea las bases de datos
+
+... organiza la estructura
+
+C) Mencione 2 tipos de base de datos: 
+
+base de datos **relacionales**(como MongoDB) 
+
+base de datos **no relacionales**(como SQL)
 
 D) ¿Qué tipo de datos existen?
 
+Los datos pueden ser ...
+
+... **numeros**: *enteros*(no decimales) ó *reales*(enteros y decimales)
+
+... **texto**: *caracter* ó *varchar*(más de un caracter, también llamado *cadena*)
+
+... **lógicos**: *boleano*(verdadero o falso)
 
 ---
