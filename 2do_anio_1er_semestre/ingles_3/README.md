@@ -20,12 +20,13 @@
 
 - JU 25 MAY: **Holiday**
 
-- MA 06 JUN: Theory: 
+- MA 06 JUN: **Theory**
 
 - JU 08 JUN: Practise
 
 - MA 20 JUN: **Holiday**
 
 - JU 22 JUN: Practice: job interview draft
+
 
 ---
