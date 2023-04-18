@@ -13,3 +13,9 @@ La Empresa. Empresa en marcha. Empresa y Patrimonio. Concepto de ejercicio. Unid
 [Contabilidad Básica](https://github.com/eugenia1984/UTN-FRSR-Programacion/blob/main/2do_anio_1er_semestre/organizacion_contable/Contabilidad%20Basica.pdf)
 
 ---
+
+## CLASES
+
+- Clase 1 : Los 5 problemas empresariales que puede resolver a través de la inteligencia de datos
+
+---
