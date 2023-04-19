@@ -2,7 +2,7 @@
 
 ---
 
-##:book: Temas
+## :book: Temas
 
 - 1.1 Laboratorio final: Catálogo de peliculas
 
@@ -16,3 +16,11 @@
 
 - 1.6 Comenzamos con las pruebas ingresando las otras clases, parte 2
 
+---
+
+## UML
+
+![image](https://user-images.githubusercontent.com/72580574/233159260-1b9174df-c35e-414b-b516-6c63bfba9a28.png)
+
+
+---
