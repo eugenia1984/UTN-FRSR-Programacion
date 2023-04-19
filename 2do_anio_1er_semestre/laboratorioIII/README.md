@@ -18,8 +18,8 @@
 
 - Clase 3: 17 Abril: Proyecto catálogo de películas(Python) - Funciones (JavaScript)
 
-:tv: -> Ejercicio : Proyecto catálogo de películas con Python
+:tv: -> ejercicio : Proyecto catálogo de películas con Python
 
-:tv: -> Ejercicio: Funciones con JavaScript
+:tv: -> [ejercicio: Funciones con JavaScript](https://github.com/eugenia1984/UTN-FRSR-Programacion/tree/main/2do_anio_1er_semestre/laboratorioIII/clase3-funciones
 
 ---
