@@ -16,4 +16,10 @@
 
 :tv: -> [Ejercicios de arrays de JavaScript](https://github.com/eugenia1984/UTN-FRSR-Programacion/tree/main/2do_anio_1er_semestre/laboratorioIII/tecnicatura_3_js-leccion2-arrays)
 
+- Clase 3: 17 Abril: Proyecto catálogo de películas(Python) - Funciones (JavaScript)
+
+:tv: -> Ejercicio : Proyecto catálogo de películas con Python
+
+:tv: -> Ejercicio: Funciones con JavaScript
+
 ---
