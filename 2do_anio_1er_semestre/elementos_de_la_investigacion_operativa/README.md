@@ -6,7 +6,7 @@
 
 - [CLASE 01 - 14APR](https://github.com/eugenia1984/UTN-FRSR-Programacion/blob/main/2do_anio_1er_semestre/elementos_de_la_investigacion_operativa/clase01.md): Administrador de base de datos
 
-- CLASE 02
+- [CLASE 02 - 21APR](https://github.com/eugenia1984/UTN-FRSR-Programacion/blob/main/2do_anio_1er_semestre/elementos_de_la_investigacion_operativa/clase02.md): Base de datos no relacionales - Mongo DB
 
 - CLASE 03
 
