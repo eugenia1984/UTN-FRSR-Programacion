@@ -101,7 +101,7 @@ Este método garantiza la transferencia de datos en caso de fallo del nodo.
 estructura en forma de red.
 
 
-### Red Mixta o Híbrida;
+### Red Mixta o Híbrida:
 
 Se trata de dos tipos diferentes de topologías que son una mezcla de dos o más topologías.
 
@@ -120,4 +120,29 @@ Por ejemplo, si en una oficina de un departamento se usa topología en anillo y 
 
 ---
 
+### Packet Trace: 
 
+Por el buscador ingresaremos el nombre de la herramienta e ingresaremos al primer enlace.
+
+Descargar la herramienta que les permitirá realizar el dibujo de las topologías de red
+
+
+---
+
+### :star:Actividad:
+
+1. Responder cuestionario para la asistencia en el aula del campus
+
+2. Actividad Grupal: Enviar con los nombre y apellido de los participantes
+
+
+#### Trabajo práctico n° 1(grupal)
+
+
+1. Utilizar la herramienta gratuita Packet Trace de Cisco para graficar las diferentes tipografías de red .
+
+2. Realiza un cuadro comparativo  con las ventajas y desventajas de cada topología de red.
+
+
+
+---
