@@ -1,45 +1,48 @@
-SPANISH
+# :star:UTN-FRSR-Programación:star:
 
-# :star: UTN-FRSR-Programación
+---
 
-Aquí encontrarás todos mis estudios de Programación en la Universidad Tecnológica Nacional (Mendoza- San Rafael).
+Aquí encontrarás todos mis estudios de Programación en la **Universidad Tecnológica Nacional**(**UTN**) (Sede: Mendoza- San Rafael).
 
 Voy a crear un repositorio por cada materia cursada, en esta lista encontrarán los links a los mismos:
 
-## -> Pre ingreso
+## :computer: -> Pre ingreso
 
 | PreIngreso |
 | -----------|
-| [Matemáticas y Programación](https://github.com/eugenia1984/UTNFRSR-ingreso) |
+| [Matemáticas y Programación](https://github.com/eugenia1984/UTNFRSR-ingreso)  <img src="https://img.icons8.com/emoji/30/null/party-popper.png"/>aprobado|
+
+---
 
 ## :book: Primer año
 
-### Primer semestre
+### :computer: Primer semestre
 
 | [**1er Año - 1er Semestre**](https://github.com/eugenia1984/UTN-FRSR-Programacion/tree/main/01_year/01_semester) |
 | ---------------------- |
-| [Programacion 1](https://github.com/eugenia1984/UTN-FRSR-Programacion/tree/main/01_year/01_semester/prograamcion1) |
-| [Sistema de procesamiento de datos](https://github.com/eugenia1984/UTN-FRSR-Programacion/tree/main/01_year/01_semester/sdpd) |
-| [Matemática](https://github.com/eugenia1984/UTN-FRSR-Programacion/tree/main/01_year/01_semester/matematica1) |
-| [Inglés 1](https://github.com/eugenia1984/UTN-FRSR-Programacion/tree/main/01_year/01_semester/ingles) |
-| [Laboratorio de computación 1](https://github.com/eugenia1984/UTN-FRSR-Programacion/tree/main/01_year/01_semester/laboratorio1) |
+| [Programacion 1](https://github.com/eugenia1984/UTN-FRSR-Programacion/tree/main/01_year/01_semester/prograamcion1)  <img src="https://img.icons8.com/emoji/30/null/party-popper.png"/>aprobado con **9** |
+| [Sistema de procesamiento de datos](https://github.com/eugenia1984/UTN-FRSR-Programacion/tree/main/01_year/01_semester/sdpd)  <img src="https://img.icons8.com/emoji/30/null/party-popper.png"/>aprobado con **9** |
+| [Matemática](https://github.com/eugenia1984/UTN-FRSR-Programacion/tree/main/01_year/01_semester/matematica1)  <img src="https://img.icons8.com/emoji/30/null/party-popper.png"/>aprobado con **8** |
+| [Inglés 1](https://github.com/eugenia1984/UTN-FRSR-Programacion/tree/main/01_year/01_semester/ingles)  <img src="https://img.icons8.com/emoji/30/null/party-popper.png"/>aprobado con **9** |
+| [Laboratorio de computación 1](https://github.com/eugenia1984/UTN-FRSR-Programacion/tree/main/01_year/01_semester/laboratorio1)  <img src="https://img.icons8.com/emoji/30/null/party-popper.png"/>aprobado con **9** |
 
-### Segundo semestre
+### :computer: Segundo semestre
 
 | [**1er Año - 2do Semestre**](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester) |
 | ---------------------- |
-| [Programación 2](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/tree/main/programacion2) |
-| [Arquitectura y Sistemas Operativos](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/tree/main/arquitectura_sistemas_operativos) |
-| [Estadística](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/tree/main/estadistica) |
-| [Inglés II](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/tree/main/ingles2) |
-| [Laboratorio de computación 2](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/tree/main/laboratorio2) |
-| [Metodología de la Investigación](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/tree/main/metodologia_investigacion) |
+| [Programación 2](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/tree/main/programacion2)  <img src="https://img.icons8.com/emoji/30/null/party-popper.png"/>aprobado con **9** |
+| [Arquitectura y Sistemas Operativos](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/tree/main/arquitectura_sistemas_operativos)  <img src="https://img.icons8.com/emoji/30/null/party-popper.png"/>aprobado con **9** |
+| [Estadística](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/tree/main/estadistica)  <img src="https://img.icons8.com/emoji/30/null/party-popper.png"/>aprobado con **8** |
+| [Inglés II](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/tree/main/ingles2)  <img src="https://img.icons8.com/emoji/30/null/party-popper.png"/>aprobado con **9** |
+| [Laboratorio de computación 2](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/tree/main/laboratorio2)  <img src="https://img.icons8.com/emoji/30/null/party-popper.png"/>aprobado con **9** |
+| [Metodología de la Investigación](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/tree/main/metodologia_investigacion)  <img src="https://img.icons8.com/emoji/30/null/party-popper.png"/>aprobado con **!0** |
 
+---
 
 ## :book: Segundo año
 
 
-### Primer semestre
+### :computer: Primer semestre
 
 | [**2do Año - 1er Semestre**](https://github.com/eugenia1984/UTN-FRSR-Programacion/tree/main/2do_anio_1er_semestre) |
 | ---------------------- |
@@ -50,7 +53,7 @@ Voy a crear un repositorio por cada materia cursada, en esta lista encontrarán 
 | [Laboratorio de Computación 3](https://github.com/eugenia1984/UTN-FRSR-Programacion/tree/main/2do_anio_1er_semestre/laboratorioIII) |
 
 
-### Segundo semestre
+### :computer: Segundo semestre
 
 | 2do Año - 2do Semestre |
 | ---------------------- |
@@ -68,6 +71,8 @@ Voy a crear un repositorio por cada materia cursada, en esta lista encontrarán 
 **Java** <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/>
 
 **Python** <img src="https://img.icons8.com/color/48/000000/python--v1.png"/>
+
+**JavaScript** <img src="https://img.icons8.com/fluency/48/null/javascript.png"/>
 
 ---
 
@@ -90,100 +95,6 @@ Aprecio tu interés por este repositorio ⌨️ con ❤️ de [María Eugenia Co
 ---
 ---
 
-
-
-ENGLISH 
-
-# :star: UTN (FRSR) Programacion
-
-Here you will find all my study of Programming at  National Technological University ( Mendoza- San Rafael)
-
-I'm going to create a repository for each subject studied, in this list you will find the links to them:
-
-## -> Pre-entry
-
-| Pre-entry |
-| --------- |
-|  [Mathematics and Programming](https://github.com/eugenia1984/UTN-FRSR-Programacion/tree/main/pre) |
-
-## -> First year
-
-### First semester
-
-| [**1st Year - 1st Semester**](https://github.com/eugenia1984/UTN-FRSR-Programacion/tree/main/01_year/01_semester) |
-| ----------------------- |
-| [Programming 1](https://github.com/eugenia1984/UTN-FRSR-Programacion/tree/main/01_year/01_semester/prograamcion1) |
-|  [Data processing system](https://github.com/eugenia1984/UTN-FRSR-Programacion/tree/main/01_year/01_semester/sdpd) |
-| [Mathematics](https://github.com/eugenia1984/UTN-FRSR-Programacion/tree/main/01_year/01_semester/matematica1) |
-| [English 1](https://github.com/eugenia1984/UTN-FRSR-Programacion/tree/main/01_year/01_semester/ingles) |
-| [Computer lab 1](https://github.com/eugenia1984/UTN-FRSR-Programacion/tree/main/01_year/01_semester/laboratorio1) |
-
-### Second semester
-
-| [**1st Year - 2nd Semester**](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester) |
-| ----------------------- |
-| [Programming 2](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/tree/main/programacion2) |
-| [Architecture and Operating Systems](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/tree/main/arquitectura_sistemas_operativos) |
-| [Stadistics](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/tree/main/estadistica) |
-| [English II](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/tree/main/ingles2) |
-| [Computer Lab 2](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/tree/main/laboratorio2) |
-| [Investigation methodology](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/tree/main/metodologia_investigacion) |
-
-
-## -> Second year
-
-
-### First semester
-
-| [**2nd Year - 1st Semester**](https://github.com/eugenia1984/UTN-FRSR-Programacion/tree/main/2do_anio_1er_semestre) |
-| ----------------------- |
-| [Programming 3](https://github.com/eugenia1984/UTN-FRSR-Programacion/tree/main/2do_anio_1er_semestre/programacion_3) |
-| [Accounting Organization of the Company](https://github.com/eugenia1984/UTN-FRSR-Programacion/tree/main/2do_anio_1er_semestre/organizacion_contable) / [English III](https://github.com/eugenia1984/UTN-FRSR-Programacion/tree/main/2do_anio_1er_semestre/ingles_3) |
-| [Business organization](https://github.com/eugenia1984/UTN-FRSR-Programacion/tree/main/2do_anio_1er_semestre/organizacion_empresarial) |
-| [Elements of Operational Research](https://github.com/eugenia1984/UTN-FRSR-Programacion/tree/main/2do_anio_1er_semestre/elementos_de_la_investigacion_operativa) |
-| [Computer Laboratory 3](https://github.com/eugenia1984/UTN-FRSR-Programacion/tree/main/2do_anio_1er_semestre/laboratorioIII) |
-
-
-### Second semester
-
-| 2nd Year - 2nd Semester |
-| ----------------------- |
-| Systems Methodology 1 |
-| Database Design and Administration |
-| Legislation |
-| Computer Laboratory IV |
-
-
----
-
-## Tech Stack 🛠️
-
-**PseInt**
-
-**Java** <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/>
-
-**Python** <img src="https://img.icons8.com/color/48/000000/python--v1.png"/>
-
----
-
-
-## Please: 🎁
-
-- Shared this content with others 📢
-
-- Invite a beer 🍺 or a coffee ☕ to someone from the team
-
-- Thank you very much 🤓.
-
-
-## Notes: 
-
-I appreciate your interest in this repository ⌨️ with ❤️ by [María Eugenia Cost](https://github.com/eugenia1984)  😊 and follow me on [LinkedIn](https://www.linkedin.com/in/maríaeugeniacosta/)
-
-
-
----
----
 
 
 
