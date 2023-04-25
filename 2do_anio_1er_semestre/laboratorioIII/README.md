@@ -22,11 +22,11 @@
 
 :tv: -> [ejercicio: Funciones con JavaScript](https://github.com/eugenia1984/UTN-FRSR-Programacion/tree/main/2do_anio_1er_semestre/laboratorioIII/clase3-funciones)
 
-- Clase 4: 24 Abril: Postgresql y Python - (JavaScript)
+- Clase 4: 24 Abril: Postgresql y Python - Objetos(JavaScript)
 
 :tv: -> ejercicios de PostgreSQL y Python
 
-:tv: -> ejercicios de JavaScript
+:tv: -> [ejercicios de JavaScript: objetos](https://github.com/eugenia1984/UTN-FRSR-Programacion/tree/main/2do_anio_1er_semestre/laboratorioIII/clase4-javascript-objetos)
 
 
 ---
