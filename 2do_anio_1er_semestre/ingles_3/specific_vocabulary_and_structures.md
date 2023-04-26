@@ -3,6 +3,184 @@
 
 ## SPECIFIC VOCUBULARY AND STRUCTURES
 
+In this section we are going to deal with different JOBS in the IT field, and the corresponding duties for each position.
+
+##:book: Reading comprehension
+
+### Pre-reading Activity:
+
+1. Think of different jobs in IT. Make a list of them.
+
+- QA(Quality Asurance)
+
+- Tester
+
+- Front End Developer
+
+- Back End Developer
+
+- UX
+
+- UI
+
+- DevOps
+
+- Network administrator
+
+- Arquitect
+
+- Database analyst
+
+- IT Support(Help Desk)
+
+### While reading Activity:
+
+2. Read this team introduction. Complete the descriptions a-d with the IT jobs in the box.
+
+*Hi! I'm Sylvia. I create usernames and apsswords and I set firewalls.*
+
+*This is Isabella. Her job is to plan and design the network.*
+
+*And this is Andrew. His job es to make sure all of the computers work property.*
+
+*Finally, Mark and Latika.Their are data processing.*
+
+*We all work for the University. Our offices are in building 8.*
+
+
+a. Sylvia is a ......Network adminsitrator
+
+b. Isabelle is a .....Network architect
+
+c. Andrew is an .....IT support officer
+
+d. Mark and Latika are ......Database analyst
+
+---
+
+## :book: Language focus
+
+| Present simple | Examples | 
+| We use the present simple to talk about routines and things that are permanent or happen all the time. | What do you do? I’m a programmer. / What does she do? She’s a developer. / Where does she work? She works for IBM in Poland. She doesn’t work in Estonia. / Where do they work? They work for Siemens in Egypt. / Do you work in IT? Yes, I do. No, I don’t. |
+
+---
+
+## Read and try to answer the following questions:
+
+- Did you know all the job opportunities you can have after graduation?
+
+- Do you have any clues on what type of job would you like to get as you graduate or in the future?
+- 
+Well, let’s take our first step to answer these questions.
+
+---
+
+##:book: Vocabulary
+
+Look at this picture. What jobs do you know? What are the main duties for each one?
+
+
+3.  [Listen](https://drive.google.com/file/d/1N46XJkiFTMJgkHUGTbE20be4ijrUhBum/view) to three people talking about their jobs. Complete these job descriptions.
+
+a- Karl
+
+Job: software .........................................
+
+Responsibilities: he designs and ....................................... computer games.
+
+b- Heba
+
+Job: .............................. analyst
+
+Responsibilities: he ........................................... computer problems.
+
+c- Wojtek
+
+Job: database .........................................
+
+Responsibilities: ha analyses and ......................................... electronic data.
+
+---
+
+## :star: Speaking
+
+4. Work in pairs. Ask and answer questions about Karl, Heba and Wojtek.
+
+Example: A: What does Karl do?
+
+B: He’s ..........
+
+---
+
+## :star: Listening
+
+5. [Listen](https://drive.google.com/file/d/1jvn7dma_iKLzAcFRQP_R-tG6dM9kN0Ua/view) and complete the following dialogue.
+
+Ahmed: Where (1) .......................... you work, Betty?
+
+Betty: 1 work for Dell in Dubai . What (2)................... . you?
+
+Ahmed: I (3) ......................... for HP in Budapest. What do you (4) ............................. Milo?
+
+Milo: I'm a (5) ........................ developer. I work (6) .............................. Microsoft in Prague.
+
+Betty: Milo, do you (7) .............................. Frida?
+
+Milo: Yes, I do. What do you (8) .............................. to know?
+
+Betty: Where (9) ...................... she work?
+
+Milo: She works with (10) ........................ . in Prague. She designs websites for (11) ..................
+
+Ahmed: I see. Right, let's go. The workshop starts in five minutes.
+
+---
+
+As you can see, when we talk about jobs, we usually talk about duties.
+
+So, what is a duty?
+
+It’s a task or action that one is required to perform as part of one's job.
+Example: "the queen's official duties" - Oxford Languages
+
+---
+
+## :star: Writing
+
+
+6. Work in groups. Think of three (3) jobs in the field and write two (2) tasks for each one.
+
+### Follow this example:
+
+
+A front-end web developer is a software engineer who implements web designs through coding languages like HTML, CSS, and JavaScript.
+A front-end web developer is also in charge of making sure that there are no errors or bugs on the front end, as well as making sure that the design appears as it’s supposed to across various platforms and browsers.
+
+
+---
+
+### Important structures:
+
+A front-end developer is in charge of (V+ing) ..............
+
+He is responsible for (V+ing) .......
+
+---
+
+Check this web page to get some ideas:
+41 Job Titles In Tech.: https://skillcrush.com/blog/41-tech-job-titles/
+
+---
+
+## Bibliography:
+
+Olejniczak, Maja. “English for Information Technology 1” Vocational English, Course Book. Pearson 2011.
+
+---
+---
+
+## :star: Activity
+
 ### Listen to the conversation and choose the correct options.
 
 - Kathryn:  Karim, what do you do?
