@@ -11,7 +11,7 @@ In this section we are going to deal with different JOBS in the IT field, and th
 
 1. Think of different jobs in IT. Make a list of them.
 
-- QA(Quality Asurance)
+- QA(Quality Assurance)
 
 - Tester
 
@@ -61,6 +61,7 @@ d. Mark and Latika are ......Database analyst
 ## :book: Language focus
 
 | Present simple | Examples | 
+| -------------- | -------- |
 | We use the present simple to talk about routines and things that are permanent or happen all the time. | What do you do? I’m a programmer. / What does she do? She’s a developer. / Where does she work? She works for IBM in Poland. She doesn’t work in Estonia. / Where do they work? They work for Siemens in Egypt. / Do you work in IT? Yes, I do. No, I don’t. |
 
 ---
@@ -70,7 +71,7 @@ d. Mark and Latika are ......Database analyst
 - Did you know all the job opportunities you can have after graduation?
 
 - Do you have any clues on what type of job would you like to get as you graduate or in the future?
-- 
+
 Well, let’s take our first step to answer these questions.
 
 ---
@@ -85,23 +86,23 @@ Look at this picture. What jobs do you know? What are the main duties for each o
 
 3.  [Listen](https://drive.google.com/file/d/1N46XJkiFTMJgkHUGTbE20be4ijrUhBum/view) to three people talking about their jobs. Complete these job descriptions.
 
-a- Karl
+**A** - Karl
 
-Job: software .........................................
+Job: software ...Developer...
 
-Responsibilities: he designs and ....................................... computer games.
+Responsibilities: he designs and ...develop... computer games.
 
-b- Heba
+**B** -  Heba
 
-Job: .............................. analyst
+Job: ...System... analyst
 
-Responsibilities: he ........................................... computer problems.
+Responsibilities: he ...solve... computer problems.
 
-c- Wojtek
+**C**- Wojtek
 
-Job: database .........................................
+Job: database ...administrator...
 
-Responsibilities: ha analyses and ......................................... electronic data.
+Responsibilities: ha analyses and ...present... electronic data.
 
 ---
 
@@ -109,9 +110,15 @@ Responsibilities: ha analyses and ......................................... elec
 
 4. Work in pairs. Ask and answer questions about Karl, Heba and Wojtek.
 
-Example: A: What does Karl do?
+#### Example: 
 
-B: He’s ..........
+- A: What does Karl do?
+
+- B: He’s ...a Software Developer.
+
+- A: What are his responsibilities?
+
+- B: He designs and develop computer games
 
 ---
 
@@ -119,31 +126,32 @@ B: He’s ..........
 
 5. [Listen](https://drive.google.com/file/d/1jvn7dma_iKLzAcFRQP_R-tG6dM9kN0Ua/view) and complete the following dialogue.
 
-Ahmed: Where (1) .......................... you work, Betty?
+Ahmed: Where (1) ..do... you work, Betty?
 
-Betty: 1 work for Dell in Dubai . What (2)................... . you?
+Betty: 1 work for Dell in Dubai . What (2) ...about... you?
 
-Ahmed: I (3) ......................... for HP in Budapest. What do you (4) ............................. Milo?
+Ahmed: I (3) ...work... for HP in Budapest. What do you (4) ...do... Milo?
 
-Milo: I'm a (5) ........................ developer. I work (6) .............................. Microsoft in Prague.
+Milo: I'm a (5) ...software... developer. I work (6) ...for... Microsoft in Prague.
 
-Betty: Milo, do you (7) .............................. Frida?
+Betty: Milo, do you (7) ...know... Frida?
 
-Milo: Yes, I do. What do you (8) .............................. to know?
+Milo: Yes, I do. What do you (8) ...want... to know?
 
-Betty: Where (9) ...................... she work?
+Betty: Where (9) ...does... she work?
 
-Milo: She works with (10) ........................ . in Prague. She designs websites for (11) ..................
+Milo: She works with (10) ...me... in Prague. She designs websites for (11) ...e-commerce...
 
 Ahmed: I see. Right, let's go. The workshop starts in five minutes.
 
 ---
 
-As you can see, when we talk about jobs, we usually talk about duties.
+As you can see, when we talk about jobs, we usually talk about **duties**.
 
 So, what is a duty?
 
 It’s a task or action that one is required to perform as part of one's job.
+
 Example: "the queen's official duties" - Oxford Languages
 
 ---
@@ -157,6 +165,7 @@ Example: "the queen's official duties" - Oxford Languages
 
 
 A front-end web developer is a software engineer who implements web designs through coding languages like HTML, CSS, and JavaScript.
+
 A front-end web developer is also in charge of making sure that there are no errors or bugs on the front end, as well as making sure that the design appears as it’s supposed to across various platforms and browsers.
 
 
@@ -164,9 +173,9 @@ A front-end web developer is also in charge of making sure that there are no err
 
 ### Important structures:
 
-A front-end developer is in charge of (V+ing) ..............
+A front-end developer is in charge of (verb+ing) ..............
 
-He is responsible for (V+ing) .......
+He is responsible for (verb+ing) .......
 
 ---
 
