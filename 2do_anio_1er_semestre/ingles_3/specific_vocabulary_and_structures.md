@@ -5,7 +5,7 @@
 
 In this section we are going to deal with different JOBS in the IT field, and the corresponding duties for each position.
 
-##:book: Reading comprehension
+## :book: Reading comprehension
 
 ### Pre-reading Activity:
 
@@ -75,9 +75,12 @@ Well, let’s take our first step to answer these questions.
 
 ---
 
-##:book: Vocabulary
+## :book: Vocabulary
 
 Look at this picture. What jobs do you know? What are the main duties for each one?
+
+![image](https://user-images.githubusercontent.com/72580574/234627475-181e6bc8-67ca-4a8d-acc0-40c8b3819f7f.png)
+
 
 
 3.  [Listen](https://drive.google.com/file/d/1N46XJkiFTMJgkHUGTbE20be4ijrUhBum/view) to three people talking about their jobs. Complete these job descriptions.
@@ -166,6 +169,9 @@ A front-end developer is in charge of (V+ing) ..............
 He is responsible for (V+ing) .......
 
 ---
+
+![image](https://user-images.githubusercontent.com/72580574/234627551-5e7fb7da-a550-44d1-953d-cd85b55326d4.png)
+
 
 Check this web page to get some ideas:
 41 Job Titles In Tech.: https://skillcrush.com/blog/41-tech-job-titles/
