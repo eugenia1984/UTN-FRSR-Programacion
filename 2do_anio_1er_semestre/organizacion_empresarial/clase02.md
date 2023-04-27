@@ -185,6 +185,7 @@ Descargar la herramienta que les permitirá realizar el dibujo de las topología
 
 2. Realiza un cuadro comparativo  con las ventajas y desventajas de cada topología de red.
 
+![image](https://user-images.githubusercontent.com/72580574/235005806-71bfe2ef-9a40-43aa-ae21-95db6a5bee72.png)
 
 
 ---
