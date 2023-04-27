@@ -265,3 +265,141 @@ Six people are introducing themselves. What job do they do?
 
 
 ---
+---
+
+
+# :star: In this section we are going to deal with schedules, routines, and vocabulary to describe jobs.
+
+
+## :book: Vocabulary
+
+### 1. Think about your job. How can you describe it? 
+
+Use the words in the box to write sentences. You can se a dictionary to help you.
+
+```
+Satisfying - difficult - tiring - easy - 
+fun - dangerous - well paid -
+boring - demanding - varied - repetitive - 
+challenging - stressful –
+relaxing - creative 
+```
+
+### 2. Read the following job descriptions. Fill in the gaps with the corresponding word.
+
+**a)** I’m a lifeguard. My job isn’t ... ..., so I don’t make much money. When there are only a few people at the beach, it’s ... ... so I can enjoy the sun and watch the sea, but when there are a lot of people, it’s ... ... because they often do stupid things. I sometimes save people from the sea, and this is very ... ...
+
+**b)** I write music for films. People think I have a very ... ... job -and they’re right. I write music for many different kinds of films: action films, animated films, horror films, so my work is ... ... But it’s also a very ... ... job, because I work for many hours every day. Sometimes I only stop working at midnight.
+
+
+---
+
+## :book: Reading comprehension
+
+### 3. Read the text below and decide if the statements are true (T) or false (F). Correct the false ones:
+
+a. Computer programmers are responsible for writing and testing the code for computer applications and software programs.
+
+b. All programmers create code from scratch.
+
+c. Some programmers update or enhance older code to make programs faster, more stable, or more efficient.
+
+d. All programming roles require a broad range of skills and abilities.
+
+e. Some programming roles require specialized skills.
+
+f. Computer programmers are not well paid.
+
+g. The median annual wage for computer programmers in 2021 was $93,000.
+
+h. Being detail-oriented and organized is not important for a career in computer programming. 
+
+i. Computer programmers only work independently.
+
+j. Liking to code is not a good reason to pursue a career in computer programming. 
+
+### What Do Computer Programmers Do?
+
+Computer programmers are responsible for writing and testing the code for computer applications and software programs.
+
+Some programmers create code from scratch, building brand new programs and applications, while others are tasked with updating or enhancing older code to make programs faster, more stable, or more efficient. Specific roles in computer programming vary, with some positions requiring a broad range of skills and abilities, like programming in several different languages, while others will call for specialized skills, like programming in a niche language, or developing an application capable of completing some unique, specific process.
+
+What’s common across computer programming roles, however, is that programmers tend to be relatively well paid, with BLS reporting the median annual wage for computer programmers at $93,000 in 2021. So, if you’re detail-oriented, organized, good at working both independently and on teams, and especially if you like to code, then you may want to consider pursuing a career in computer programming.
+
+Source: https://csuglobal.edu/blog/what-do-it-professionals-actuallydo#:~:text=Information%20technology%20professionals%20study%2C%20design,software%20applications%20and
+%20computer%20hardware.
+
+---
+
+## :book: 4. Read the text again and write:
+
+- Job responsibilities (specific roles):
+
+........
+
+- Skills / qualities required for the job:
+
+........
+
+
+---
+
+
+## :book: Language focus
+
+### 5.Complete the job description with the correct form of the verbs in brackets.
+
+**a**. A Computer systems analyst (be) ... ... responsible for studying computer systems and designing new systems that are more efficient and effective.
+
+**b**. A Systems analysts typically (handle) ... ... technology upgrades.
+
+**c**. Computer systems analysts (spend) ... ... a great deal of time reviewing new technologies.
+
+**d**. Computer network architects (be) ... ... responsible for designing, building, and managing data and communications networks.
+
+**e**. This is a complex role that (require) ... ... a great deal of technological expertise.
+
+**f**. A computer network architect (be) ... ... responsible for ensuring that an organization’s network is fast, efficient, and available full-time.
+
+**g**. An Information security analyst (protect) ... ... an organization’s sensitive data.
+
+**h**. An information security analyst also (design) ... ..., then (deploy) ... ..., and (maintain) ... ... security measures.
+
+
+---
+
+## :book: Listening
+
+**6**. [Listen](https://frsrutneduar-my.sharepoint.com/personal/lbuccella_frsr_utn_edu_ar/_layouts/15/stream.aspx?id=%2Fpersonal%2Flbuccella%5Ffrsr%5Futn%5Fedu%5Far%2FDocuments%2FA%20%2D%20San%20Rafael%2FIngl%C3%A9s%20III%2FAudios%20English%204%20IT%201%2FAudio%2F08%20Track%208%2Emp3&ga=1) to two people at an IT conference. Complete the following dialogue.
+
+Penelope: Hi, Don. (1) ... ... are you?
+
+Don: I'm (2) ... ... thanks, Penelope. And you?
+
+Penelope: I'm OK. Bit tired from the flight.
+
+Don: Right.
+
+Penelope: (3) ... ... workshop (4) ... ... you want to attend today, Don?
+
+Don: I want to go to the CISCO network security workshop.
+
+Penelope: Sounds interesting. What time does it start?
+
+Don: It (5) ... ... at 9.15.
+
+Penelope: And (6) ... ... does it finish?
+
+Don: It (7) ... ... at 4.00 in t h e afternoon.
+
+Penelope: Well, I (8) ... ... to attend the Microsoft Windows Applications workshop. It (9) ... ... at 8.30 am and (10)
+ ... ... at 6.00 pm. But they have two breaks, at 10.30 and 12.45.
+ 
+Don: That's good.
+
+Penelope: Hope you enjoy your session.
+
+Don: You too. See you around.
+
+
+---
