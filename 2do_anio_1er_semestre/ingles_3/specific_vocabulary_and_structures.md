@@ -1,4 +1,3 @@
-# :star: MARTER 25 ABRIL
 
 ---
 
@@ -278,18 +277,25 @@ Six people are introducing themselves. What job do they do?
 Use the words in the box to write sentences. You can se a dictionary to help you.
 
 ```
-Satisfying - difficult - tiring - easy - 
+Satisfying - difficult - 
+tiring - easy - 
 fun - dangerous - well paid -
-boring - demanding - varied - repetitive - 
+boring - demanding - 
+varied - repetitive - 
 challenging - stressful –
 relaxing - creative 
 ```
 
+My current job isn't well paid, that's why I'm looking a new one.
+
+I'm in a challenging project, we are designing a new system from scratch with new tecnologies, which it's challenging.
+
+
 ### 2. Read the following job descriptions. Fill in the gaps with the corresponding word.
 
-**a)** I’m a lifeguard. My job isn’t ... ..., so I don’t make much money. When there are only a few people at the beach, it’s ... ... so I can enjoy the sun and watch the sea, but when there are a lot of people, it’s ... ... because they often do stupid things. I sometimes save people from the sea, and this is very ... ...
+**a)** I’m a lifeguard. My job isn’t ...well paid..., so I don’t make much money. When there are only a few people at the beach, it’s ...relaxing... so I can enjoy the sun and watch the sea, but when there are a lot of people, it’s ...stressful... because they often do stupid things. I sometimes save people from the sea, and this is very ...dangerous...
 
-**b)** I write music for films. People think I have a very ... ... job -and they’re right. I write music for many different kinds of films: action films, animated films, horror films, so my work is ... ... But it’s also a very ... ... job, because I work for many hours every day. Sometimes I only stop working at midnight.
+**b)** I write music for films. People think I have a very ...satisfying... job -and they’re right. I write music for many different kinds of films: action films, animated films, horror films, so my work is ...varied... But it’s also a very ...tiring... job, because I work for many hours every day. Sometimes I only stop working at midnight.
 
 
 ---
@@ -298,25 +304,25 @@ relaxing - creative
 
 ### 3. Read the text below and decide if the statements are true (T) or false (F). Correct the false ones:
 
-a. Computer programmers are responsible for writing and testing the code for computer applications and software programs.
+a. Computer programmers are responsible for writing and testing the code for computer applications and software programs. -> TRUE
 
-b. All programmers create code from scratch.
+b. All programmers create code from scratch. -> FALSE -> Some programmers create code from scratch, building brand new programs and applications, while others are tasked with updating or enhancing older code to make programs faster, more stable, or more efficient
 
-c. Some programmers update or enhance older code to make programs faster, more stable, or more efficient.
+c. Some programmers update or enhance older code to make programs faster, more stable, or more efficient. -> TRUE
 
-d. All programming roles require a broad range of skills and abilities.
+d. All programming roles require a broad range of skills and abilities. -> FALSE -> Specific roles in computer programming vary, with some positions requiring a broad range of skills and abilities, like programming in several different languages, while others will call for specialized skills, like programming in a niche language, or developing an application capable of completing some unique, specific process
 
-e. Some programming roles require specialized skills.
+e. Some programming roles require specialized skills. -> TRUE
 
-f. Computer programmers are not well paid.
+f. Computer programmers are not well paid. -> FALSE -> programmers tend to be relatively well paid
 
-g. The median annual wage for computer programmers in 2021 was $93,000.
+g. The median annual wage for computer programmers in 2021 was $93,000. -> TRUE
 
-h. Being detail-oriented and organized is not important for a career in computer programming. 
+h. Being detail-oriented and organized is not important for a career in computer programming.  -> FALSE
 
-i. Computer programmers only work independently.
+i. Computer programmers only work independently. -> FALSE
 
-j. Liking to code is not a good reason to pursue a career in computer programming. 
+j. Liking to code is not a good reason to pursue a career in computer programming.  -> FALSE
 
 ### What Do Computer Programmers Do?
 
@@ -349,21 +355,21 @@ Source: https://csuglobal.edu/blog/what-do-it-professionals-actuallydo#:~:text=I
 
 ### 5.Complete the job description with the correct form of the verbs in brackets.
 
-**a**. A Computer systems analyst (be) ... ... responsible for studying computer systems and designing new systems that are more efficient and effective.
+**a**. A Computer systems analyst (be) ... IS ... responsible for studying computer systems and designing new systems that are more efficient and effective.
 
-**b**. A Systems analysts typically (handle) ... ... technology upgrades.
+**b**. A Systems analysts typically (handle) ... HANDLE ... technology upgrades.
 
-**c**. Computer systems analysts (spend) ... ... a great deal of time reviewing new technologies.
+**c**. Computer systems analysts (spend) ... SPEND ... a great deal of time reviewing new technologies.
 
-**d**. Computer network architects (be) ... ... responsible for designing, building, and managing data and communications networks.
+**d**. Computer network architects (be) ... ARE ... responsible for designing, building, and managing data and communications networks.
 
-**e**. This is a complex role that (require) ... ... a great deal of technological expertise.
+**e**. This is a complex role that (require) ... REQUIRE ... a great deal of technological expertise.
 
-**f**. A computer network architect (be) ... ... responsible for ensuring that an organization’s network is fast, efficient, and available full-time.
+**f**. A computer network architect (be) ... IS ... responsible for ensuring that an organization’s network is fast, efficient, and available full-time.
 
-**g**. An Information security analyst (protect) ... ... an organization’s sensitive data.
+**g**. An Information security analyst (protect) ... PROTECTS ... an organization’s sensitive data.
 
-**h**. An information security analyst also (design) ... ..., then (deploy) ... ..., and (maintain) ... ... security measures.
+**h**. An information security analyst also (design) ... DESIGN..., then (deploy) ... DEPLOY ..., and (maintain) ... MANTAIN ... security measures.
 
 
 ---
