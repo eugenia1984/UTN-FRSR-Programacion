@@ -1,7 +1,7 @@
 
 ---
 
-## SPECIFIC VOCUBULARY AND STRUCTURES
+## :star: SPECIFIC VOCUBULARY AND STRUCTURES
 
 In this section we are going to deal with different JOBS in the IT field, and the corresponding duties for each position.
 
@@ -9,7 +9,7 @@ In this section we are going to deal with different JOBS in the IT field, and th
 
 ### Pre-reading Activity:
 
-1. Think of different jobs in IT. Make a list of them.
+## 1. Think of different jobs in IT. Make a list of them.
 
 - QA(Quality Assurance)
 
@@ -33,9 +33,11 @@ In this section we are going to deal with different JOBS in the IT field, and th
 
 - IT Support(Help Desk)
 
+---
+
 ### While reading Activity:
 
-2. Read this team introduction. Complete the descriptions a-d with the IT jobs in the box.
+## 2. Read this team introduction. Complete the descriptions a-d with the IT jobs in the box.
 
 *Hi! I'm Sylvia. I create usernames and apsswords and I set firewalls.*
 
@@ -83,8 +85,9 @@ Look at this picture. What jobs do you know? What are the main duties for each o
 ![image](https://user-images.githubusercontent.com/72580574/234627475-181e6bc8-67ca-4a8d-acc0-40c8b3819f7f.png)
 
 
+---
 
-3.  [Listen](https://drive.google.com/file/d/1N46XJkiFTMJgkHUGTbE20be4ijrUhBum/view) to three people talking about their jobs. Complete these job descriptions.
+## 3.  [Listen](https://drive.google.com/file/d/1N46XJkiFTMJgkHUGTbE20be4ijrUhBum/view) to three people talking about their jobs. Complete these job descriptions.
 
 **A** - Karl
 
@@ -108,7 +111,7 @@ Responsibilities: ha analyses and ...present... electronic data.
 
 ## :star: Speaking
 
-4. Work in pairs. Ask and answer questions about Karl, Heba and Wojtek.
+## 4. Work in pairs. Ask and answer questions about Karl, Heba and Wojtek.
 
 #### Example: 
 
@@ -124,7 +127,7 @@ Responsibilities: ha analyses and ...present... electronic data.
 
 ## :star: Listening
 
-5. [Listen](https://drive.google.com/file/d/1jvn7dma_iKLzAcFRQP_R-tG6dM9kN0Ua/view) and complete the following dialogue.
+## 5. [Listen](https://drive.google.com/file/d/1jvn7dma_iKLzAcFRQP_R-tG6dM9kN0Ua/view) and complete the following dialogue.
 
 Ahmed: Where (1) ..do... you work, Betty?
 
@@ -159,7 +162,7 @@ Example: "the queen's official duties" - Oxford Languages
 ## :star: Writing
 
 
-6. Work in groups. Think of three (3) jobs in the field and write two (2) tasks for each one.
+## 6. Work in groups. Think of three (3) jobs in the field and write two (2) tasks for each one.
 
 ### Follow this example:
 
@@ -187,8 +190,7 @@ Check this web page to get some ideas:
 
 ---
 
-## Bibliography:
-
+## Bibliography: 
 Olejniczak, Maja. “English for Information Technology 1” Vocational English, Course Book. Pearson 2011.
 
 ---
