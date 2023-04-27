@@ -2,7 +2,7 @@
 
 ---
 
-## CIBERSEGURIDAD - RED
+## :book: CIBERSEGURIDAD - RED
 
 Cuando hablábamos de una red decimos que es un conjunto de equipos informáticos interconectados entre sí.
 
@@ -14,7 +14,7 @@ La parte lógica (software), son los programas que gobiernan o controlan esa tra
 
 ---
 
-## TOPOLOGÍA DE RED 
+## :book: TOPOLOGÍA DE RED 
 
 ### ¿Qué es la Topología de Red?
 
@@ -35,7 +35,7 @@ Se denomina topología de red a la forma en que se organizan los componentes de 
 
 
 
-### Red en Bus
+### RED EN BUS
 
 Una red de Bus o en Bus es una arquitectura de comunicación donde la conexión de los equipos la proporciona un bus compartido por todos los usuarios.
 Bus = Cable para transportar la información en las redes de ordenadores
@@ -45,7 +45,7 @@ Los sistemas que utilizan una topología de bus normalmente tienen un árbitro q
 Esta topología de bus se ha utilizado ampliamente por su bajo costo de instalación.
 Es muy fácil conectar varias estaciones en la misma habitación, por ejemplo para conectar dos o tres ordenadores en casa.
 
-### Red en Anillo
+### RED EN ANILLO
 
 La topología de añillo parece un bus pero que estaría cerrado sobre sí mismo: el último nodo está conectado al primero.
 En la red en anillo cada estación tiene una única conexión de entrada y otra de salida de anillo.
@@ -54,14 +54,14 @@ Cada nodo tiene asignada una dirección que es una secuencia numérica única qu
 El Nodo puede ser un ordenador, pero también una impresora. Cada uno de los nodos se comunica por turno.
 Utiliza el método de acceso a "token" (Token ring). Los datos pasan de una estación a otra siguiendo el anillo que cada vez regenera la señal.
 
-### Red en Estrella:
+### RED EN ESTRELLA
 
 En esta topología están todos conectados a un nodo central.
 Utilizado en particular por las redes Ethernet, ahora es la topología de la mayoría de las redes.
 un switch recibe un paquete, lo procesa para determinar su dirección de destino y lo reenvía a la dirección de destino revelada.
 Lo importante es que para hablar con otra entidad u ordenador pasamos siempre por el equipo o nodo central.
 
-### Red de Doble Anillo:
+### RED DE DOBLE ANILLO
 
 El principio es el mismo que el de la topología de anillo, excepto que se agrega un anillo adicional que servirá como respaldo en caso de que falle el anillo principal.
 La topología de doble anillo actúa como si fueran dos anillos independientes, de los cuales se usa solamente uno por vez.
@@ -70,7 +70,7 @@ Uno de los anillos se utiliza para la transmisión y el otro actúa como anillo 
 
 Una tecnología que utiliza esta topología es FDDI es la Interfaz de datos distribuidos por fibra.
 
-### Red de Árbol (o jerárquica)
+### RED DE ÀRBOL (O JERÀRQUICA)
 
 
 Una topología de árbol o una topología de árbol o jerárquica se puede considerar como una colección de redes en estrella organizadas en un orden o jerarquía.
@@ -87,7 +87,7 @@ Esta red se divide en niveles.
 
 - Si falla una conexión a un nodo, una sección completa de la red queda aislada del resto.
 
-### Red en Malla:
+### RED EN MALLA:
 
 La red en malla es una topología de red que califica las redes (cableadas o no) en las que todos los ordenadores están conectados entre pares sin una jerarquía central, formando así una estación .Por tanto, cada nodo debe recibir, enviar y retransmitir datos.
 
@@ -101,7 +101,7 @@ Este método garantiza la transferencia de datos en caso de fallo del nodo.
 estructura en forma de red.
 
 
-### Red Mixta o Híbrida:
+### RED MIXTA O HÍBRIDA:
 
 Se trata de dos tipos diferentes de topologías que son una mezcla de dos o más topologías.
 
@@ -110,7 +110,7 @@ Por ejemplo, si en una oficina de un departamento se usa topología en anillo y 
 
 ---
 
-### Topologías lógicas
+### :book: TOPOLOGÍAS LÓGICAS
 
 - "topología lógica", a diferencia de la topología física anterior, representa cómo viajan los datos en las líneas de comunicación.
 
@@ -120,7 +120,7 @@ Por ejemplo, si en una oficina de un departamento se usa topología en anillo y 
 
 ---
 
-### Packet Trace: 
+### PACKET TRACE: 
 
 Por el buscador ingresaremos el nombre de la herramienta e ingresaremos al primer enlace.
 
@@ -128,18 +128,60 @@ Descargar la herramienta que les permitirá realizar el dibujo de las topología
 
 
 ---
+---
 
-### :star:Actividad:
+
+### :star:ACTIVIDAD:star:
 
 1. Responder cuestionario para la asistencia en el aula del campus
 
-2. Actividad Grupal: Enviar con los nombre y apellido de los participantes
+-> Ya realizado en el campus
+
+
+2. **Actividad Grupal**: Enviar con los nombre y apellido de los participantes
 
 
 #### Trabajo práctico n° 1(grupal)
 
 
 1. Utilizar la herramienta gratuita Packet Trace de Cisco para graficar las diferentes tipografías de red .
+
+
+- RED BUS:
+
+![image](https://user-images.githubusercontent.com/72580574/235003312-2bf0b519-de9c-4d96-9710-f5249d060620.png)
+
+
+- RED ESTRELLA:
+
+![image](https://user-images.githubusercontent.com/72580574/235003341-355300ce-53ca-47ab-a870-eb1733891ac8.png)
+
+
+- RED ANILLO:
+
+![image](https://user-images.githubusercontent.com/72580574/235003374-f11ba25b-64df-477b-9b8c-5e044197e0ee.png)
+
+
+- RED ÁRBOL:
+
+![image](https://user-images.githubusercontent.com/72580574/235003410-511646c9-9be1-4c69-a1d7-08c617095b6a.png)
+
+- RED MALLA:
+
+![image](https://user-images.githubusercontent.com/72580574/235003442-65c5d662-dab5-455d-b70e-069ee9ff4e3b.png)
+
+- RED DOBLE ANILLO:
+
+![image](https://user-images.githubusercontent.com/72580574/235003501-425b36ed-d3f2-4e22-bc23-6c686dff8700.png)
+
+
+- RED MIXTA:
+
+![image](https://user-images.githubusercontent.com/72580574/235003534-1bb87624-3b21-4a0a-9d7d-dc786722bd9e.png)
+
+
+
+---
 
 2. Realiza un cuadro comparativo  con las ventajas y desventajas de cada topología de red.
 
