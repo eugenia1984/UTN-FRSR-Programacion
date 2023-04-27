@@ -1,4 +1,5 @@
-# MARTER 25 ABRIL
+# :star: MARTER 25 ABRIL
+
 ---
 
 ## SPECIFIC VOCUBULARY AND STRUCTURES
@@ -235,3 +236,32 @@ but now I live in Qatar. Do you know where Glenda’s from?
 -Dell
 
 - Her job is to set up new systems.
+
+---
+---
+
+# :star: JUEVES 27 ABRIL
+
+## CUESTIONARIO
+
+
+Six people are introducing themselves. What job do they do?
+
+![image](https://user-images.githubusercontent.com/72580574/235001028-7bd1da24-d380-485b-a30b-ec926be8cd49.png)
+
+
+1- Maria is a software developer.
+
+2- Ahmed is a helpdesk supervisor
+
+3- Freddy is a proyect manager
+
+4- Hana is a support technician
+
+5- Tim is a database administrator
+
+6- Sophie is a system analyst
+
+
+
+---
