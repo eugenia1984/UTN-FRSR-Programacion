@@ -1,26 +1,26 @@
-# :star:Clase 2 - 21 Abril:star: 
+# :star:CLASE 2 - 21 ABRIL:star: 
 
-## Base de datos no Reacionales
+## BASE DE DATOS NO RELACIONALES
 
 ### Elementos de Investigación Operativa:
 
 --- 
 
 
-#### Base de Datos NoSQL:
+#### :book: Base de Datos NoSQL:
 
 
-Cuando hablamos de bases de datos nosql , nos referimos a un conjunto de datos no relacionales.
+- Cuando hablamos de **bases de datos nosql**, nos referimos a un **conjunto de datos no relacionales**.
 
-ES UNA AMPLIA BASE DE DATOS, LA CUAL NO UTILIZA LENGUAJE SQL COMO LENGUAJE PRINCIPAL DE CONSULTA, SINO QUE SE MANEJA CON DOCUMENTOS.
+- ES UNA AMPLIA BASE DE DATOS, LA CUAL NO UTILIZA LENGUAJE SQL COMO LENGUAJE PRINCIPAL DE CONSULTA, SINO QUE SE MANEJA CON DOCUMENTOS.
 
 ### VENTAJAS
 
 **Productividad**:
 
-•En el desarrollo de aplicaciones. El sistema NOSQL NOS PROPORCIONA UN MODELO DE DATOS QUE ENCAJAN CON LAS NECESIDADES DE LAS APLICACIONES.
+• En el desarrollo de aplicaciones. El sistema NOSQL NOS PROPORCIONA UN MODELO DE DATOS QUE ENCAJAN CON LAS NECESIDADES DE LAS APLICACIONES.
 
-•Es adaptable y cuando surge las bases nosql, produjo muchas migraciones de una base de datos relacional a una no relacional
+• Es adaptable y cuando surge las bases nosql, produjo muchas migraciones de una base de datos relacional a una no relacional
 
 
 **DATOS A GRAN ESCALA**:
@@ -35,49 +35,52 @@ Me va a permitir manejar mucha cantidad de base de datos
 ### Característica
 
 
-•No utiliza  SQL como lenguaje principal,
+• No utiliza  SQL como lenguaje principal,
 
-•generalmente es de código abierto
+• generalmente es de código abierto
 
-•No posee un esquema fijo
+• No posee un esquema fijo
 
 ---
 
-## Modelos de Base de Datos NOSQL:
+## :book: Modelos de Base de Datos NOSQL:
 
-### Modelo clave valor:
+### MODELO CLAVE VALOR:
 
-SE BASA EN UN MÉTODO SIMPLE CLAVE-VALOR. ALMACENANDO LOS DATOS COMO UN CONJUNTO DE PARES CLAVE-VALOR .
+- SE BASA EN UN MÉTODO SIMPLE CLAVE-VALOR. 
 
-ALMACENENADOLOS DATOS COMO CONJUNTO DE PARES CLAVE-VALOR EN LA QUE UNA CLAVE SIRVE COMPO UN IDENTIFICADOR ÚNICOS
+- ALMACENANDO LOS DATOS COMO UN CONJUNTO DE PARES CLAVE-VALOR.
+
+- ALMACENENADOLOS DATOS COMO CONJUNTO DE PARES CLAVE-VALOR EN LA QUE UNA CLAVE SIRVE COMPO UN IDENTIFICADOR ÚNICOS
 
 
 ### MODELO ORINETADO A DOCUMENTO
 
-Una base de datos orientada a Documentos.
+- Una base de datos orientada a Documentos.
 
-Es un subconjunto de base de datos nosql
+- Es un subconjunto de base de datos nosql
 
-Siendo esta base de datos semi-estructurado
+- Siendo esta base de datos semi-estructurado
 
-Estas bases se almacenan en documentos y sobre esos documentos se realizan las consultas.
+- Estas bases se almacenan en documentos y sobre esos documentos se realizan las consultas.
 
 Por ej: Facebook utiliza base de DaTOS NO REACIONALES YA QUE MANEJA MUCHOS DATOS DE USUARIOS
 
 
 
-### Modelo Basado en Columnas
+### MODELO BASADO EN COLUMNAS
 
 
 La base de datos basada en columnas son creadas para la velocidad, trabajan de una forma que permite omitir los datos irrelevantes para el análisis y leer de inmediato lo que se busca.
 
 
-### Documentos
+### DOCUMENTOS
 
 Cuando hablamos de documentos, no nos referimos a los documentos que tenemos en nuestra computadora, sino a documentos de base de datos nosql, estos serian lo que en una base de datos relacionales llamamos filas o tuplas
 
+---
 
-### Mongo DB
+### :book: MONGO DB
 
 ES UNA BASE DE DATOS, QUE VA A FUNCIONAR MEDIANTE DOCUMANTOS, OSEA QUE TODOS LOS DATOS EN LOS QUE SE TRABAJA SE ALMACENAN EN DOCUMENTOS.
 
@@ -152,12 +155,18 @@ Una vez que ingresamos al enlace, nos abrirá la página principal
 
 ---
 
-## :star:ACTIVIDAD:
+## :star:ACTIVIDAD:star:
 
 
 1. REALIZAR CUESTIONARIO PARA LA ASITENCIA EN EL AULA DEL CAMPUS
 
+> Actividad realizada individualmente por cada uno de los integrantes del grupo.
+
 2. TRABAJO PRÁCTICO N° 1 GRUPAL: REALIZAR UN MAPA MENTAL CON LOS PRINCIPARES PUNTOS DE BASE DE DATOS NO RELACIONALES VISTAS EN LA CLASE 1 Y 2 , ENVIAR TRABAJO CON LOS NOMBRES Y APELLIDOS DE QUIENES PARTICIPARON
+
+
+
+![image](https://user-images.githubusercontent.com/72580574/235002222-f17d8490-2175-449f-943c-719e1ae7b541.png)
 
 
 ---
