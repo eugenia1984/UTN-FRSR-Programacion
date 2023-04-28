@@ -48,6 +48,22 @@ public class TestArgumentosVariables {
 }
 ```
 
+OUTPUT:
+
+```
+run:
+Elementos: 3
+Elementos: 4
+Elementos: 5
+Elementos: 1
+Elementos: 2
+* * * * * * * * * * * * * * 
+Nombre: Juan
+Elementos: 6
+Elementos: 7
+Elementos: 8
+BUILD SUCCESSFUL (total time: 0 seconds)
+```
 
 ---
 
