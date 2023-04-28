@@ -47,6 +47,78 @@ public class TestForEach {
 }
 ```
 
+![image](https://user-images.githubusercontent.com/72580574/235216027-4712aa76-9029-4f11-8aec-d5160a6935cc.png)
+
+- Creo la clase **Persona**:
+
+```Java
+package domain;
+
+
+public class Persona {
+    private String name;
+
+    public String getName() {
+        return name;
+    }
+
+    public void setName(String name) {
+        this.name = name;
+    }
+
+    public Persona(String name) {
+        this.name = name;
+    }
+
+    @Override
+    public String toString() {
+        return "Persona{ " + "name = " + name + '}';
+    }  
+}
+```
+
+En un array no se puede usar la inferencia de tipos(var).
+
+Implemento un nuevo array de Persona y lo muestro con el forEach:
+
+```Java
+package test;
+
+import domain.Persona;
+
+public class TestForEach {
+    public static void main(String[] args) {
+        int edades[] = {5, 6, 8, 9}; // sintaxis resumida
+        
+        // sintaxis del forEach
+        for(int edad: edades) {
+            System.out.println("Edad: " + edad);
+        }
+        
+        // Array de personas
+        Persona personas[] = {new Persona("Juan"), new Persona("Carla"), new Persona("Beatriz")};
+        
+        for(Persona persona: personas) {
+            System.out.println("persona :" + persona );
+        }
+    }
+}
+```
+
+OUTPUT:
+
+```
+run:
+Edad: 5
+Edad: 6
+Edad: 8
+Edad: 9
+persona :Persona{ name = Juan}
+persona :Persona{ name = Carla}
+persona :Persona{ name = Beatriz}
+BUILD SUCCESSFUL (total time: 0 seconds)
+```
+
 
 ---
 
