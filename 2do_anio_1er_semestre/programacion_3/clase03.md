@@ -318,6 +318,25 @@ public class TestDafault {
 
 - Si se aplica en un atributo, no va  apoder ser modificado desde otroa clase, tneemos ENCAPSULAMIENTO, accedemos a su valor por el getter.
 
+```Java
+package paquete2;
+
+public class Clase4 {
+    private String atributoPrivate= "Atributo privado";
+    
+    // creamos un constructor public para poder crear objetos
+    public Clase4(String argumento) {
+        this();
+        System.out.println("Cosntructor publico");
+    }
+    
+    // metodo privado
+    private Clase4() {
+        System.out.println("Método privado");
+    }
+}
+```
+
 ---
 
 ## :book: Lectura recomendada : ¿Qué es la caché y cómo se usa en la programación? (guía completa)
