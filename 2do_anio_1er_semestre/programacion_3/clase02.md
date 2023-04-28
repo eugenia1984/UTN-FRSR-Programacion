@@ -211,6 +211,51 @@ BUILD SUCCESSFUL (total time: 0 seconds)
 
 ---
 
+## :star: 1.3 Pruebas de enum, con la creación de enum Continentes
+
+![image](https://user-images.githubusercontent.com/72580574/235175201-4e185661-dcdf-4171-b97a-7d7f700d0f67.png)
+
+
+Creo el enum **Continentes**:
+
+```Java
+/*
+ * Se puede finalizar el enum con ; porque 
+ * vamos a tener atributos y metodos
+ */
+package enumeraciones;
+
+
+public enum Continentes {
+    AFRICA(53, "1.2 billones"),
+    EUROPA(36, "1.1 billones"),
+    ASIA(44, "1.9 millones"),
+    AMERICA(34, "150.2 billones"),
+    OCEANIA(14, "1. billones");
+    
+    // atributo encapsulado por ser PRIVATE
+    private final int paises;
+    private String habitantes;
+    
+    // Constructor
+    Continentes(int paises, String habitantes) {
+        this.paises = paises;
+        this.habitantes = habitantes;
+    }
+    
+    // getter para recuperar los paises
+    public int getPaises() {
+        return this.paises;
+    }
+    
+    public String getHabitantes() {
+        return this.habitantes;
+    }
+}
+```
+
+---
+
 ## :star: 1.5 Documento para leer: Seis lenguajes para desarrollo movil
 
 ![image](https://user-images.githubusercontent.com/72580574/235013941-942b90b8-e325-4198-9d31-41209659f907.png)
