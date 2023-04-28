@@ -21,6 +21,8 @@
 
 ## 1.1 - Argumentos variables
 
+![image](https://user-images.githubusercontent.com/72580574/235157913-8da2c34e-47d9-4af2-b7dc-d64d4d3e7bed.png)
+
 
 ```Java
 public class TestArgumentosVariables {
@@ -68,6 +70,8 @@ BUILD SUCCESSFUL (total time: 0 seconds)
 ---
 
 ## :star:  1.2 - Manejo de Enumeraciones (enum)
+
+![image](https://user-images.githubusercontent.com/72580574/235158022-d1ac9095-804c-470f-9763-1b5d1dd69c20.png)
 
 ---
 
