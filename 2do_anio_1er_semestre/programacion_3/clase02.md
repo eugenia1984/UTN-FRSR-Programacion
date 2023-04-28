@@ -454,7 +454,7 @@ VOCABULARIO:
 
 ... **REST(REPRESENTATION STATE TRANSFER)**: la arquitectura más utilizada para API: **RESTFULL**
 
-<img src="[https://user-images.githubusercontent.com/72580574/235204186-51ae0d83-700c-4108-96ba-3ccb68d15c9b.png](https://user-images.githubusercontent.com/72580574/235014196-085ad70a-22c7-4ea6-88df-7c75980741ec.png)" alt="tipos d eAPI" wdith="400"/>
+<img src="[https://user-images.githubusercontent.com/72580574/235204186-51ae0d83-700c-4108-96ba-3ccb68d15c9b.png](https://user-images.githubusercontent.com/72580574/235014196-085ad70a-22c7-4ea6-88df-7c75980741ec.png)" alt="tipos d eAPI" width="400"/>
 
 
 ## Desarrollar una API REST
@@ -473,7 +473,7 @@ Al solicitar un servicio el SERVIDOR nos brinda un CODIGO DE ESTADO, para sabe q
 
 - **500**: error en el servidor
 
-<img src="https://user-images.githubusercontent.com/72580574/235204186-51ae0d83-700c-4108-96ba-3ccb68d15c9b.png" alt="codigo de estado" wdith="400"/>
+<img src="https://user-images.githubusercontent.com/72580574/235204186-51ae0d83-700c-4108-96ba-3ccb68d15c9b.png" alt="codigo de estado" width="400"/>
 
 ## Métodos HTTP
 
