@@ -73,6 +73,62 @@ BUILD SUCCESSFUL (total time: 0 seconds)
 
 ![image](https://user-images.githubusercontent.com/72580574/235158022-d1ac9095-804c-470f-9763-1b5d1dd69c20.png)
 
+CReo el paquete **enumeraciones** con la clase **Dias**:
+
+```Java
+package enumeraciones;
+
+// ENUM
+// Similar a una clase
+// Posee elementos definidos
+// Por default los elementos son: public static final(CONSTANTES)
+public enum Dias {
+    LUNES,
+    MARTES,
+    MIERCOLES,
+    JUEVES,
+    VIERNES,
+    SABADO,
+    DOMINGO   
+}
+```
+
+Creo el paquete **test** con la clase **TestEnumeraciones**:
+
+```Java
+package test;
+
+import enumeraciones.Dias;
+
+
+public class TestEnumeraciones {
+    public static void main(String[] args) {
+        System.out.println("Día 1: "+ Dias.LUNES);
+        System.out.println("Día 2: " + Dias.MARTES);
+        System.out.println("Día 3: " + Dias.MIERCOLES);
+        System.out.println("Día 4: " + Dias.JUEVES);
+        System.out.println("Día 5: " + Dias.VIERNES);
+        System.out.println("Día 6: " + Dias.SABADO);
+        System.out.println("Día 7: " + Dias.DOMINGO);
+    }
+    
+}
+```
+
+OUTPUT:
+```
+run:
+Día 1: LUNES
+Día 2: MARTES
+Día 3: MIERCOLES
+Día 4: JUEVES
+Día 5: VIERNES
+Día 6: SABADO
+Día 7: DOMINGO
+BUILD SUCCESSFUL (total time: 0 seconds)
+```
+
+
 ---
 
 ## :star: 1.5 Documento para leer: Seis lenguajes para desarrollo movil
