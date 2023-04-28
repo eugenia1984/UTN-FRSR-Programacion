@@ -60,3 +60,91 @@
 
 
 ---
+
+## :book: Lectura recomendada : ¿Qué es la caché y cómo se usa en la programación? (guía completa)
+
+¿Sabes cómo hacen los programadores para que las aplicaciones y sitios web sean más rápidas? La respuesta es la caché y en este blog te enseño de qué se trata.
+
+Te has dado cuenta de lo rápido que Google te entrega los resultados de tu búsquedas? No importa lo que busques, sea algo muy particular como "Curso de JavaScript EDteam dictado por Beto Quiroga" o algo super general como "aprender a programar". Google te devuelve el resultado en milisegundos. ¿Pero como lo hace si tiene que buscar literalmente en todo el mundo y darte resultados al instante?
+
+![image](https://user-images.githubusercontent.com/72580574/235207484-a2b51d9a-91be-4866-9065-f14e9d6fa1b7.png)
+
+De hecho, la velocidad de Google es uno de sus principales características. Tanto así que desde que fue lanzado el buscador, además de darte los resultados de búsqueda, te decía cuanto había tardado para que no se te olvide lo rápido que es (hasta ahora lo hace). ¿Por qué es tan rápido y como lo hace? La respuesta está en el título de este blog, “la caché”.
+
+## ¿Qué es la caché? (explicado con una metáfora)
+
+Te lo voy a explicar con un ejemplo. Imagina que haces una compra online, pero escoges retiro en tienda. Cuando vas a recoger tu pedido, ven la lista de productos en la pantalla y se ponen a buscar en todo el almacén producto por producto, recorriendo pasillos, estantes y demás. Y 20 minutos después ya tienen tus productos, te los ponen en una bolsa y te los entregan.
+
+¡Debes esperar 20 largos minutos! ¡Qué pereza!
+
+Ahora imagina que esa bolsa con tus productos ya estuviera lista desde antes que tú llegues con una etiqueta con tu nombre. Llegas, pides tus productos y te los dan. 5 segundos. ¡Eso si es ser eficiente! Y esto que acaba de pasar es como funciona la caché.
+
+Si nos vamos al mundo del software, esos grandes almacenes son las bases de datos y cuando solicitamos información, las aplicaciones tiene que buscar en toda su base de datos dicha información, prepararla y presentarla, eso toma tiempo. Pero si esos datos ya estuvieran listos para no tener que buscarlos (como en el ejemplo), el proceso sería instantáneo.
+
+## ¿Qué es la caché y cómo funciona en la web?
+
+La caché es una memoria intermedia donde se guardan datos para acceder a ellos mucho más rápido sin tener que consultar a la fuente original de datos (igual que el ejemplo de la compra online).
+
+![image](https://user-images.githubusercontent.com/72580574/235207609-0e6e4f3c-4b7e-4f2d-bbb6-5daa2fc3e7d8.png)
+
+Por eso Google es tan rápido. Porque la búsqueda que tú hiciste, Google la hizo horas o días antes y guardó los resultados en caché. Así cuando llegas donde Google y le dices: "Oye Google, tienes mi pedido?" Te lo entrega al instante. En otras palabras, Google no hizo la búsqueda en ese instante, ya la tenía hecha. La tenía "cacheada" como decimos los devs.
+
+Por eso, gracias a la caché, las aplicaciones pueden responder mucho más rápido porque no necesitan ir a buscar datos cada vez que los necesitan, sino que ya los tienen en caché.
+
+Por ejemplo, si entras a ed.team para ver tus cursos, la primera vez el navegador solicita las imágenes, el JavaScript, el CSS, etc y los guarda en su memoria caché. La siguiente vez que entres a ed.team ya no solicita toda esa información porque los guardó en caché y de esta manera la página carga muy rápido.
+
+![image](https://user-images.githubusercontent.com/72580574/235207680-a3d93727-63a2-4bf1-bee2-7878592d6888.png)
+
+
+## ¿Para qué sirve la caché en las aplicaciones?
+
+Y así como el navegador guarda los recursos en su caché local, todas las apps hacen lo mismo. Por ejemplo, WhatsApp guarda en caché los archivos que recibes para no tener que solicitarlos cada vez desde internet. Como cuando descargas una foto que te enviaron la primera vez se ve borrosa hasta que la descargues y se guarde en caché.
+
+![image](https://user-images.githubusercontent.com/72580574/235207749-def5bea0-634e-4f6a-b78f-3defd05ed2af.png)
+
+
+Otro ejemplo muy interesante es Adobe Premiere. Este programa guarda en caché copias de los recursos para acceder más rápido. Pero cuando la caché se llena Premiere se vuelve increíblemente lento y toca limpiar la caché.
+
+Ahí viene el siguiente punto de la caché: es una memoria con un tiempo de vida, toca estarla borrando cada cierto tiempo para liberar espacio o incluso que la aplicación vuelva a funcionar bien cuando se pone lenta. Si una página no te funciona correctamente, puedes probar limpiando la caché del navegador para descartar cualquier problema.
+
+Por eso los desarrolladores web suelen indicar cada cuanto tiempo se debe regenerar la caché de las aplicaciones para que los usuarios siempre tengan la última versión.
+
+## Capas de la caché
+
+En el desarrollo de software la caché no está en un solo lugar, sino que puede implementarse en diferentes capas. Las principales son:
+
+![image](https://user-images.githubusercontent.com/72580574/235207797-e2134f35-c444-4153-a604-97658583f074.png)
+
+- **En el cliente**: El cliente es quien consume la aplicación desde una computadora o un dispositivo móvil (puede ser una app o un sitio web). Aquí la caché estará en el navegador si es un sitio web o en la caché de las aplicaciones móviles si es una app.
+
+- **En los DNS (internet)**: Si entras a ed.team tienes que conectarte a internet, ¿y dónde está la caché de internet? ¡En las DNS! Las DNS son los servidores que resuelven los nombres de dominio (convierten ed.team a una dirección IP). Estos servidores DNS también están cacheados para responder mucho más rápido a las peticiones.
+
+- **En la Web**: Si entras a Netflix ves películas, en Instagram fotos y en EDteam tus cursos. Todo ese contenido está en algún lugar, pero que pasa si esa información es consumida en varios países. Para eso tenemos a los famosos CDN (Content delivery network), lo que hacen es guardar copias en caché del contenido en diferentes ubicaciones geográficas. Por lo que si estás en Perú, la CDN buscará la copia en caché más cercana a tu país para mostrarte el contenido mucho más rápido.
+
+- **En las apps**: Es como cada app guarda sus datos en caché según como los desarrolladores lo hayan indicado. Hay apps que requieren un acceso en tiempo real a la información como los e-commerces, redes sociales o videojuegos que necesitan la información de inmediato, en estos casos la caché es vital.
+
+- **En las bases de datos**: Es la fuente original de la información, por eso cachear las BD es muy importante para el rendimiento de las aplicaciones (tanto SQL como No SQL).
+
+## ¿Cómo se implementa la caché en el desarrollo web?
+Como ya debes saber, el desarrollo web se divide en Frontend y Backend. Y si no tienes bien clara la diferencia tenemos la mejor explicación en español aquí en YouTube: ¿Qué es BACKEND y FRONTEND? (guía completa). La caché se implementa en los dos lados, en el backend y en el frontend.
+
+- **En el backend**:
+
+Se cachea las consultas a las bases de datos. También determina el tiempo de vida de la caché y cada cuanto tiempo va a regenerarse, puede ser cada hora, una vez al día, cada semana, etc, esto depende del tipo y las necesidades de la aplicación.
+
+Estos datos en caché pueden guardarse en disco o en memoria RAM, aunque guardarlos en memoria RAM da un acceso mucho más veloz a los datos. En este caso existen opciones como Redis para guardar la información en memoria y servirla a las diferentes capas de la aplicación.
+
+- **En el frontend**:
+
+Frontend hace una petición de la información a la caché, si no encuentra nada en caché se va directamente a la fuente de datos (el servidor) y guarda esta información en su caché local (la del navegador).
+
+![image](https://user-images.githubusercontent.com/72580574/235208103-e144546c-1538-4397-b46c-b793988352f8.png)
+
+
+Cuando el usuario entra por 2da o 3ra vez a la web frontend le pregunta al servidor si se ha regenerado o no la caché. Si no se regeneró, el cliente toma la información de la caché (que es más rápida) y si se ha regenerado, frontend debe consultar la fuente de datos original y guardarla nuevamente en su caché local y de esta manera se logran crear aplicaciones web super rápidas como EDteam.
+
+![image](https://user-images.githubusercontent.com/72580574/235208189-39145385-39c8-4d96-908b-2cf43d7fad41.png)
+
+Ahora ya sabes todo sobre la caché y como funciona en el mundo del software y la programación. Si te gustó el blog deja tu me gusta y si tienes consultas te leemos en los comentarios.
+
+---
