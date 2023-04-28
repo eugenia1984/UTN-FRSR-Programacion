@@ -157,6 +157,24 @@ public class TestAutoboxingUnboxing {
 
 Si bien el output de ambos es `10`, el primero es iun **int** y el segundo es **String**.
 
+-> Las clases envolventes son ...
+
+... int -> Integer
+
+... long -> Long
+
+... float -> Float
+
+... double -> Double
+
+... boolean -> Boolean
+
+... byte -> Byte
+
+... char -> Char
+
+... short -> Short
+
 ---
 
 ## 1.3 Modificadores de acceso public
