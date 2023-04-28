@@ -276,6 +276,89 @@ public class TestEnumeraciones {
 
 ---
 
+## :star: 1.4 - Manejo de bloques de código
+
+- Los bloques de inicialización se ejecutan antes del constructor
+
+- El bloque de inicialización ESTÁTICO se ejecuta una sola vez
+
+- El bloque de inicialización no ESTÁTICO se ejecuta CADA VEZ QUE SE INSTANCIA UN OBJETO
+
+![image](https://user-images.githubusercontent.com/72580574/235197887-8f1138b3-9047-4900-9b22-70db402b6c14.png)
+
+
+
+- Clase **Persona**:
+
+```Java
+package domain;
+
+public class Persona {
+    private final int idPersona;
+    private static int contadorPersonas;
+    
+    static { // Bloque de inciializacion estatico
+        System.out.println("Ejecución del bloque estático");
+        ++Persona.contadorPersonas;
+        // como idPersona no es un atributo ESTATICO no podemos inciializarlo aca
+    } 
+
+    // Bloque de inicialización NO estático (contexto dinámico)
+    { 
+        System.out.println("Ejecucuión del bloque NO estático");
+        this.idPersona = Persona.contadorPersonas++; // Incrementamos el atributo
+    }
+    
+    // Los bloques de inicialización se ejecutan antes del constructor
+    
+    // Constructor
+    public Persona() {
+        System.out.println("Ejecución del constructor");
+    }
+    
+    public int getIdPersona() {
+        return this.idPersona;
+    }
+}
+```
+
+- Clase main **TestBloque**:
+
+```Java
+package test;
+
+import domain.Persona;
+
+public class TestBloque {
+    public static void main(String[] args) {
+        Persona persona1 = new Persona();
+        System.out.println("Persona :" + persona1);
+    } 
+}
+```
+
+OUTPUT:
+
+```
+run:
+Ejecución del bloque estático
+Ejecucuión del bloque NO estático
+Ejecución del constructor
+Persona :domain.Persona@15db9742
+BUILD SUCCESSFUL (total time: 0 seconds)
+```
+
+Si agregamos el **toString** en la clase persona podemos ver los atributos.
+
+```Java
+@Override
+public String toString() {
+   return "Persona{" + "idPersona=" + idPersona + '}';
+}
+```
+
+---
+
 ## :star: 1.5 Documento para leer: Seis lenguajes para desarrollo movil
 
 ![image](https://user-images.githubusercontent.com/72580574/235013941-942b90b8-e325-4198-9d31-41209659f907.png)
@@ -319,6 +402,11 @@ JavaScript tiene antigüedad y está en todos lados. Con este lenguaje puedes cr
 ## :tv: Video recomendado:
 
 ![image](https://user-images.githubusercontent.com/72580574/235014196-085ad70a-22c7-4ea6-88df-7c75980741ec.png)
+
+
+---
+
+## :tv: Video recomendado: API
 
 
 ---
