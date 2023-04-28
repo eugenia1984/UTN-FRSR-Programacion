@@ -454,7 +454,8 @@ VOCABULARIO:
 
 ... **REST(REPRESENTATION STATE TRANSFER)**: la arquitectura más utilizada para API: **RESTFULL**
 
-![tipos de API](https://user-images.githubusercontent.com/72580574/235014196-085ad70a-22c7-4ea6-88df-7c75980741ec.png)
+<img src="[https://user-images.githubusercontent.com/72580574/235204186-51ae0d83-700c-4108-96ba-3ccb68d15c9b.png](https://user-images.githubusercontent.com/72580574/235014196-085ad70a-22c7-4ea6-88df-7c75980741ec.png)" alt="tipos d eAPI" wdith="400"/>
+
 
 ## Desarrollar una API REST
 
@@ -472,11 +473,13 @@ Al solicitar un servicio el SERVIDOR nos brinda un CODIGO DE ESTADO, para sabe q
 
 - **500**: error en el servidor
 
-![image](https://user-images.githubusercontent.com/72580574/235204186-51ae0d83-700c-4108-96ba-3ccb68d15c9b.png)
+<img src="https://user-images.githubusercontent.com/72580574/235204186-51ae0d83-700c-4108-96ba-3ccb68d15c9b.png" alt="codigo de estado" wdith="400"/>
 
 ## Métodos HTTP
 
-![image](https://user-images.githubusercontent.com/72580574/235204623-d23fb6c6-620f-44ab-bb73-fe58707556cf.png)
+
+<img src="[https://user-images.githubusercontent.com/72580574/235204186-51ae0d83-700c-4108-96ba-3ccb68d15c9b.png](https://user-images.githubusercontent.com/72580574/235204623-d23fb6c6-620f-44ab-bb73-fe58707556cf.png)" alt="metodos HTTP" wdith="400"/>
+
 
 Nos permiten INTERACTUAr con la API.
 
