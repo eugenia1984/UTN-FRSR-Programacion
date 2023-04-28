@@ -291,6 +291,20 @@ public class ClaseHija2 extends Clase2 { // clase de tipo DEFAULT puede ser clas
 }
 ```
 
+```Java
+package paquete1;
+
+public class TestDafault {
+    public static void main(String[] args) {
+        Clase2 clase2 = new Clase2();
+        ClaseHija2 claseHija2 = new ClaseHija2();
+        claseHija2.atributoDefault = "Cambio desde la prueba";
+        System.out.println("ClaseHija2 atributoDefault = " + claseHija2.atributoDefault);
+    }
+}
+```
+
+
 ---
 
 ## 1.6 Modificador de acceso private
@@ -301,6 +315,8 @@ public class ClaseHija2 extends Clase2 { // clase de tipo DEFAULT puede ser clas
 - No todos tienen acceso, se puede declarar en: VARIABLE / MÉTODO / CONSTRUCTOR
 
 - Es el más restrictivo de todos
+
+- Si se aplica en un atributo, no va  apoder ser modificado desde otroa clase, tneemos ENCAPSULAMIENTO, accedemos a su valor por el getter.
 
 ---
 
