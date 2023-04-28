@@ -334,6 +334,16 @@ public class Clase4 {
     private Clase4() {
         System.out.println("Método privado");
     }
+    
+        // getters and setters 
+    public String getAtributoPrivate() {
+        return atributoPrivate;
+    }
+
+    public void setAtributoPrivate(String atributoPrivate) {
+        this.atributoPrivate = atributoPrivate;
+    }
+    
 }
 ```
 
