@@ -67,6 +67,83 @@ Elementos: 8
 BUILD SUCCESSFUL (total time: 0 seconds)
 ```
 
+Agrego un método para indicar que orden de día de la semana es:
+
+```Java
+package test;
+
+import enumeraciones.Dias;
+
+
+public class TestEnumeraciones {
+    public static void main(String[] args) {
+        System.out.println("Día 1: "+ Dias.LUNES);
+        indicarDiasSemana( Dias.LUNES);
+        System.out.println("Día 2: " + Dias.MARTES);
+        indicarDiasSemana( Dias.MARTES);
+        System.out.println("Día 3: " + Dias.MIERCOLES);
+        indicarDiasSemana( Dias.MIERCOLES);
+        System.out.println("Día 4: " + Dias.JUEVES);
+        indicarDiasSemana( Dias.JUEVES);
+        System.out.println("Día 5: " + Dias.VIERNES);
+        indicarDiasSemana( Dias.VIERNES);
+        System.out.println("Día 6: " + Dias.SABADO);
+        indicarDiasSemana( Dias.SABADO);
+        System.out.println("Día 6: " + Dias.DOMINGO);
+        indicarDiasSemana( Dias.DOMINGO);
+    }
+    
+    private static void indicarDiasSemana(Dias dias) {
+        switch (dias) {
+            case LUNES:
+                System.out.println("Primer día de la semana");
+                break;
+            case MARTES:
+                System.out.println("Segundp día de la semana");
+                break;
+            case MIERCOLES:
+                System.out.println("Tercer día de la semana");
+                break;
+            case JUEVES:
+                System.out.println("Cuarto día de la semana");
+                break;
+            case VIERNES:
+                System.out.println("Quinto día de la semana");
+                break;
+            case SABADO:
+                System.out.println("Sexto día de la semana");
+                break;
+            case DOMINGO:
+                System.out.println("Septimo día de la semana");
+                break;
+            default:
+                throw new AssertionError();
+        }
+    }
+    
+}
+```
+
+OUTPUT:
+```
+run:
+Día 1: LUNES
+Primer día de la semana
+Día 2: MARTES
+Segundp día de la semana
+Día 3: MIERCOLES
+Tercer día de la semana
+Día 4: JUEVES
+Cuarto día de la semana
+Día 5: VIERNES
+Quinto día de la semana
+Día 6: SABADO
+Sexto día de la semana
+Día 6: DOMINGO
+Septimo día de la semana
+BUILD SUCCESSFUL (total time: 0 seconds)
+```
+
 ---
 
 ## :star:  1.2 - Manejo de Enumeraciones (enum)
