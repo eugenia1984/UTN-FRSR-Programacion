@@ -448,13 +448,13 @@ VOCABULARIO:
 
 - **LOCALES**: se ejecutan dentro del mismo entorno. Por ejemplo: desarrollando una aplicación android se necesita que una notificación vibre, por lo que se comunica con la API interna del teléfono para vibrar.
 
-- **REMOTAS**: consumiendo datos de una aplicaciónq ue está en otro lugar. Las remotas pueden utulizar **SERVICIOS WEB** y por esto pueden utilizar el protocolo...
+- **REMOTAS**: consumiendo datos de una aplicación que está en otro lugar. Las remotas pueden utulizar **SERVICIOS WEB** y por esto pueden utilizar el protocolo...
 
 ... **SOAP(SIMPLE OBJECT ACCESS PROTOCOL)**: se utiliza menos ahora, fue el primero en utilizarse.
 
 ... **REST(REPRESENTATION STATE TRANSFER)**: la arquitectura más utilizada para API: **RESTFULL**
 
-<img src="[https://user-images.githubusercontent.com/72580574/235204186-51ae0d83-700c-4108-96ba-3ccb68d15c9b.png](https://user-images.githubusercontent.com/72580574/235014196-085ad70a-22c7-4ea6-88df-7c75980741ec.png)" alt="tipos d eAPI" width="400"/>
+![image](https://user-images.githubusercontent.com/72580574/235206650-408bbb22-125c-4015-9a7e-10c6c4a6e207.png)
 
 
 ## Desarrollar una API REST
@@ -465,6 +465,9 @@ VOCABULARIO:
 
 Al solicitar un servicio el SERVIDOR nos brinda un CODIGO DE ESTADO, para sabe que paso con la peticióm.
 
+
+![image](https://user-images.githubusercontent.com/72580574/235206752-0dd50a37-bbe3-44d6-a4f9-506efc944363.png)
+
 - **200**: exitosos. 202 se creo un nuevo recurso
 
 - **300**: redirecciones, 301 es redirección permanente, 303 redirección temporal.
@@ -473,12 +476,9 @@ Al solicitar un servicio el SERVIDOR nos brinda un CODIGO DE ESTADO, para sabe q
 
 - **500**: error en el servidor
 
-<img src="https://user-images.githubusercontent.com/72580574/235204186-51ae0d83-700c-4108-96ba-3ccb68d15c9b.png" alt="codigo de estado" width="400"/>
-
 ## Métodos HTTP
 
-
-<img src="[https://user-images.githubusercontent.com/72580574/235204186-51ae0d83-700c-4108-96ba-3ccb68d15c9b.png](https://user-images.githubusercontent.com/72580574/235204623-d23fb6c6-620f-44ab-bb73-fe58707556cf.png)" alt="metodos HTTP" wdith="400"/>
+![image](https://user-images.githubusercontent.com/72580574/235206789-63a4afda-7f64-446a-aa3e-2b161449bbbf.png)
 
 
 Nos permiten INTERACTUAr con la API.
