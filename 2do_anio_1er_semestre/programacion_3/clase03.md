@@ -124,6 +124,32 @@ BUILD SUCCESSFUL (total time: 0 seconds)
 
 ## 1.2 Autoboxing y Unboxing Parte 1 y 2
 
+Creo el proyecto **AutoboxingUnboxing**:
+
+![image](https://user-images.githubusercontent.com/72580574/235227515-0f5fb860-2f48-4b75-ae26-97952d5266d7.png)
+
+
+```Java
+package test;
+
+public class TestAutoboxingUnboxing {
+    public static void main(String[] args) {
+        /*
+        * Cada TIPO PRIMITIVO tiene asociado su CLASE WRAPPER(envolvente).
+        * Al ser un OBJETO de una CLASE va a tener ATRIBUTOS y MÉTODOS
+        */
+        
+        // int -> Integer
+        int enteroPrimitivo = 10;
+        Integer enteroTipoObject = 10;
+        System.out.println("enteroPrimitivo = " + enteroPrimitivo);
+        System.out.println("enteroTipoObject = " + enteroTipoObject.toString());
+    }
+}
+```
+
+Si bien el output de ambos es `10`, el primero es iun **int** y el segundo es **String**.
+
 ---
 
 ## 1.3 Modificadores de acceso public
