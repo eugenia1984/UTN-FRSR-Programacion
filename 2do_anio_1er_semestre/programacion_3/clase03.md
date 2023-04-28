@@ -177,13 +177,16 @@ Si bien el output de ambos es `10`, el primero es iun **int** y el segundo es **
 
 ---
 
-![image](https://user-images.githubusercontent.com/72580574/235014774-4adb61c1-bb27-4d0a-8ab3-0336d923162e.png)
+![image](https://user-images.githubusercontent.com/72580574/235233250-0d141210-c1f9-4378-9597-aaf08a18a977.png)
 
 @byUbaldo
 
 ---
 
 ## 1.3 Modificadores de acceso public
+
+![image](https://user-images.githubusercontent.com/72580574/235233280-ed91f770-c04d-4174-afc7-3bae3c07fd3d.png)
+
 
 - Todos tienen accesos, se puede declarar en: CLASE / VARIABLE / MÉTODO / CONSTRUCTOR
 
@@ -241,6 +244,31 @@ public class TestModificadoresAcceso {
 ![image](https://user-images.githubusercontent.com/72580574/235014812-2692d46a-14ed-4f64-9ba8-e68ab0caa430.png)
 
 - No todos tienen accesos, se puede declarar en:VARIABLE / MÉTODO / CONSTRUCTOR
+
+- Las clases hijas pueden acceder a los contructores(con SUPER), metodos y atributos de la clase padre.
+
+- Creamos la **Clase3**:
+
+![image](https://user-images.githubusercontent.com/72580574/235235838-5ce25659-6ffd-4796-8222-591865a705b6.png)
+
+
+```Java
+package paquete2;
+
+import paquete1.Clase1;
+/**
+ * Modificador de acceso PROTECTED
+ */
+public class Clase3 extends Clase1 {
+    public Clase3() {
+        // llamamos la constructor de la clase padre de tipo PROTECTED
+        super("protected");
+        this.atributoProtected = "Accedemos desde la clase hija";
+        System.out.println("AtributoProtected = " + this.atributoProtected);
+        this.atributoPublic = "es totalmente píblico";
+    }
+}
+```
 
 ---
 
