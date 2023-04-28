@@ -254,6 +254,26 @@ public enum Continentes {
 }
 ```
 
+Lo invoco en main:
+
+```Java
+package test;
+
+import enumeraciones.Continentes;
+
+public class TestEnumeraciones {
+    public static void main(String[] args) {
+        // Accedemos a un elemento
+        System.out.println("Continente Nro 4: "+ Continentes.AMERICA );
+        // para ver cantidad de paises
+        //System.out.println("Nro. de paises del 4to. continente: "+Continentes.getPaises());
+         // para ver cantidad de habitantes
+        //System.out.println("Nro. de paises del 4to. continente: "+Continentes.getHabitantes());
+    }    
+}
+
+```
+
 ---
 
 ## :star: 1.5 Documento para leer: Seis lenguajes para desarrollo movil
