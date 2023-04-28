@@ -25,6 +25,29 @@
 
 ## 1.1 Manejo del forEach Parte 1 y 2
 
+![image](https://user-images.githubusercontent.com/72580574/235215527-f683c1fc-af11-491f-85ac-0814723b1d58.png)
+
+
+```Java
+/*
+* FOR EACH: es un FOr mejorado
+*/
+package test;
+
+public class TestForEach {
+    public static void main(String[] args) {
+        int edades[] = {5, 6, 8, 9}; // sintaxis resumida
+        
+        // sintaxis del forEach
+        for(int edad: edades) {
+            System.out.println("Edad: " + edad);
+        }
+    }
+  
+}
+```
+
+
 ---
 
 ## 1.2 Autoboxing y Unboxing Parte 1 y 2
