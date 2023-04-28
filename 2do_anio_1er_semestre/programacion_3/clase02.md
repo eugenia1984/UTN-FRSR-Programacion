@@ -399,14 +399,113 @@ JavaScript tiene antigüedad y está en todos lados. Con este lenguaje puedes cr
 
 ---
 
-## :tv: Video recomendado:
-
-![image](https://user-images.githubusercontent.com/72580574/235014196-085ad70a-22c7-4ea6-88df-7c75980741ec.png)
-
-
----
 
 ## :tv: Video recomendado: API
 
+
+
+
+- Ejemplo: cuando necesitamos usar un mapa y usamos **Google maps** o cuando necesitamos hacer un pago en un e-commerce usamos una **pasarela de pagos**. Aprovechamosa utilizar **el desarrollo que ya creo otra empresa**. Otro ejemplo es **slack**.
+
+Lo bueno es que **una aplicaicón se pueda conectar con otra**.
+
+VOCABULARIO:
+
+- **INTERFAZ**: capa de abstracción para que 2 sistemas se comuniquen. Podes interactuar con un sistema, sin saber que pasa por debajo. Ejemplo: Login, ingresas el usuario, la clave, haces click y entras, no sabes que pasa en caunto a validación y demás.
+
+- **API(APPLICATION PROGRAMMING INTERFACE)**: una interfaz para que se comuniquen aplicaciones, programas de software entre ellos.
+
+- **ARQUITECTURA DE SOFTWARE**: la forma en que está diseñado un sistema, como se organizan los componentes, como se comunican entre ellos, que funciones cumplen.
+
+- **SERVICIO WEB**: un sistema que permite la comunicación entre equipos que estén en una misma red, estos sistemas deben seguir ciertos estándares, usar el protocolo HTTP(el mismo protocolo para naveegar por internet) 
+
+- **REST(REPRESENTATIONAL STATE TRANSFER)**: REPRESENTACIÓN DE TRANSFERENCIA DE ESTADO. PErmite guardar los datos en cache, el estado no se envía en las peticiones, se definen cuales son los datos a los cuales otra aplicación podrá acceder, ver, manipular.
+
+- **XML**: el formato qeu se solía utilizar para enviar datos. Es similar al HTML, porque tiene etiquetas. Ejemplo:
+
+```XML
+<Company>
+    <Id>1</iD>
+    <Name>EDTeam</Name>
+    <Sector>Education</Education>
+</Company>
+```
+- **JSON(JAVASCRIPT OBJECT NOTATION)**: es el utilizado hoy en día para enviar inforamción. Ejemplo:
+
+```JSON
+[
+    {
+        "id": 1,
+        "name": "EDTeam",
+        "sector": "Education"
+    }
+]
+```
+
+- **TOKEN**: cunado las APIs son PRIVADAS, requieren una autenticación, por lo que necesitas el TOKEN(tiene los datos de la autenticación).
+
+## Tipos de API
+
+- **LOCALES**: se ejecutan dentro del mismo entorno. Por ejemplo: desarrollando una aplicación android se necesita que una notificación vibre, por lo que se comunica con la API interna del teléfono para vibrar.
+
+- **REMOTAS**: consumiendo datos de una aplicaciónq ue está en otro lugar. Las remotas pueden utulizar **SERVICIOS WEB** y por esto pueden utilizar el protocolo...
+
+... **SOAP(SIMPLE OBJECT ACCESS PROTOCOL)**: se utiliza menos ahora, fue el primero en utilizarse.
+
+... **REST(REPRESENTATION STATE TRANSFER)**: la arquitectura más utilizada para API: **RESTFULL**
+
+![tipos de API](https://user-images.githubusercontent.com/72580574/235014196-085ad70a-22c7-4ea6-88df-7c75980741ec.png)
+
+## Desarrollar una API REST
+
+- **CONSULTAR RECURSOS(URI)**: URI es el IDENTIFICADOR ÚNICO, se lo consulta mediante un ENDPOINT(la URL completa), la URI permite consultar un recurso directamente.
+
+## Códigos de estado
+
+Al solicitar un servicio el SERVIDOR nos brinda un CODIGO DE ESTADO, para sabe que paso con la peticióm.
+
+- **200**: exitosos. 202 se creo un nuevo recurso
+
+- **300**: redirecciones, 301 es redirección permanente, 303 redirección temporal.
+
+- **400**: solicitud inválidad, como 404 a un recuros que no existe o 403 a un recurso al cual no se tiene permiso
+
+- **500**: error en el servidor
+
+![image](https://user-images.githubusercontent.com/72580574/235204186-51ae0d83-700c-4108-96ba-3ccb68d15c9b.png)
+
+## Métodos HTTP
+
+![image](https://user-images.githubusercontent.com/72580574/235204623-d23fb6c6-620f-44ab-bb73-fe58707556cf.png)
+
+Nos permiten INTERACTUAr con la API.
+
+- **GET**: **solicitar** información, para un READ, para mostrar información.
+
+- **POST**: **enviar** nueva información, por ejemplo al crear un nuevo usuario, artículo de e-commerce, etc
+
+- **PUT**: **actualizar** informaión ya existen, por ejemplo al actualizar una contraseña.
+
+- **DELETE**: **borrar** un registro.
+
+Es equivalente al CRUD de las bases de datos.
+
+## Formatos en que pueden devolver la información
+
+- **JSON**
+
+- **XML**
+
+- **Texto plano**
+
+## Buenas prácticas
+
+- HATTEOAS: que la API se autodescribe, cada recurso tiene información de cuál es el recurso sigueinte o de la cantidad de recursos totales que hay.
+
+- SEGURIDAD: para que no tengan accesos a nuestros datos y nos los modifiquen, con mala intención.
+
+- TESTEAR: que funcione como debe funcionar.
+
+- DOCUMENTAR: para que puedan saber como implementar tu API
 
 ---
