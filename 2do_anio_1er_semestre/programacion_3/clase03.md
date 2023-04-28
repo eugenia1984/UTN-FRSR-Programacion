@@ -143,7 +143,14 @@ public class TestAutoboxingUnboxing {
         int enteroPrimitivo = 10;
         Integer enteroTipoObject = 10;
         System.out.println("enteroPrimitivo = " + enteroPrimitivo);
+        
+        // AUTOBOXING del tipo OBJECt se castea a un PRIMITIVO
         System.out.println("enteroTipoObject = " + enteroTipoObject.toString());
+        
+         // UNBOXING el OBJECT se castea a un tipo primitivo
+        int enteroTipoObjectUnboxing = enteroTipoObject;
+        System.out.println("enteroTipoObjectUnboxing = " + enteroTipoObjectUnboxing);
+        
     }
 }
 ```
