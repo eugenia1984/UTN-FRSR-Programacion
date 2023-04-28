@@ -177,10 +177,62 @@ Si bien el output de ambos es `10`, el primero es iun **int** y el segundo es **
 
 ---
 
-## 1.3 Modificadores de acceso public
-
 ![image](https://user-images.githubusercontent.com/72580574/235014774-4adb61c1-bb27-4d0a-8ab3-0336d923162e.png)
 
+@byUbaldo
+
+---
+
+## 1.3 Modificadores de acceso public
+
+- Todos tienen accesos, se puede declarar en: CLASE / VARIABLE / MÉTODO / CONSTRUCTOR
+
+- Es el menos restrictivo de todos.
+
+- Creo un nuevo proyecto: **Modificadores Acceso**
+
+![image](https://user-images.githubusercontent.com/72580574/235232977-46e5253f-6ca3-4b4c-a458-567cf8831c1e.png)
+
+- **Clase1**
+```Java
+package paquete1;
+
+/*
+* Al ser una clase con modificador de acceso PUBLIC
+* se puede usar en cualquier parte de nuestro proyecto
+* Van a tener acceso las clases que esten en el mismo
+* paquete y las que estén en otro paquete tambièn
+*/
+public class Clase1 { // modificador de acceso PUBLIC en CLASE
+    public String atributoPublic = "Valor atributo público"; // modificador de acceso PUBLIC en ATRIBUTO
+    
+    public Clase1() { // modificador de acceso PUBLIC en CONSTRUCTOR
+        System.out.println("Constructor public");
+    }
+    
+    // modificador de acceso PUBLIC en METODO
+    public void metodoPublico() {
+        System.out.println("Método público");
+    }
+}
+```
+
+
+```Java
+package test;
+
+import paquete1.Clase1;
+
+public class TestModificadoresAcceso {
+    public static void main(String[] args) {
+        Clase1 clase1 = new Clase1();
+        System.out.println("clase1 = "+clase1);
+        System.out.println("clase1 con atributo public= "+clase1.atributoPublic);   
+        clase1.metodoPublico();   
+    }
+
+}
+```
 
 ---
 
@@ -188,6 +240,7 @@ Si bien el output de ambos es `10`, el primero es iun **int** y el segundo es **
 
 ![image](https://user-images.githubusercontent.com/72580574/235014812-2692d46a-14ed-4f64-9ba8-e68ab0caa430.png)
 
+- No todos tienen accesos, se puede declarar en:VARIABLE / MÉTODO / CONSTRUCTOR
 
 ---
 
@@ -195,7 +248,7 @@ Si bien el output de ambos es `10`, el primero es iun **int** y el segundo es **
 
 ![image](https://user-images.githubusercontent.com/72580574/235014843-d8afbf3d-13e3-447e-82c1-9da910ce9b62.png)
 
-
+- El que es por defecto, se puede declarar en: CLASE / VARIABLE / MÉTODO / CONSTRUCTOR
 
 ---
 
@@ -204,6 +257,9 @@ Si bien el output de ambos es `10`, el primero es iun **int** y el segundo es **
 
 ![image](https://user-images.githubusercontent.com/72580574/235014865-4298af19-9d7a-4aab-bd7a-e4a32e9afe6e.png)
 
+- No todos tienen acceso, se puede declarar en: VARIABLE / MÉTODO / CONSTRUCTOR
+
+- Es el más restrictivo de todos
 
 ---
 
