@@ -16,7 +16,7 @@ La Empresa. Empresa en marcha. Empresa y Patrimonio. Concepto de ejercicio. Unid
 
 ## CLASES
 
-- [Clase 1](https://github.com/eugenia1984/UTN-FRSR-Programacion/blob/main/2do_anio_1er_semestre/organizacion_contable/clase1.md) : 18 ABRIL - Los 5 problemas empresariales que puede resolver a través de la inteligencia de datos - :book: [TRABAJO PRACTICO NRO. 1](https://github.com/eugenia1984/UTN-FRSR-Programacion/blob/main/2do_anio_1er_semestre/organizacion_contable/tp01.md)
+- Clase 1 : 18 ABRIL - :book: [Los 5 problemas empresariales que puede resolver a través de la inteligencia de datos](https://github.com/eugenia1984/UTN-FRSR-Programacion/blob/main/2do_anio_1er_semestre/organizacion_contable/clase1.md) - :book: [TRABAJO PRACTICO NRO. 1](https://github.com/eugenia1984/UTN-FRSR-Programacion/blob/main/2do_anio_1er_semestre/organizacion_contable/tp01.md)
 
 - Clase 2: 20 ABRIL- :book: [TRABAJO PRACTICO NRO. 2](https://github.com/eugenia1984/UTN-FRSR-Programacion/blob/main/2do_anio_1er_semestre/organizacion_contable/tp02.md)
 
