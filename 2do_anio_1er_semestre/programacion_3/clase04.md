@@ -115,12 +115,53 @@ gerente = Nombre: José , sueldo: $ 130000.0, departamento: Sistemas
 BUILD SUCCESSFUL (total time: 0 seconds)
 ```
 
+**SOBREESCRITURA** -> la clase hija ereda un método del padre y lo sobreescribe(lo modifica).
 
 ---
 
 ## 1.3 Polimorfismo Parte 1 y 2 
 
+**POLIMORFISMO** -> multiples comportamientos.
+
+```Java
+package test;
+
+import domain.*;
+
+public class TestSobreEscritura {
+    public static void main(String[] args) {
+        // objeto empleado1 de la clase padre
+        Empleado empleado1 = new Empleado("Juan", 100000);
+        // System.out.println("empleado1 = " + empleado1.obtenerDetalles());
+        imprimir(empleado1);
+        
+        // objeto gerente de la clase hija
+        Gerente gerente = new Gerente("José", 130000,"Sistemas");
+        imprimir(gerente);
+        // System.out.println("gerente = " + gerente.obtenerDetalles());
+    }
+    
+    // polimorfismo uede ser tanto de la clase padre como de la clase hija
+    public static void imprimir(Empleado empleado) {
+        System.out.println("empleado = " + empleado.obtenerDetalles());
+    }
+}
+```
+
+OUTPUT:
+
+- El primero de de la clase padre
+
+- El segundo es de la clase hija Gerente, donde sobreescribi el método
+```
+run:
+empleado = Nombre: Juan , sueldo: $ 100000.0
+empleado = Nombre: José , sueldo: $ 130000.0, departamento: Sistemas
+```
+
 ---
+
+
 
 ## 1.4 Polimorfismo paso a paso 
 
