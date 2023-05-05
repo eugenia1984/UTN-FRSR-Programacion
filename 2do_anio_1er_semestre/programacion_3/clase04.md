@@ -165,6 +165,17 @@ empleado = Nombre: José , sueldo: $ 130000.0, departamento: Sistemas
 
 ## 1.4 Polimorfismo paso a paso 
 
+- Modificamso en el main:
+
+```Java
+public static void imprimir(Empleado empleado) {
+      String detalles = empleado.obtenerDetalles();
+      System.out.println("detalles = " + detalles);
+}
+ ```
+    
+Para correr con el debugger.
+
 ---
 
 ## 1.5 Instance of Parte 1 y 2
