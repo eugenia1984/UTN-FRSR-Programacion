@@ -180,6 +180,51 @@ Para correr con el debugger.
 
 ## 1.5 Instance of Parte 1 y 2
 
+- Hacemos una copia del paquete y lo nomrbamos **InstanceOf**:
+
+![image](https://user-images.githubusercontent.com/72580574/236572230-94375dec-167a-4688-b5e9-8f181265f49b.png)
+
+
+- Modifiamos el nombre de la clase main:
+
+```Java
+package test;
+
+import domain.Empleado;
+import domain.Gerente;
+
+public class TestInstanceOf {
+    public static void main(String[] args) {
+        Empleado empleado1 = new Empleado("Juan", 100000); // objeto empleado1 de de tipo Empleado
+        determinarTipo(empleado1);
+        empleado1 = new Gerente("José", 130000,"Sistemas"); // objeto gerente de tipo Gerente
+        determinarTipo(empleado1);
+
+    }
+    
+    // INSTANCEOF - determinamos el tipo en tiempo de ejecución
+    public static void determinarTipo(Empleado empleado) {
+        if(empleado instanceof Gerente) { // empezamos por la clase hija, más específica
+            System.out.println("Es de tipo Gerente");
+        } else if(empleado instanceof Empleado) {
+            System.out.println("Es de tipo Empleado");
+        } else if(empleado instanceof Object) {
+            System.out.println("Es de tipo Object");
+        }
+    }
+}
+```
+
+OUTPUT:
+
+```
+run:
+Es de tipo Empleado
+Es de tipo gerente
+BUILD SUCCESSFUL (total time: 0 seconds)
+```
+
+
 ---
 
 ## 1.6 Ejercicio con instanceof Parte 1 y 2 
