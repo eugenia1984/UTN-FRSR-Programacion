@@ -115,7 +115,7 @@ gerente = Nombre: José , sueldo: $ 130000.0, departamento: Sistemas
 BUILD SUCCESSFUL (total time: 0 seconds)
 ```
 
-**SOBREESCRITURA** -> la clase hija ereda un método del padre y lo sobreescribe(lo modifica).
+**SOBREESCRITURA** -> la clase hija ereda un método del padre y lo sobreescribe(lo modifica). OJO el método de la clase hija no puede ser más restrictivo, en el ejemplo como la clase padre es **public** la clase hija tambièn debe ser de acceso **public**, no puedo usar **protected**, **default**(no ponerle) o **packege**.
 
 ---
 
