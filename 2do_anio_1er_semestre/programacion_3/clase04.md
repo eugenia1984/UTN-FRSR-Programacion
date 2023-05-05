@@ -66,6 +66,56 @@ public class Empleado {
 
 ## 1.2 Ejercicio: Sobreescritura de métodos Overriding Parte 1 y 2 
 
+- Dentro del paquete: **domain** creo la clase hija **Gerente**
+
+- Dentro del paquete **test** creo la clase (main): **TestSobreEscritura**
+
+![image](https://user-images.githubusercontent.com/72580574/236564426-5dfe9be1-36f5-443b-91a0-56878696390d.png)
+
+- Gerente.java:
+
+```Java
+package domain;
+
+public class Gerente extends Empleado {
+    private String departamento;
+    
+    public Gerente(String nombre, double sueldo, String departamento) {
+        super(nombre, sueldo);
+        this.departamento = departamento;
+    }
+    
+    @Override // Sobrrescribo el metodo de la clase padre
+    public String obtenerDetalles() {
+        return super.obtenerDetalles()+", departamento: "+this.departamento;
+    }
+}
+```
+
+- TestSobreEscritura.java:
+
+```Java
+package test;
+
+import domain.Gerente;
+
+public class TestSobreEscritura {
+    public static void main(String[] args) {
+        Gerente gerente = new Gerente("José", 130000,"Sistemas");
+        System.out.println("gerente = " + gerente.obtenerDetalles());
+    }
+}
+```
+
+OUTPUT:
+
+```
+run:
+gerente = Nombre: José , sueldo: $ 130000.0, departamento: Sistemas
+BUILD SUCCESSFUL (total time: 0 seconds)
+```
+
+
 ---
 
 ## 1.3 Polimorfismo Parte 1 y 2 
