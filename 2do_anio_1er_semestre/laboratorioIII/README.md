@@ -28,5 +28,8 @@
 
 :tv: -> [ejercicios de JavaScript: objetos](https://github.com/eugenia1984/UTN-FRSR-Programacion/tree/main/2do_anio_1er_semestre/laboratorioIII/clase4-javascript-objetos)
 
+- Clase 5: 8 de Mayo: Postgresql y Python  - Objetos-parte 2 (JavaScript)
+
+:tv: ->[ejercicios de JavaScript: objetos - parte 2](https://github.com/eugenia1984/UTN-FRSR-Programacion/tree/main/2do_anio_1er_semestre/laboratorioIII/clase5-objetos-parte2)
 
 ---
