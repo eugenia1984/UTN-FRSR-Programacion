@@ -32,4 +32,10 @@
 
 :tv: ->[ejercicios de JavaScript: objetos - parte 2](https://github.com/eugenia1984/UTN-FRSR-Programacion/tree/main/2do_anio_1er_semestre/laboratorioIII/clase5-objetos-parte2)
 
+- Clase 6: 15 Mayo: Clase 6 Transacciones en Postgresql y Python - (JavaScript)
+
+:tv: ->  ejercicios de Python
+
+:tv: ->  ejercicios de JavaSCript
+
 ---
