@@ -8,7 +8,7 @@ Existen diferentes herramientas en el mercado que ayudarán a gestionar tus dato
 saber cuál es la que más te conviene, ten en cuenta las 5V que debe cumplir para clasificarse
 como una herramienta potente:
 
-- **Volumen^^: Cualquier herramienta debe poder analizar una gran cantidad de datos no
+- **Volumen**: Cualquier herramienta debe poder analizar una gran cantidad de datos no
 estructurados (gigabytes y petabytes).
 
 - **Velocidad**: Esto hace referencia al ritmo con el que se reciben los datos y la rapidez con la que
