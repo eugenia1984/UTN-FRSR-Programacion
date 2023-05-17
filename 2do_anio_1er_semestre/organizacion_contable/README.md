@@ -22,6 +22,6 @@ La Empresa. Empresa en marcha. Empresa y Patrimonio. Concepto de ejercicio. Unid
 
 - Clase 3: 04 MAYO - :book: [Tecnología en los negocios: 10 empresas que usan Big Data](https://github.com/eugenia1984/UTN-FRSR-Programacion/blob/main/2do_anio_1er_semestre/organizacion_contable/tecnologia-en-los-negocios-10-empresas-que-usan-Big-Data.md) / :book: [TRABAJO PRACTICO NRO. 3](https://github.com/eugenia1984/UTN-FRSR-Programacion/blob/main/2do_anio_1er_semestre/organizacion_contable/tp03.md)
 
-- Clase 4: 16MAYO - :book: [Las 5V para definir una herramienta de Big Data](https://github.com/eugenia1984/UTN-FRSR-Programacion/blob/main/2do_anio_1er_semestre/organizacion_contable/las_5_v.md) / :star: [Trabajo Practico 4](https://github.com/eugenia1984/UTN-FRSR-Programacion/blob/main/2do_anio_1er_semestre/organizacion_contable/tp-grupo-error-404.pdf)
+- Clase 4: 16MAYO - :book: [Las 5V para definir una herramienta de Big Data](https://github.com/eugenia1984/UTN-FRSR-Programacion/blob/main/2do_anio_1er_semestre/organizacion_contable/las_5_v.md) / :star: [TRABAJO PRACTICO NRO. 4](https://github.com/eugenia1984/UTN-FRSR-Programacion/blob/main/2do_anio_1er_semestre/organizacion_contable/tp-grupo-error-404.pdf)
 
 ---
