@@ -1,0 +1,17 @@
+<diagram program="umletino" version="15.1"><zoom_level>10</zoom_level><help_text>Space for diagram notesrtamento</help_text><element><id>UMLClass</id><coordinates><x>60</x><y>110</y><w>210</w><h>140</h></coordinates><panel_attributes>&lt;&lt;Persona&gt;&gt;
+--
+_nombre: string
+_apellido: string
+--
+get nombre()
+set nombre(string)
+get apellido()
+set apellido(string)
+</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLClass</id><coordinates><x>70</x><y>370</y><w>210</w><h>90</h></coordinates><panel_attributes>&lt;&lt;Empleado&gt;&gt;
+--
+_departamento: string
+--
+get departamento()
+set departamento(string)
+</panel_attributes><additional_attributes></additional_attributes></element><element><id>Relation</id><coordinates><x>160</x><y>250</y><w>90</w><h>140</h></coordinates><panel_attributes>lt=&lt;.
+&lt;&lt;iextends&gt;&gt;</panel_attributes><additional_attributes>10;10;10;120</additional_attributes></element></diagram>
