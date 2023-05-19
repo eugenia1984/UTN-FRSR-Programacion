@@ -10,9 +10,9 @@
 
 - [CLASE 03 - 05MAY](https://github.com/eugenia1984/UTN-FRSR-Programacion/blob/main/2do_anio_1er_semestre/organizacion_empresarial/clase03.md): redes y HTML
 
--  [CLASE 04 - 11MAY](https://github.com/eugenia1984/UTN-FRSR-Programacion/blob/main/2do_anio_1er_semestre/organizacion_empresarial/clase04.md): Gestión de contraseña y HTML5
+-  [CLASE 04 - 12MAY](https://github.com/eugenia1984/UTN-FRSR-Programacion/blob/main/2do_anio_1er_semestre/organizacion_empresarial/clase04.md): Gestión de contraseña y HTML5
 
-- CLASE 05
+- CLASE 05 - 19 MAYO
 
 - CLASE 06
 
@@ -23,5 +23,8 @@
 - CLASE 09
 
 - CLASE 10
+
+
+:computer: -> [Ejercicios de práctica](https://github.com/eugenia1984/UTN-FRSR-Programacion/tree/main/2do_anio_1er_semestre/organizacion_empresarial/organizacion_empresarial)
 
 ---
