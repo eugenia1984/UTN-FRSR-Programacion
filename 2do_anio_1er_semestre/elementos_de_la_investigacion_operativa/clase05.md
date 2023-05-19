@@ -1,230 +1,188 @@
-#CLASE 5 - 19 MAYO - MONGO DB
+# :star: CLASE 5 - 19 MAYO - MONGO DB
 
 ---
 
-COMANDO PARA ELIMINAR DATOS:
+## COMANDO PARA ELIMINAR DATOS:
 
-​
+- En primer lugar siempre debemos posicionarnos en la base de datos donde vamos a eliminar los datos, para ello utilizaremos: ``use <Nombre de la base>``
 
-En primer lugar siempre debemos posicionarnos en la base de datos donde vamos a eliminar los datos, para ello utilizaremos ​
+- Con el comando: ``show collections``(veremos las colecciones de nuestra base de datos)
 
-Use (Nombre de la base)​
+## ``REMOVE ()``
 
-Con el comando ​
+Este comando me permite eliminar datos de una colecición: ``primeraclase>db.insert.remove({"nombre":"natalia"})``
 
-Show collections(veremos las colecciones de nuestra base de datos)​
+## ``deleteOne()``
 
-REMOVE ()​
+También es otro comando que me permite eliminar dato de mis colecciones: ``<primeraclase>db.insert.deleteOne({"nombre":"juan"})``
 
-ESTE COMANDO ME PERMITE ELIMINAR DATOS DE UNA COLECCIÓN​
+## ELIMINAR COLECCIONES: ``DROP()``
 
-Primeraclase>db.insert.remove({"nombre":"natalia"})​
+Este comando me permite eliminar colecciones vacías o que no utilicemos, ya que nos ocupan un lugar en la memoria. Por ejemplo: ``<primera clase>db.insert.drop("nombre de la colección)``
 
-​
+``True`` (Nos confirmará que la colección fue eliminada).
 
-DeleteOne()​
+---
 
-También es otro comando que me permite eliminar dato de mis colecciones​
+## ACTUALIZACIONES DE DATOS:
 
-​
 
-<primeraclase>db.insert.deleteOne({"nombre":"juan"})​
+Cuando nos referimos a actualizar datos, hablamos de cambiar datos o añadir datos al mismo documento. Utilizaremos los comandos ``updateOne()`` , ``$set``
 
-​ELIMINAR COLECCIONES:
+``primeraclase< .db.insertar.updateOne({"nombre":"Luis"},{$set:{ubicación":"Buenos Aires"})``
 
-​
+Tiene dos parámetro: 
 
-DROP()​
+- 1° parámetro: (es el filtro, osea a que documento se va a dirigir para modificar). Ejemplo: "ubicación"
 
-Este comando me permite eliminar colecciones vacías o que no utilicemos, ya que nos ocupan un lugar en la memoria.​
+- 2° parámetro: (nos va a permitir añadir un espacio dentro del documento). Ejemplo: "Buenos Aires"
 
-Por ejemplo:​
+Otro comando que me permite actualizar datos es: ``UpdateMany ({$set:})``.  Este comado me va a permitir actualizar diversos o un conjunto de documentos. Ejemplo:
 
-<primera clase>db.insert.drop("nombre de la colección)​
+``db.linsertar.updateMany({"nombre": "Julian"} , {$set : {"edad":"25"} })``
 
-True (Nos confirmará que la colección fue eliminada)​
+---
 
-ACTUALIZACIONES DE DATOS:
-​
+##  MÉTODO ``$UNSET():``
 
-Cuando nos referimos a actualizar datos, hablamos de cambiar datos o añadir datos al mismo documento.​
+Este comando me va a permitir eliminar campos de un docuemento: ``Primeraclase> db.insertar.updateOne ({"nombre":"Luis"} , {$unset : {ubicación :""}})``
 
-Utilizaremos los comandos updateOne() , $set​
 
-primeraclase< .db.insertar.updateOne({"nombre":"Luis"},{$set:{ubicación":"Buenos Aires"})​
-Tiene dos parámetro: ​
+Eliminamos el campo seleccionado.
 
-1° parámetro:(es el filtro, osea a que documento se va a dirigir para modificar)​
+---
 
-Ejemplo: "ubicación"
-​
+## MÉTODO ``$RENAME()``:
 
-2° parámetro: (nos va a permitir añadir un espacio dentro del documento)
+Método que permite al usuario modificar la información de un campo dentro de un documento. Ejemplo: ``Primeraclase> db.insertar.updateOne({"Nombre": "Kevin"},{$rename:{"ubicación ": ciudad}})``
 
-Ejemplo: "Buenos Aires"​
+Damos enter
 
-Otro comando que me permite actualizar datos es:​
-UpdateMany ({$set:})​
+Me permite cambiar los campos
 
- Este comado me va a permitir actualizar diversos o un conjunto de documentos.​
+---
 
-Ejemplo:
+## MÉTODO ``MAX``
 
-​
-db.linsertar.updateMany({"nombre": "Julian"} , {$set : {"edad":"25"} })​
+Éste método me permite actualizar datos en Mongo DB. Se va a encargar de no modificar ningún valor. Ejemplo: ``Primeraclase> db.insertar.updateOne( {Nombre:"Lucas"},{$max:{time: 1000}})``
 
- MÉTODO $UNSET():
+Se encarga no de que cambie sino es mayor al que esta establecido previamente. Sólo cambia si el valor es mayor.
 
-​Este comando me va a permitir eliminar campos de un docuemento​
+---
 
+## MÉTODO ``MIN``
 
-Primeraclase> db.insertar.updateOne ({"nombre":"Luis"} , {$unset : {ubicación :""}})​
+Se encarga de cambiar el valor, si es menor al ya establecido. Si el valor es menor cambia el valor. Ejemplo: ``Primeraclase> db.insertar,updateOne(Nombre "kevin"}.{min: 1000}})``
 
+---
 
-Eliminamos el campo seleccionado.​
+## ``INCREMENT0``:
 
-​MÉTODO $RENAME():
 
+Cuando hablamos de incremento hablamos de modificadores que van a realizar un incremento de datos. Por ejemplo: ``>db.intremento.insertOne ({"Nombre":youtube","url":"www.youtube.com","vistas":1000,"likes":50});``
 
-Método que permite al usuario modificar la información de un campo dentro de un documento.​
+``>db.incremento.update ({"url":"www.youtube.com"},{$inc:{"vistas":1000}})``
 
-Ejemplo:​
+Damos enter y  aplicamos un ``find``: ``>db.incremento.find()``
 
-Primeraclase> db.insertar.updateOne({"Nombre": "Kevin"},{$rename:{"ubicación ": ciudad}})​
+nos aparecerá el valor del campo vistas aumentado a 2000: ``>db.incremento.update ({"url":"www.youtube.com"},{$inc:{"like":200}})``
 
-Damos enter​
 
-Me permite cambiar los campos​
+Damos enter y aplicamos un ``find()``
 
-MÉTODO MAX
-​Éste método me permite actualizar datos en Mongo DB.​
-Se va a encargar de no modificar ningún valor​
-Ejemplo:​
-Primeraclase> db.insertar.updateOne( {Nombre:"Lucas"},{$max:{time: 1000}})​
+Nos aparecerá un incremento en el campo ``"like" ``a ``250``
 
-Se encarga no de que cambie sino es mayor al que esta establecido previamente.​
-Sólo cambia si el valor es mayor.​
-MÉTODO MIN
-​
+---
 
-Se encarga de cambiar el valor, si es menor al ya establecido. Si el valor es menor cambia el valor​
+## :star: CONSULTAS:
 
-Ejemplo:​
+Para realizar una llamada o consulta a nuestra base de datos debemos especificar los registros que queremos que nos traiga la base de daatos. Por ejemplo:
 
-Primeraclase> db.insertar,updateOne(Nombre "kevin"}.{min: 1000}})​
+```
+Db.selection.insertMany(¨[{"nombre":"jesica","edad":20}, "nombre": "fermnando":"edad:20}])
+Db.seleccion.find ({"nombre":"jesica"},{"nombre":"fernando"})
+```
 
-​INCREMENT0:
+``[ ]`` los arreglos van con corchetes
 
-​
+---
 
-Cuando hablamos de incremento hablamos de modificadores que van a realizar un incremento de datos.​
+## MÉTODO ``FINDONE()``
 
-Por ejemplo:​
 
->db.intremento.insertOne ({"Nombre":youtube","url":"www.youtube.com","vistas":1000,"likes":50});​
+Este método me va a traer los datos que encuentre primero y que espewcifique en mi busqueda. Por ejemplo: ``Db.primer_metodo.findOne ([{"nombre":"Fernando"}]);``
 
->db.incremento.update ({"url":"www.youtube.com"},{$inc:{"vistas":1000}})​
-
-Damos enter y  aplicamos un find()​
-
->db.incremento.find()​
-
-nos aparecerá el valor del campo vistas aumentado a 2000​
-
->db.incremento.update ({"url":"www.youtube.com"},{$inc:{"like":200}})​
-
-
-Damos enter y aplicamos un find()​
-
-Nos aparecerá un incremento en el campo "like" a 250​
-
-CONSULTAS:
-​PARA REALIZAR UNA LLAMADA O CONSULTA A NUESTRA BASE DE DATOS DEBEMOS ESPECIFICAR LOS REGISTROS QUE QUEREMOS QUE NOS TRAIGA LA BASE DE DATOS.​
-
-
-Por ejemplo:​
-
-Db.selection.insertMany(¨[{"nombre":"jesica","edad":20}, "nombre": "fermnando":"edad:20}])​
-Db.seleccion.find ({"nombre":"jesica"},{"nombre":"fernando"})​
-
-[ ] los arreglos van con corchetes​
-
-MÉTODO FINDONE()
-
-​
-
-Este método me va a traer los datos que encuentre primero y que espewcifique en mi busqueda.​
-
-Por ejemplo:
-​Db.primer_metodo.findOne ([{"nombre":"Fernando"}]);
-
-​
 
 No va a realizar una búsqueda completa en todos los datos con el nombre Fernando, sino que me va a traer el primer dato que encuentre en mi búsqueda.
 
+---
+
+##:book: ACTIVIDADES:
 
 
-ACTIVIDADES:​
-​
+1. Realizar cuestionario para asistencia en el aula del campus
+
+-> En el campus
+
+---
+
+2. Realiza los ejercicios(enviar 1 trabajo por grupo con el nombre de los alumnos que participen) pueden enviar captura, pdf o word. Fecha de entrega viernes 02/06
 
 
-1- Realizar cuestionario para asistencia en el aula del campus​
+## TRABAJO GRUPAL 
 
-2- Realiza los ejercicios(enviar 1 trabajo por grupo con el nombre de los alumnos que participen) pueden enviar captura, pdf o word. Fecha de entrega viernes 02/06
+### EJERCITACIÓN: AÑADIR DATOS A MONGO DB
 
 
-​TRABAJO GRUPAL 
+1- Problemática: Busca el error dentro del código y luego corrígelo de una forma la cual permita realizar la acción la cual esta asignada el comando a corregir.
 
-EJERCITACIÓN: AÑADIR DATOS A MONGO DB
-​
+A ) Los comandos que se te pondran para poner a prueba tus conocimientos estan incompletos. Completalos y y envia captura de como han quedado al final.
 
-1- Problemática: Busca el error dentro del código y luego corrígelo de una forma la cual permita realizar la acción la cual esta asignada el comando a corregir.​
+B ) Preguntas de esta tarea
 
-A)Los comandos que se te pondran para poner a prueba tus conocimientos estan incompletos. Completalos y y envia captura de como han quedado al final.​
+C ) Cuando tengas CORREGIDOS los comandos especifica los cambios que les has hecho y para que te han funcionado:
 
-B)Preguntas de esta tarea​
+- ``Insert.Insert(Nombre:Jose)``
 
-C)Cuando tengas CORREGIDOS los comandos especifica los cambios que les has hecho y para que te han funcionado:​
+- ``db.insert({Nombre:”Carlos”})``
 
-- Insert.Insert(Nombre:Jose)​
+- ``insert.insert({Nombre:"Jennifer"},{Nombre:"Jose"})``
 
-- db.insert({Nombre:”Carlos”})​
 
-- insert.insert({Nombre:"Jennifer"},{Nombre:"Jose"})​
 
-​
+2 - Cuando tengas CORREGIDOS los comandos especifica los cambios que les has hecho y paraa que te han funcionado:
 
-2- Cuando tengas CORREGIDOS los comandos especifica los cambios que les has hecho y paraa que te han funcionado:​
+- ``Insert.Insert(Nombre:Jose)``
 
-- Insert.Insert(Nombre:Jose)​
+- ``db.insert({Nombre:”Carlos”})``
 
-- db.insert({Nombre:”Carlos”})​
+- ``insert.insert({Nombre:"Jennifer"},{Nombre:"Jose"})``
 
-- insert.insert({Nombre:"Jennifer"},{Nombre:"Jose"})
+## EJERCITACIÓN :ELIMINAR DATOS MONGO DB
 
-​EJERCITACIÓN :ELIMINAR DATOS MONGO DB
-​
 
-1- Problemática: Busca el error dentro del código y luego corrígelo de una forma la cual permita realizar la acción la cual esta asignada el comando a corregir. Luego de corregir los errores realiza los siguientes 2 puntos:​
+1- Problemática: Busca el error dentro del código y luego corrígelo de una forma la cual permita realizar la acción la cual esta asignada el comando a corregir. Luego de corregir los errores realiza los siguientes 2 puntos:
 
-A) Describe cual fue el error de el codigo de muestra​
+A ) Describe cual fue el error de el codigo de muestra
 
-B)Describe los cambios realizados  y muestralos en la tarea ya sea mediante imagenes o escribiendo los comandos corregidos con la opcion "<>" y sus resultados​
+B ) Describe los cambios realizados  y muestralos en la tarea ya sea mediante imagenes o escribiendo los comandos corregidos con la opcion "<>" y sus resultados
 
-C) Preguntas de esta tarea​
+C ) Preguntas de esta tarea
 
-Corrige y muestra los resultados de los siguientes comandos de MongoDB​
+Corrige y muestra los resultados de los siguientes comandos de MongoDB
 
-1- Insert.remove(Nombre:"Kevin")​
+1- ``Insert.remove(Nombre:"Kevin")``
 
-2- db.insert.delete(Carlos)​
+2- ``db.insert.delete(Carlos)``
 
-3- delete({Carlos})​
+3- ``delete({Carlos})``
 
-2- Corrige y muestra los resultados de los siguientes comandos de MongoDB​
+2- Corrige y muestra los resultados de los siguientes comandos de MongoDB
 
-1- Insert.remove(Nombre:"Kevin")​
+1- ``Insert.remove(Nombre:"Kevin")``
 
-2- db.insert.delete(Carlos)​
+2- ``db.insert.delete(Carlos)``
 
-3- delete({Carlos})
+3-`` delete({Carlos})``
+
+---
