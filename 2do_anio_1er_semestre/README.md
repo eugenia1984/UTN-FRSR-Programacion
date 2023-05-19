@@ -10,7 +10,7 @@
 
 - [**PROGRAMACIÓN III**](https://github.com/eugenia1984/UTN-FRSR-Programacion/tree/main/2do_anio_1er_semestre/programacion_3) - Miércoles
 
-- [**ELEMENTOS DE LA ORGANIZACIÓN ADMINSITRATIVA**](https://github.com/eugenia1984/UTN-FRSR-Programacion/tree/main/2do_anio_1er_semestre/elementos_de_la_investigacion_operativa) - Viernes
+- [**ELEMENTOS DE LA ORGANIZACIÓN ADMINISTRATIVA**](https://github.com/eugenia1984/UTN-FRSR-Programacion/tree/main/2do_anio_1er_semestre/elementos_de_la_investigacion_operativa) - Viernes
 
 - [**ORGANIZACIÓN EMPRESARIAL**](https://github.com/eugenia1984/UTN-FRSR-Programacion/tree/main/2do_anio_1er_semestre/organizacion_empresarial) - Viernes
 
