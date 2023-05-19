@@ -10,9 +10,9 @@
 
 - [CLASE 03 - 05 MAYO](https://github.com/eugenia1984/UTN-FRSR-Programacion/blob/main/2do_anio_1er_semestre/elementos_de_la_investigacion_operativa/clase03.md): Base de datos no relacionales - Mongo DB - usando la **shell de mongo** / Actividad para practicar
 
-- [CLASE 04 - 12 MAYO](https://github.com/eugenia1984/UTN-FRSR-Programacion/blob/main/2do_anio_1er_semestre/elementos_de_la_investigacion_operativa/clase04.md): Base de Datos No relacionales : Mongo DB: ingresar datos (**INSERT**, **INSERT ONE**, **INSERT MANY**) / Actividad grupal para entregar
+- [CLASE 04 - 12 MAYO](https://github.com/eugenia1984/UTN-FRSR-Programacion/blob/main/2do_anio_1er_semestre/elementos_de_la_investigacion_operativa/clase04.md): Base de Datos No relacionales : Mongo DB: ingresar datos (**INSERT**, **INSERT ONE**, **INSERT MANY**) / Actividad grupal para entregar / :book: Actividades
 
-- CLASE 05
+- CLASE 05 - 19 MAYO: Base de datos no relacionales: Mongo DB : eliminar datos(**REMOVE**, **DELETEONE**), eliminar colecciones (**DROP**), actualizar datos (**UPDATEONE**), métodos: **UNSET**, **RENAME**, **MAX**, **MIN**, consultas: **FINDONE** / :book: Actividades
 
 - CLASE 06
 
