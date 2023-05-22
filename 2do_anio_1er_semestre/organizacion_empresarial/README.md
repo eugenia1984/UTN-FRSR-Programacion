@@ -12,7 +12,7 @@
 
 -  [CLASE 04 - 12MAY](https://github.com/eugenia1984/UTN-FRSR-Programacion/blob/main/2do_anio_1er_semestre/organizacion_empresarial/clase04.md): Gestión de contraseña y HTML5
 
-- CLASE 05 - 19 MAYO
+- [CLASE 05 - 19 MAYO](https://github.com/eugenia1984/UTN-FRSR-Programacion/blob/main/2do_anio_1er_semestre/organizacion_empresarial/clase05.md): Ciberseguridad y HTML
 
 - CLASE 06
 
