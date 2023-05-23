@@ -16,7 +16,7 @@
 
 - JU 11 MAY: [Practice](https://github.com/eugenia1984/UTN-FRSR-Programacion/blob/main/2do_anio_1er_semestre/ingles_3/09_11_may.md)
 
-- MA 23 MAY: Theory - Practice: simple past
+- MA 23 MAY: [Theory - Practice: simple past](https://github.com/eugenia1984/UTN-FRSR-Programacion/blob/main/2do_anio_1er_semestre/ingles_3/23_may_simple_past.md)
 
 - JU 25 MAY: **Holiday**
 
