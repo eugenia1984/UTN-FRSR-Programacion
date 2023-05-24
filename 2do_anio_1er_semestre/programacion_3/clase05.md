@@ -14,6 +14,24 @@
 
 - 5.5 Clases Abstractas (abstract) Parte 1, 2 y 3
 
+---
+
+## MAPA DE LAS CLASES
+
+```
+       Object
+         |
+         | extends
+      Empleado
+         |
+         | extends
+-----------------------
+|         |           |
+Editor   Gerente    Escritor
+                      |
+                      | extends
+                  Corrector
+```
 
 
 ---
