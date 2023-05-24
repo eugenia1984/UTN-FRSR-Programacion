@@ -2,7 +2,7 @@
 
 ---
 
-## :book:
+## :book: Temas
 
 - 6.1 Sintaxis de Clases en JavaScript
 
