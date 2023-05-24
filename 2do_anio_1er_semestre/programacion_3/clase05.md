@@ -2,6 +2,22 @@
 
 ---
 
+## :book: Temas de Java:
+
+- 5.1 Conversión de objetos (Casting)
+
+- 5.2 Pruebas con Downcasting y Upcasting: Parte 1 y 2 
+
+- 5.3 Creamos la clase Object
+
+- 5.4 Hashcode y equals
+
+- 5.5 Clases Abstractas (abstract) Parte 1, 2 y 3
+
+
+
+---
+
 ## :book: ¿Qué es TypeScript y por qué debes aprenderlo?
 
 TypeScript es uno de los lenguajes más amados por los programadores y es uno de los lenguajes que más suele pedirse en ofertas laborales para frontend. ¿Aún no sabes por qué es tan especial? Te lo cuento en este blog.
