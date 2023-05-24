@@ -16,4 +16,6 @@
 
 - Clase 6 - 17MAY
 
+- CLase 7 - 24MAY
+
 ---
