@@ -14,8 +14,8 @@
 
 - [Clase 5 - 19MAY](https://github.com/eugenia1984/UTN-FRSR-Programacion/blob/main/2do_anio_1er_semestre/programacion_3/clase05.md): 5.1 Conversión de objetos / 5.2 Downcasting / 5.3 Upcasting / 5.4 hashcode / 5.5 equals / 5.6 abstracción / :book: Lectura: [TypeScript](https://github.com/eugenia1984/UTN-FRSR-Programacion/blob/main/2do_anio_1er_semestre/programacion_3/clase05.md)
 
-- Clase 6 - 17MAY
+- [Clase 6 - 17MAY](https://github.com/eugenia1984/UTN-FRSR-Programacion/blob/main/2do_anio_1er_semestre/programacion_3/clase06.md): Docker, material de lectura y videos para ver, no hay práctica.
 
-- CLase 7 - 24MAY
+- Clase 7 - 24MAY
 
 ---
