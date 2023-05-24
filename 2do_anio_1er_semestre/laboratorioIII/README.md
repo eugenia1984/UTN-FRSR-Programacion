@@ -38,7 +38,7 @@
 
 :tv: ->  [ejercicios de JavaSCript: clases y herencia](https://github.com/eugenia1984/UTN-FRSR-Programacion/tree/main/2do_anio_1er_semestre/laboratorioIII/clase6-clases-js)
 
-- Clase 7: 22 Mayo:  Capa de Datos: Logging y Postgresql Parte 1Lección (Python) - Heredar métodos / Sobreescritura / Clase Object, toString, sobreescritura y Polimorfismo (JavaScript)
+- [Clase 7](https://github.com/eugenia1984/UTN-FRSR-Programacion/tree/main/2do_anio_1er_semestre/laboratorioIII/clase07): 22 Mayo:  Capa de Datos: Logging y Postgresql Parte 1Lección (Python) - Heredar métodos / Sobreescritura / Clase Object, toString, sobreescritura y Polimorfismo (JavaScript)
 
 :tv: ->  ejercicios de Python
 
