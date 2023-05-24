@@ -32,10 +32,46 @@
 
 :tv: ->[ejercicios de JavaScript: objetos - parte 2](https://github.com/eugenia1984/UTN-FRSR-Programacion/tree/main/2do_anio_1er_semestre/laboratorioIII/clase5-objetos-parte2)
 
-- Clase 6: 15 Mayo: Clase 6 Transacciones en Postgresql y Python - (JavaScript)
+- Clase 6: 15 Mayo:  Transacciones en Postgresql y Python - Clases y Herencia(JavaScript)
 
 :tv: ->  ejercicios de Python
 
 :tv: ->  [ejercicios de JavaSCript: clases y herencia](https://github.com/eugenia1984/UTN-FRSR-Programacion/tree/main/2do_anio_1er_semestre/laboratorioIII/clase6-clases-js)
+
+- Clase 7: 22 Mayo:  Capa de Datos: Logging y Postgresql Parte 1Lección (Python) - Heredar métodos / Sobreescritura / Clase Object, toString, sobreescritura y Polimorfismo (JavaScript)
+
+:tv: ->  ejercicios de Python
+
+:tv: ->  ejercicios de JavaScript
+
+- Clase 8: 28 Mayo
+
+:tv: ->  ejercicios de Python
+
+:tv: ->  ejercicios de JavaScript
+
+- Clase 9: 4 Junio
+
+:tv: ->  ejercicios de Python
+
+:tv: ->  ejercicios de JavaScript
+
+- Clase 10: 11 Junio
+
+:tv: ->  ejercicios de Python
+
+:tv: ->  ejercicios de JavaScript
+
+- Clase 11: 18 Junio
+
+:tv: ->  ejercicios de Python
+
+:tv: ->  ejercicios de JavaScript
+
+- Clase 12: 25 Junio
+
+:tv: ->  ejercicios de Python
+
+:tv: ->  ejercicios de JavaScript
 
 ---
