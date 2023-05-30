@@ -20,6 +20,8 @@
 
 - JU 25 MAY: **Holiday**
 
+- MA 30MAY: [The basic questions you can find at a job interview](https://github.com/eugenia1984/UTN-FRSR-Programacion/blob/main/2do_anio_1er_semestre/ingles_3/30_may_job_interview.md)
+
 - MA 06 JUN: **Theory**
 
 - JU 08 JUN: Practise
