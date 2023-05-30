@@ -44,7 +44,7 @@
 
 :tv: ->  [ejercicios de JavaScript](https://github.com/eugenia1984/UTN-FRSR-Programacion/tree/main/2do_anio_1er_semestre/laboratorioIII/clase07/javascript)
 
-- [Clase 8: 29 Mayo]((https://github.com/eugenia1984/UTN-FRSR-Programacion/tree/main/2do_anio_1er_semestre/laboratorioIII/clase08)): Capa de Datos: Logging y Postgresql Parte 2 (Python) -  Static(JavaScript)
+- [Clase 8: 29 Mayo](https://github.com/eugenia1984/UTN-FRSR-Programacion/tree/main/2do_anio_1er_semestre/laboratorioIII/clase08): Capa de Datos: Logging y Postgresql Parte 2 (Python) -  Static(JavaScript)
 
 :tv: ->  ejercicios de Python
 
