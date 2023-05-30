@@ -48,7 +48,7 @@
 
 :tv: ->  ejercicios de Python
 
-:tv: ->  ejercicios de JavaScript
+:tv: ->  [ejercicios de JavaScript](https://github.com/eugenia1984/UTN-FRSR-Programacion/tree/main/2do_anio_1er_semestre/laboratorioIII/clase08)
 
 - Clase 9: 4 Junio
 
