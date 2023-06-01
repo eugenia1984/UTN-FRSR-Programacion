@@ -16,7 +16,7 @@
 
 - [Clase 6 - 17MAY](https://github.com/eugenia1984/UTN-FRSR-Programacion/blob/main/2do_anio_1er_semestre/programacion_3/clase06.md): Docker, material de lectura y videos para ver, no hay práctica.
 
-- Clase 7 - 24MAY: Interfaces en Java - Manejo de Interfaces y Pruebas
+- Clase 7 - 24MAY: Interfaces en Java - Manejo de Interfaces y Pruebas - [Ejercicios](https://github.com/eugenia1984/UTN-FRSR-Programacion/tree/main/2do_anio_1er_semestre/programacion_3/clase07)
 
 - Clase 8 - 31MAY: Excepciones en Java -  Introducción a JavaBeans -> Creación del JavaBeans / Pruebas del JavaBeans /  Comenzamos Con Excepciones / Creamos nuestra propia excepción / Comenzamos a hacer pruebas con RuntimeException (unchecked) / Agregamos el finally y catch
 
