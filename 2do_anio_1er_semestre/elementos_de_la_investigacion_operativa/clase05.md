@@ -117,7 +117,7 @@ No va a realizar una búsqueda completa en todos los datos con el nombre Fernand
 
 ---
 
-##:book: ACTIVIDADES:
+## :book: ACTIVIDADES:
 
 
 1. Realizar cuestionario para asistencia en el aula del campus
