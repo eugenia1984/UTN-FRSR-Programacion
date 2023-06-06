@@ -24,4 +24,8 @@ La Empresa. Empresa en marcha. Empresa y Patrimonio. Concepto de ejercicio. Unid
 
 - Clase 4: 16MAYO - :book: [Las 5V para definir una herramienta de Big Data](https://github.com/eugenia1984/UTN-FRSR-Programacion/blob/main/2do_anio_1er_semestre/organizacion_contable/las_5_v.md) / :star: [TRABAJO PRACTICO NRO. 4](https://github.com/eugenia1984/UTN-FRSR-Programacion/blob/main/2do_anio_1er_semestre/organizacion_contable/tp-grupo-error-404.pdf)
 
+- Clase 5: Django
+
+- Clase 6: 06JUNIO: Blockchain y BigData
+
 ---
