@@ -54,7 +54,7 @@
 
 :tv: ->  ejercicios de Python
 
-:tv: ->  [ejercicios de JavaScript}(https://github.com/eugenia1984/UTN-FRSR-Programacion/tree/main/2do_anio_1er_semestre/laboratorioIII/clase9_herencia_js)
+:tv: ->  [ejercicios de JavaScript](https://github.com/eugenia1984/UTN-FRSR-Programacion/tree/main/2do_anio_1er_semestre/laboratorioIII/clase9_herencia_js)
 
 - Clase 10: 11 Junio
 
