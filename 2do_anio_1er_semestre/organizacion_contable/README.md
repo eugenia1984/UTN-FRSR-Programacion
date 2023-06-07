@@ -26,6 +26,6 @@ La Empresa. Empresa en marcha. Empresa y Patrimonio. Concepto de ejercicio. Unid
 
 - Clase 5: Django
 
-- Clase 6: 06JUNIO: :book: [Blockchain y BigData](https://github.com/eugenia1984/UTN-FRSR-Programacion/blob/main/2do_anio_1er_semestre/organizacion_contable/blockchain_y_big_data.md)
+- Clase 6: 06JUNIO: :book: [Blockchain y BigData](https://github.com/eugenia1984/UTN-FRSR-Programacion/blob/main/2do_anio_1er_semestre/organizacion_contable/blockchain_y_big_data.md) / [TRABAJO PRACTICO Nª 4](https://github.com/eugenia1984/UTN-FRSR-Programacion/blob/main/2do_anio_1er_semestre/organizacion_contable/tp_04.md)
 
 ---
