@@ -401,11 +401,11 @@ Para una caja de logo  con bordes redondos:
 
 ---
 
-##:computer: Actividad:
+## :computer: Actividad:
 
 Leer material y añadir cada una de las etiquetas vistas al proyecto de las clases anteriores.
 
-Trabajo Grupal n° 2 : 
+Trabajo Grupal n° 2: 
 
 1) Enviar capturas de lo realizado en html y css y la visualización de la página web. Colocar nombre y apellido de los alumnos que participaron.
 
