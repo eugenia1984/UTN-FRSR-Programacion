@@ -16,12 +16,10 @@
 
 - [CLASE 06 - 09 JUNIO](https://github.com/eugenia1984/UTN-FRSR-Programacion/blob/main/2do_anio_1er_semestre/elementos_de_la_investigacion_operativa/clase06.md): Mongo DB INDEX
 
-- CLASE 07
+- CLASE 07 - 16 JUNIO
 
-- CLASE 08
+- CLASE 08 - 23 JUNIO
 
-- CLASE 09
-
-- CLASE 10
+- CLASE 09 - 30 JUN
 
 ---
