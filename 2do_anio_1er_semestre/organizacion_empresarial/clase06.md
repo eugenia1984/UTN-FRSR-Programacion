@@ -407,6 +407,8 @@ Para una caja de logo  con bordes redondos:
 
 Leer material y añadir cada una de las etiquetas vistas al proyecto de las clases anteriores.
 
+Fecha de entrega : 16/06
+   
 Trabajo Grupal n° 2: 
 
 1) Enviar capturas de lo realizado en html y css y la visualización de la página web. Colocar nombre y apellido de los alumnos que participaron.
@@ -474,6 +476,35 @@ Footer:
 
 2) Busca ejemplo de situaciones de ejemplo  cada una de las amenazas de malware vistas en clase y menciona como fueron .
 
-Fecha de entrega : 16/06
+   
+## MINADOR
+   
+Un minador es un tipo de malware que se instala en un dispositivo sin el conocimiento del usuario y utiliza los recursos del sistema para minar criptomonedas. Por ejemplo, un minador puede aprovechar la capacidad de procesamiento de una computadora para minar bitcoins o cualquier otra criptomoneda, lo que ralentiza el rendimiento del sistema y consume energía adicional.
+
+##SPYWARE
+   
+El spyware es un tipo de malware diseñado para recopilar información personal del usuario sin su consentimiento. Por ejemplo, un programa espía puede registrar las pulsaciones de teclas, capturar información sensible como contraseñas bancarias y enviarla a un atacante. El spyware también puede rastrear la actividad en línea, recopilar datos de navegación y mostrar anuncios no deseados.
+
+KEYLOGGER
+Un keylogger es un tipo de software malicioso que registra las pulsaciones de teclas realizadas por un usuario en un dispositivo. Por ejemplo, un keylogger puede grabar las contraseñas, nombres de usuario y otra información ingresada a través del teclado. Esta información se envía luego a los atacantes, quienes pueden utilizarla para obtener acceso no autorizado a cuentas o datos confidenciales.
+
+## ADWARE
+   
+El adware es un software malicioso que muestra anuncios no deseados en el dispositivo del usuario. Por ejemplo, un adware puede generar anuncios emergentes intrusivos, redirigir el navegador a páginas no deseadas o incluso modificar la página de inicio del navegador. El objetivo principal del adware es generar ingresos para los atacantes a través de la publicidad no deseada.
+
+## ROOTKIT
+   
+Un rootkit es un tipo de malware que se oculta en el sistema operativo y proporciona acceso no autorizado al atacante. Por ejemplo, un rootkit puede modificar el núcleo del sistema operativo para ocultar su presencia y permitir que el atacante acceda y controle el sistema de forma remota. Los rootkits son especialmente peligrosos, ya que pueden evadir la detección de antivirus y otras medidas de seguridad.
+
+## RANSOMWARE
+
+   El ransomware es un tipo de malware que cifra los archivos del usuario y exige un rescate para desbloquearlos. Por ejemplo, un ransomware puede cifrar los documentos personales, fotos o archivos importantes de una víctima y luego mostrar una nota de rescate que solicita un pago en criptomonedas para obtener la clave de cifrado. Si no se paga el rescate, los archivos pueden permanecer inaccesibles o incluso ser eliminados.
+
+## TROYANO
+
+   Un troyano es un tipo de malware que se disfraza de un programa legítimo para engañar al usuario y ejecutar acciones maliciosas en su dispositivo. Por ejemplo, un troyano puede hacerse pasar por una aplicación inofensiva y, una vez instalado, puede abrir una puerta trasera en el sistema para permitir que los atacantes obtengan acceso remoto y roben información confidencial, como contraseñas o datos bancarios.
+
+
+
 
 ---
