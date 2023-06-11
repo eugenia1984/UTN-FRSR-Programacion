@@ -22,6 +22,8 @@ Este Rootkit justamente está preparado, está armado, entrenado  para no ser de
 
 - Ransomware apunta a empresas, a clínicas médicas, a contadores, abogados en donde manejan información de clientes sensibles, de pacientes, en donde esa información no se puede perder.
 
+
+
 ## Troyano:
 
 - Básicamente es el tipo malware capaz de realizar diversas acciones y tener distintas repercusiones en un sistema con diferentes fines.
@@ -408,6 +410,67 @@ Leer material y añadir cada una de las etiquetas vistas al proyecto de las clas
 Trabajo Grupal n° 2: 
 
 1) Enviar capturas de lo realizado en html y css y la visualización de la página web. Colocar nombre y apellido de los alumnos que participaron.
+
+   
+[Aca está el codigo de la pagina web HTML, CSS y JavaScript](https://github.com/eugenia1984/UTN-FRSR-Programacion/tree/main/2do_anio_1er_semestre/organizacion_empresarial/tp2)
+   
+Las etiquetas vistas en la clase son…
+  
+… ``<head>``, ``<meta>``, ``<body>``
+   
+… etiquetas semánticas: ``<header>``, ``<main>``, ``<section>``, ``<aside>``, ``<article>``, ``<footer>``
+   
+… ``<nav>``
+   
+… ``<div>``
+   
+…image: ``<img>`` y ``<figure>``
+   
+.. ordered list (lista ordenada) ``<ol>`` con list item`` <li> ``
+   
+… table ``<table>``, table head ``<thead>``, table body ``<tbody>``, table row ``<tr>``, table head ``<th>,`` table data ``<td>``
+   
+… headline ``<h1>``, ``<h2>``, …, ``<h6>``
+   
+… paragraph ``<p>``, pudiendo añadir valores con la etiqueta ``<meter>``
+   
+… anchor ``<a>``
+
+Se subio a Netlify, se puede ver acá: https://dapper-bienenstitch-70343f.netlify.app/
+Y en esta misma carpeta compartida está el código fuente: https://drive.google.com/drive/folders/18NRWbr8OlyAjQSt_K5vE_0ckrZJPAmy0?usp=drive_link
+
+
+Algunas imágenes:
+
+Navbar en desktop y en celular:
+ 
+![image](https://github.com/eugenia1984/UTN-FRSR-Programacion/assets/72580574/613fe1c6-9362-4d49-ac8c-ee35919b3013)
+
+![image](https://github.com/eugenia1984/UTN-FRSR-Programacion/assets/72580574/de23d5fd-5def-48dc-b22c-354617809882)
+
+
+Sección productos con efecto mansory(como en Pinterest):
+
+![image](https://github.com/eugenia1984/UTN-FRSR-Programacion/assets/72580574/a33f4fe7-d873-4b14-9251-05c871958d6b)
+
+
+Los precios en la sección Productos, para incluir la tabla
+
+![image](https://github.com/eugenia1984/UTN-FRSR-Programacion/assets/72580574/74e4c2ca-4af0-4692-9814-244dd3fde313)
+
+
+
+Formulario de contacto:
+Se puede probar, incluimos validaciones y mensaje de envío.
+
+![image](https://github.com/eugenia1984/UTN-FRSR-Programacion/assets/72580574/e6308504-85e0-464c-a250-c6688c8ab665)
+
+   
+Footer:
+
+
+![image](https://github.com/eugenia1984/UTN-FRSR-Programacion/assets/72580574/905ccf3a-8633-4873-a671-3cd23077005d)
+
 
 2) Busca ejemplo de situaciones de ejemplo  cada una de las amenazas de malware vistas en clase y menciona como fueron .
 
