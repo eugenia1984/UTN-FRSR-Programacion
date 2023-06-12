@@ -50,13 +50,13 @@
 
 :tv: ->  [ejercicios de JavaScript](https://github.com/eugenia1984/UTN-FRSR-Programacion/tree/main/2do_anio_1er_semestre/laboratorioIII/clase08)
 
-- Clase 9: 4 Junio: (Python) - Herencia (JavaScript)
+- Clase 9: 5 Junio: (Python) - Herencia (JavaScript)
 
 :tv: ->  ejercicios de Python
 
 :tv: ->  [ejercicios de JavaScript](https://github.com/eugenia1984/UTN-FRSR-Programacion/tree/main/2do_anio_1er_semestre/laboratorioIII/clase9_herencia_js)
 
-- Clase 10: 11 Junio
+- Clase 10: 12 Junio: :book: METODOLOGÍAS ORIENTADAS A OBJETOS
 
 :tv: ->  ejercicios de Python
 
