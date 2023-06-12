@@ -62,13 +62,13 @@
 
 :tv: ->  ejercicios de JavaScript
 
-- Clase 11: 18 Junio
+- Clase 19: 18 Junio
 
 :tv: ->  ejercicios de Python
 
 :tv: ->  ejercicios de JavaScript
 
-- Clase 12: 25 Junio
+- Clase 12: 26 Junio
 
 :tv: ->  ejercicios de Python
 
