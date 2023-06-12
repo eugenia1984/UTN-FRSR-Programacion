@@ -56,7 +56,7 @@
 
 :tv: ->  [ejercicios de JavaScript](https://github.com/eugenia1984/UTN-FRSR-Programacion/tree/main/2do_anio_1er_semestre/laboratorioIII/clase9_herencia_js)
 
-- [Clase 10](https://github.com/eugenia1984/UTN-FRSR-Programacion/tree/main/2do_anio_1er_semestre/laboratorioIII/clase10): 12 Junio: :book: METODOLOGÍAS ORIENTADAS A OBJETOS
+- [Clase 10](https://github.com/eugenia1984/UTN-FRSR-Programacion/tree/main/2do_anio_1er_semestre/laboratorioIII/clase10): 12 Junio: :book: METODOLOGÍAS ORIENTADAS A OBJETOS /  Pool de conexiones con Python y Postgresql(Python) -  Proyecto Ventas(JavaScript)
 
 :tv: ->  ejercicios de Python
 
