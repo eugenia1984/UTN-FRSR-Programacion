@@ -74,6 +74,10 @@ Voy a crear un repositorio por cada materia cursada, en esta lista encontrarán 
 
 **JavaScript** <img src="https://img.icons8.com/fluency/48/null/javascript.png"/>
 
+**HTML5** <img width="48" height="48" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html-5--v1"/>
+
+**CSS3** <img width="48" height="48" src="https://img.icons8.com/color/48/css3.png" alt="css3"/>
+
 ---
 
 
