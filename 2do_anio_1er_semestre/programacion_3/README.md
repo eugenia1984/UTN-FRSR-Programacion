@@ -22,5 +22,10 @@
 
 - [Clase 9 - 7 JUN](https://github.com/eugenia1984/UTN-FRSR-Programacion/tree/main/2do_anio_1er_semestre/programacion_3/clase09): Comenzamos con Proyectos: CalculadoraUTN : 9.1 Instalación de Intellij y abrimos el primer archivo / 9.2 Definiendo las variables / 9.3 Ponemos la entrada de información / 9.4 Cargamos el menú / 9.5 Agregamos el switch / 9.6 Ciclo y su salida con break / 9.7 Agregamos try catch para las excepciones / 9.8 Factorizamos el código a través del método mostrarMenu  / 9.9 Función ejecutarOperacion y pruebas / [ejercicios](https://github.com/eugenia1984/UTN-FRSR-Programacion/tree/main/2do_anio_1er_semestre/programacion_3/clase09/CacluladoraUTN)
 
-- [Clase 10 - 14 JUN](https://github.com/eugenia1984/UTN-FRSR-Programacion/tree/main/2do_anio_1er_semestre/programacion_3/clase10): Proyecto Listar Personas
+- [Clase 10 - 14 JUN](https://github.com/eugenia1984/UTN-FRSR-Programacion/tree/main/2do_anio_1er_semestre/programacion_3/clase10): Proyecto Listar Personas / [ejercicios](https://github.com/eugenia1984/UTN-FRSR-Programacion/tree/main/2do_anio_1er_semestre/programacion_3/clase10/ListarPersonas)
+
+- Clase 11 - 21 JUN - feriado
+
+- Clase 11 - 28 JUN
+
 ---
