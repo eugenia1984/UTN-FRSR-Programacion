@@ -14,12 +14,11 @@
 
 - [CLASE 05 - 19 MAYO](https://github.com/eugenia1984/UTN-FRSR-Programacion/blob/main/2do_anio_1er_semestre/elementos_de_la_investigacion_operativa/clase05.md): Base de datos no relacionales: Mongo DB : eliminar datos(**REMOVE**, **DELETEONE**), eliminar colecciones (**DROP**), actualizar datos (**UPDATEONE**), métodos: **UNSET**, **RENAME**, **MAX**, **MIN**, consultas: **FINDONE** / :book: Actividades
 
-- [CLASE 06 - 09 JUNIO](https://github.com/eugenia1984/UTN-FRSR-Programacion/blob/main/2do_anio_1er_semestre/elementos_de_la_investigacion_operativa/clase06.md): Mongo DB INDEX
+- [CLASE 06 - 09 JUNIO](https://github.com/eugenia1984/UTN-FRSR-Programacion/blob/main/2do_anio_1er_semestre/elementos_de_la_investigacion_operativa/clase06.md): Mongo DB INDEX / trabajo grupal
 
-- CLASE 07 - 16 JUNIO
+- [CLASE 07 - 16 JUNIO](https://github.com/eugenia1984/UTN-FRSR-Programacion/blob/main/2do_anio_1er_semestre/elementos_de_la_investigacion_operativa/clase07.md): Mongo DB / Trabajo grupal
 
 - CLASE 08 - 23 JUNIO
 
-- CLASE 09 - 30 JUN
 
 ---
