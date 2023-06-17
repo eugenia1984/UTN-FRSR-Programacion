@@ -1,0 +1,156 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <!---- Google fonts Raleway ---->
+  <link rel="preconnect" href="https://fonts.gstatic.com">
+  <link href="https://fonts.googleapis.com/css2?family=Raleway:wght@400;700&display=swap" rel="stylesheet">
+  <!---- Mi CSS ---->
+  <link rel="stylesheet" href="./style.css">
+  <title>Cafeterìa-Error-404</title>
+  <link rel="shortcut icon" href="https://img.icons8.com/sf-black/60/cafe.png" type="image/png">
+  <meta name="description" content="Hola bienvenidos a la practica del grupoo error 404.">
+  <link rel="favicon" href="https://img.icons8.com/sf-black/40/cafe.png">
+  <link rel="apple-touch-icon" href="https://img.icons8.com/sf-black/40/cafe.png">
+  <meta name="theme-color" content="#ffb703">
+  <meta name="twitter:card" content="summary">
+  <meta property="og:type" content="website">
+  <meta property="og:title" name="twitter:title" content="Cafeterìa-Error-404">
+  <meta property="og:description" name="twitter:description" content="Hola bienvenidos a la practica del grupoo error 404 del TP nro. 3.">
+  <meta property="og:image" name="twitter:image" content="https://img.icons8.com/sf-black/40/cafe.png">
+</head>
+<body>
+  <header>
+    <nav class="topnav" id="myTopnav">
+      <a href="#" class="active"><img src="./assets/logo-cafe-96.png" width="48" height="48" alt="logo de taza de cafe humeante"/></a>
+      <a class="menu" href="#about">Nosotros</a>
+      <a class="menu" href="#products">Nuestros productos</a>
+      <a class="menu" href="#contact">Contacto</a>
+      <a href="javascript:void(0);" class="icon" onclick="toggleMenu()">
+        <img width="50" height="50" src="https://img.icons8.com/ios-filled/40/menu--v1.png" alt="menu--v1"/>
+      </a>
+    </nav>
+  </header>
+  <main>
+    <section id="about">
+      <div class="container">
+        <h2>Nosotros</h2>
+        <h1>Cafetería ERROR-404</h1>
+        <p>Somos una cafetería con más de 40 años de historia en el barrio de Belgrano, siempre atendida por sus dueños.</p>
+        <p>Nos especializamos en café arábigo.</p>
+        <p>Vení a visitarnos, nuestros baristas te están esperando!</p>
+      </div>
+      <div class="container container-iframe">
+        <iframe width="565" height="318" src="https://www.youtube.com/embed/kjF0NmwrBac" title="Cafetería acogedora 4K con música suave de piano jazz para relajarse, estudiar y trabajar" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+      </div>
+    </section>
+    <section id="products">
+      <div class="container">
+        <h2>Nuestros productos</h2>
+      <aside id="products-pics">
+        <img class="pic-220" src="./assets/three-hands-with-coffee.jpg" alt="">
+        <img class="pic-350" src="./assets/patisserie.jpg" alt="">
+        <img class="pic-190" src="./assets/coffes.jpg" alt="">
+        <img class="pic-360" src="./assets/three-coffee-cups.jpg" alt="">
+        <img class="pic-220" src="./assets/coffe-cup-2.jpg" alt="">
+        <img class="pic-190" src="./assets/coffe-beans.jpg" alt="">
+        <img class="pic-190" src="./assets/coffe-cup.jpg" alt="">
+        <img class="pic-360" src="./assets/food.jpg" alt="">
+        <img class="pic-220" src="./assets/all-coffes.jpg" alt="">
+      </aside>
+      <aside id="products-price">
+        <h3>Nuestros precios</h3>
+        <table id="table">
+          <thead>
+            <th>Producto</th>
+            <th>Precio</th>
+          </thead>
+          <tbody>
+            <tr>
+            <td>Latte</td>
+            <td>$ 320</td>
+          </tr>
+          <tr>
+            <td>Cappuchino</td>
+            <td>$ 350</td>
+          </tr>
+          <tr>
+            <td>Flat white</td>
+            <td>$ 300</td>
+          </tr>
+          <tr>
+            <td>Americano</td>
+            <td>$ 380</td>
+          </tr>
+          <tr>
+            <td>Macchiato</td>
+            <td>$ 400</td>
+          </tr>
+          <tr>
+            <td>Café del día</td>
+            <td>$ 280</td>
+          </tr>
+          <tr>
+            <td>Croissant</td>
+            <td>$ 160</td>
+          </tr>
+          <tr>
+            <td>Croissant con almendras</td>
+            <td>$ 180</td>
+          </tr>
+          <tr>
+            <td>Roll de manzana</td>
+            <td>$ 160</td>
+          </tr>
+          <tr>
+            <td>Roll de canela</td>
+            <td>$ 160</td>
+          </tr>
+          </tbody>
+        </table>
+      </aside>
+      </div>
+    </section>
+    <section id="contact" class="contact-section">
+      <div class="container">
+        <h2 class="section-title">Contacto</h2>
+        <form class="contact-form box-shadow-1">
+          <input type="text" name="name" placeholder="Ingresa tu nombre"
+            title="Nombre sólo acepta letras y espacios en blanco" pattern="^[A-Za-zÑñÁáÉéÍíÓóÚúÜü\s]+$" required>
+          <input type="email" name="email" placeholder="Ingresa tu correo" title="Email incorrecto"
+            pattern="^[a-z0-9]+(\.[_a-z0-9]+)*@[a-z0-9-]+(\.[a-z0-9-]+)*(\.[a-z]{2,15})$" required>
+          <textarea name="comments" cols="50" rows="10" placeholder="Dejame tus comentarios..." required></textarea>
+          <div class="contact-form-loader text-center none">
+          </div>
+          <input class="btn" type="submit" value="ENVIAR MENSAJE">
+        </form>
+        <article id="gracias" class="modal">
+          <div class="modal-content no-show">
+            <article class="contact-form-response">
+              <h3>
+                ¡Muchas Gracias!
+                <br>
+                Por tus comentarios
+              </h3>
+              <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+                <path d="M12,18c4,0,5-4,5-4H7C7,14,8,18,12,18z" />
+                <path
+                  d="M12,2C6.486,2,2,6.486,2,12c0,5.514,4.486,10,10,10s10-4.486,10-10C22,6.486,17.514,2,12,2z M12,20c-4.411,0-8-3.589-8-8 s3.589-8,8-8s8,3.589,8,8S16.411,20,12,20z" />
+                <path
+                  d="M13 12l2 .012C15.012 11.55 15.194 11 16 11s.988.55 1 1h2c0-1.206-.799-3-3-3S13 10.794 13 12zM8 11c.806 0 .988.55 1 1h2c0-1.206-.799-3-3-3s-3 1.794-3 3l2 .012C7.012 11.55 7.194 11 8 11z" />
+              </svg>
+            </article>
+          </div>
+        </article>
+      </div>
+    </section>
+  </main>
+  <footer>
+    <p>Práctica del grupo ERRRO-404</p>
+    <p>Copyright &#169; <script>document.write(new Date().getFullYear())</script> - Todos los derechos reservados</p>
+  </footer>
+  <script src="./main.js"></script>
+</body>
+</html>
