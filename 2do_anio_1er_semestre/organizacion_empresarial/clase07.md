@@ -353,4 +353,20 @@ Cuáles van a ser esas cajas principales del sitio.​
 
 3 -Enviar captura por grupo con los integrantes que participaron más las respuestas de las actividades de ciberseguridad. Fecha de entrega 23/6​
 
+En la carpeta de ejercicio 3 esta el codigo, aca hay algunas imagenes de como quedo:
+
+![image](https://github.com/eugenia1984/UTN-FRSR-Programacion/assets/72580574/325726db-a1f8-48b6-800c-349036cb0b9d)
+
+![image](https://github.com/eugenia1984/UTN-FRSR-Programacion/assets/72580574/e6e80797-fe7e-48eb-8c02-10c4f76ebd42)
+
+![image](https://github.com/eugenia1984/UTN-FRSR-Programacion/assets/72580574/7a2e2b59-b12f-4093-aac8-65a874b74b2f)
+
+
+![image](https://github.com/eugenia1984/UTN-FRSR-Programacion/assets/72580574/84bd7323-9b22-4fa9-b067-8cad099d36f9)
+
+Asi se ve en celular:
+
+
+![image](https://github.com/eugenia1984/UTN-FRSR-Programacion/assets/72580574/05b2ff81-61fa-4a3e-bd36-8897db6aa7ca)
+
 ---
