@@ -74,47 +74,53 @@ Al igual que el anterior nos mostrará una lista de datos no remitidos siempre y
 
 **Pregunta 1**: La principal recomendación para proteger la información de tu dispositivo móvil es​. 
 
-No conectarse a redes públicas, en lugares como restaurantes o centros comerciales​. 
+- No conectarse a redes públicas, en lugares como restaurantes o centros comerciales​.  -->   RESPUESTA
 
-Utilizar el dispositivo en modo avión cuando estés en tu casa​.
+- Utilizar el dispositivo en modo avión cuando estés en tu casa​.
 
-No transportar a ningún lado tu dispositivo móvil​
+- No transportar a ningún lado tu dispositivo móvil​
 
-Permitir el acceso a servicios de terceros y apk’s fuera de la Play Store​
+- Permitir el acceso a servicios de terceros y apk’s fuera de la Play Store​
 
-**Pregunta 2**:​ Al salir y movilizarte con tu dispositivo móvil, una recomendación que deberías implementar es:​ Apagar tu dispositivo durante todo el viaje​
 
-Meterlo en una bolsa de plástico, para evitar que sea comprometido​
+**Pregunta 2**:​ Al salir y movilizarte con tu dispositivo móvil, una recomendación que deberías implementar es:​ 
 
-Desactivar el Wi-Fi, para que no envíe señales a dispositivos como Acces Point o Routers​
+- Apagar tu dispositivo durante todo el viaje​
 
-Bajar todo el volumen y llevarlo en modo vibrador​
+- Meterlo en una bolsa de plástico, para evitar que sea comprometido​
+
+- Desactivar el Wi-Fi, para que no envíe señales a dispositivos como Acces Point o Routers​ --> RESPUESTA
+
+- Bajar todo el volumen y llevarlo en modo vibrador​
+
 
 **Pregunta 3**:​ Es un peligro que existe en nuestro dispositivo móvil:​ 
 
-Geolocalización​
+- Geolocalización​
 
-Red Wi-Fi activa​
+- Red Wi-Fi activa​
 
-Factor de portabilidad​
+- Factor de portabilidad​
 
-Todas las anteriores​
+- Todas las anteriores​ --> RESPUESTA
+
 
 **Pregunta 4**:​ ¿El antivirus para dispositivo móvil, es la aplicación indispensable que protege por completo la información?​
 
-Verdadero​
+- Verdadero​
 
-Falso​
+- Falso --> RESPUESTA​
+
 
 **Pregunta 5**:​ ¿Cuál es el mejor antivirus para tu dispositivo móvil?​
 
-ESET NOD32​
+- ESET NOD32​
 
-Avast​
+- Avast​
 
-El sentido común​
+- El sentido común --> RESPUESTA​
 
-Todas las anteriores
+- Todas las anteriores
 
 ---
 ---
@@ -123,17 +129,14 @@ Todas las anteriores
 
 ## ETIQUETA AUDIO:
 
-Esta etiqueta incrusta un archivo de sonido en el sitio Web​
+- Esta etiqueta incrusta un archivo de sonido en el sitio Web​. Es una etiqueta compuesta y que esta va acompañada por ciertos atributos:​
 
-Es una etiqueta compuesta y que esta va acompañada por ciertos atributos:​
-
+```
 -autoplay​
-
 -control​
-
 -Loop​
-
 -Preload " auto" o "none"​
+```
 
 La ubicaremos debajo de resultado de exámenes​
 
@@ -141,17 +144,17 @@ La ubicaremos debajo de resultado de exámenes​
 <audio autoplay controls loop preload ="auto"></audio>
 ```
 
-Guardamos y visualizamos​
+-> Guardamos y visualizamos​
+
 
 ## EXTENCIONES DE LA ETIQUETA AUDIO
 
+```
 Ogg vorbis.ogg​
-
 Mp3.mp3​
-
 Wav.uap (es un archivo no complrimido)​
-
 Acc.mp4.acc​
+```
 
 Se recomienda que los archivos de sonido estén convertidos en alguno de los formatos mencionados​
 
@@ -163,22 +166,15 @@ Para realizar conversión de archivos utilizar sitio web online-convert.com.es�
 <source scr="audio/audio.ogg" type ="audio/mp4"​
 ```
 
-Guardamos y visualizamos​
+-> Guardamos y visualizamos​
 
 ## ​ETIQUETA ```<VIDEO>```
 
-Es una etiqueta compuesta​
-
-Al igual que la etiqueta audio trae extensiones que podemos utilizar ​
-
-Ogv​
-
-Mp4​
-
-Web,webm​
+Es una etiqueta compuesta​, al igual que la etiqueta audio trae extensiones que podemos utilizar: `Ogv`, `Mp4`, `Web` y `webm`.​
 
 Añadiremos la etiqueta debajo de la etiqueta audio.​
-```html
+
+```HTML
 <video> autoplay controls loop widh="500"height ="200"</video>​
 ```
 
@@ -186,7 +182,7 @@ Guardamos y visualizamos​
 
 ## CON EXTENCIONES
 ​
-Añadir extenciones a la etiquerta video :​
+Añadir extenciones a la etiquerta video:​
 
 ```html
 <video> autoplay controls loop widh="500"height ="200"</video>​
@@ -205,34 +201,31 @@ Por ejemplo un video de youtube.​
 <iframe widh ="500" heitht="280" scr="youtube.com/embeb/_n°url del video"frameborder="0" allow full screan></iframe>​
 ```
 
-También nos permite copiar videos desde Vimeo, donde ya nos genera la etiqueta y solo debemos copiar y pegar.​
+También nos permite copiar videos desde **Vimeo**, donde ya nos genera la etiqueta y solo debemos copiar y pegar.​ Otro sitio también para compartir es **sound coud​**. También se puede añadir revistas digitales como el sitio de calameo, donde también sólo se copia la etiqueta <iframe> y la pegamos en nuestra maqueta de html​-
 
-Otro sitio también para compartir es sound coud​
+---
 
-También se puede añadir revistas digitales como el sitio de calameo, donde también sólo se copia la etiqueta <iframe> y la pegamos en nuestra maqueta de html​
 
 ## ETIQUETA ```<DIV>```
 ​
-Es una etiqueta estandar, que me permite generara una división en el encabezado de mi página​
-
-Estas etiquetas se pueden clasificar con class e identificar con id​
+Es una etiqueta estandar, que me permite generara una división en el encabezado de mi página​. Estas etiquetas se pueden clasificar con class e identificar con id​
 
 ```html
 <header>​
    <div> id ="logotipo" logotipo</div>​
 <header>​
-      <aside> ​
-             <div>class = "noticias"noticia1</div>​
-            <div>class = "noticias"noticia 2</div>​
-            <div>class = "noticias"noticia 3</div>​
-      </aside>​
+   <aside> ​
+      div class = "noticias">noticia 1</div>​
+      <div class = "noticias">noticia 2</div>​
+      <div class = "noticias">noticia 3</div>​
+ </aside>​
 ```
+
+---
 
 ## ETIQUETA FORMULARIO ```<FORM>```
 
-Esta etiqueta le permite al usuario escribir comentarios, interactuar con el usuario de la página o la empresa.​
-
- La ubicaremos sobre la cabecera, pero se puede ubicar donde se requiera.​
+Esta etiqueta le permite al usuario escribir comentarios, interactuar con el usuario de la página o la empresa.​  La ubicaremos sobre la cabecera, pero se puede ubicar donde se requiera.​
 
 ```html
 <body>​
@@ -240,14 +233,14 @@ Esta etiqueta le permite al usuario escribir comentarios, interactuar con el usu
 </body>​
 ```
 
-Se puede acompañar de la etiqueta <center> ​
+Se puede acompañar de la etiqueta ``<center> ​``
 
 ```html
 <body>​
  <center>​
 <h3>Formulario</h3>​
  <form>
-   <label for="texto">ingresar texto</label>​
+    <label for="texto">Ingresar texto</label>​
     <imput id= "text" type"text" placeholder="ingresar texto" value="">​
  </form>​
 </center>​
@@ -256,6 +249,8 @@ Se puede acompañar de la etiqueta <center> ​
 
 ESTA ETIQUETA TAMBIÉN SE PUEDE UTILIZAR PARA INGRESAR CORREOS
 ​
+---
+
 ```<br>``` etiqueta para salto de línea​
 
 ```html
@@ -265,11 +260,11 @@ ESTA ETIQUETA TAMBIÉN SE PUEDE UTILIZAR PARA INGRESAR CORREOS
 <header> </header>​
 ```
 
-## ESTA ETIQUETA TAMBIÉN SE PUEDE UTILIZAR PARA INGRESAR CONTRASEÑAS​
+
+
+- ESTA ETIQUETA TAMBIÉN SE PUEDE UTILIZAR PARA INGRESAR CONTRASEÑAS​
 
 ​
-
-```<br>``` etiqueta para salto de línea​
 
 ```html
 <br>​
@@ -281,12 +276,10 @@ ESTA ETIQUETA TAMBIÉN SE PUEDE UTILIZAR PARA INGRESAR CORREOS
 ## ETIQUETA PARA INGRESAR NUMERO​
 
 
-```<br>``` etiqueta para salto de línea​
-
 ```html
 <br>​
-  <imput  type="number" value="10" min="o" max="3"​
-<header> </header>​
+  <imput  type="number" value="10" min="o" max="3">​
+<header </header>​
 ```
 ​
 
@@ -339,9 +332,9 @@ Gupo {​
 ## SE PUEDEN UTILIZAR COLORES HEXADECIMALES:
 ​
 ​
-Para obtener colores hexadecimales podemos ingresar al siguiente sitio y copiar el número del color que necesitemos.​
+Para obtener colores hexadecimales podemos ingresar al siguiente sitio y copiar el número del color que necesitemos.​ https://html-color-codes.info/codigos-de-colores-hexadecimales/​
 
-https://html-color-codes.info/codigos-de-colores-hexadecimales/​
+---
 
 ​
 ## WIREFRAME​
@@ -350,7 +343,9 @@ Es importante  tener una maqueta del diseño del sitio web​
 
 Cuáles van a ser esas cajas principales del sitio.​
 
-## ACTIVIDAD:
+---
+
+##  :star: ACTIVIDAD:
   ​
 1- Responder el cuestionario para la asistencia en el aula del campus​
 
