@@ -18,7 +18,7 @@
 
 - [CLASE 07 - 16 JUNIO](https://github.com/eugenia1984/UTN-FRSR-Programacion/blob/main/2do_anio_1er_semestre/elementos_de_la_investigacion_operativa/clase07.md): Mongo DB / :book: Trabajo grupal
 
-- CLASE 08 - 23 JUNIO
+- [CLASE 08 - 23 JUNIO](https://github.com/eugenia1984/UTN-FRSR-Programacion/blob/main/2do_anio_1er_semestre/elementos_de_la_investigacion_operativa/clase08.md): Mongo DB
 
 
 ---
