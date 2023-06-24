@@ -18,9 +18,8 @@
 
 - [CLASE 07 - 16 JUNIO](https://github.com/eugenia1984/UTN-FRSR-Programacion/blob/main/2do_anio_1er_semestre/organizacion_empresarial/clase07.md):  ciberseguridad - HTML y CSS / [TP 3](https://github.com/eugenia1984/UTN-FRSR-Programacion/tree/main/2do_anio_1er_semestre/organizacion_empresarial/tp3_ejercicio)
 
-- CLASE 08 - 23 JUNIO
+- [CLASE 08 - 23 JUNIO](https://github.com/eugenia1984/UTN-FRSR-Programacion/blob/main/2do_anio_1er_semestre/organizacion_empresarial/clase08.md): HTML y CSS
 
-- CLASE 09 - 30 JUN
 
 
 :computer: -> [Ejercicios de práctica](https://github.com/eugenia1984/UTN-FRSR-Programacion/tree/main/2do_anio_1er_semestre/organizacion_empresarial/organizacion_empresarial)
