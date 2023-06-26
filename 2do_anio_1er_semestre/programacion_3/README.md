@@ -30,9 +30,9 @@
 
 - [Clase 10 - 14 JUN](https://github.com/eugenia1984/UTN-FRSR-Programacion/tree/main/2do_anio_1er_semestre/programacion_3/clase10): Proyecto Listar Personas / [:computer: ejercicios](https://github.com/eugenia1984/UTN-FRSR-Programacion/tree/main/2do_anio_1er_semestre/programacion_3/clase10/ListarPersonas)
 
-- Clase 11 - 21 JUN - feriado
+- Clase 11 - 21 JUN 
 
-- Clase 11 - 28 JUN
+- Clase 12 - 28 JUN
 
 - [Trabajo Practico Final -> Scrum](https://github.com/eugenia1984/UTN-FRSR-Programacion/blob/main/2do_anio_1er_semestre/programacion_3/Trabajo-Scrum-ERROR-404.pdf)
   
