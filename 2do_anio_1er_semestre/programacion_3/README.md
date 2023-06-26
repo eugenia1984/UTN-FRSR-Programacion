@@ -34,4 +34,6 @@
 
 - Clase 11 - 28 JUN
 
+- [Trabajo Practico Final -> Scrum](https://github.com/eugenia1984/UTN-FRSR-Programacion/blob/main/2do_anio_1er_semestre/programacion_3/Trabajo-Scrum-ERROR-404.pdf)
+  
 ---
