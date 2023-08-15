@@ -91,4 +91,39 @@ contenidos -> wireframes -> diseño visual -> animaciones
 
 ## :star: 1.6 BRIEF Y REQUERIMIENTOS TÉCNICOS
 
+- Hay distintos tipos de brief
+
+### BRIEF CREATIVO:
+
+Algo novedoso. Anuncios.
+
+Ejemplo 1:
+
+![image](https://github.com/eugenia1984/UTN-FRSR-Programacion/assets/72580574/d0b421d2-9d15-48e6-907b-b0433806ade6)
+
+### BRIEF PUBLICITARIO
+
+Parecido al anterior, pero orientado al marketing, lanzamiento de un nuevo producto, nuevo sabor de bebida, posicionamiento de marca, etc.
+
+### BRIEF DE COMUNICACION
+
+Las piezas claves para el desarrollo de una estrategia de cimunicación o relacione spúblicas. Ejemplo: trabajo ocn influencers, etc.
+
+### BRIEF DE DISEÑO
+
+Contiene informción técnica de los ormatos y sus especificaicones.
+
+Ejemplo: sitio web, newsletter, presentaciones, broucheers, landing pages, etc
+
+### BRIEF DE PROGRAMACIÓN
+
+Todo lo que necesita uan empresa: branding, diseño, elementos, fucnionalidades obligatorias. 
+
+Se divide en dos: Back End y Front End
+
+Ejemplo: Blog, app, etc.
+
+-> Si recibimos un brief de parte dle cliente, necesitamos un analisis del mismo, y puede ser que tengamos que modificar algo.
+
+
 ---
