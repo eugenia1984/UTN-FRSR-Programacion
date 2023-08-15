@@ -1,4 +1,4 @@
-# LABORATORIO 4 / PROGRAMACION 4
+# :computer: LABORATORIO 4 / PROGRAMACION 4
 
 ---
 
@@ -6,7 +6,7 @@
 
 - Python
 
-- JavaScript
+- [JavaScript](https://github.com/eugenia1984/UTN-FRSR-Programacion/tree/main/2do_anio_2do_sem/laboratorio_programacion/javascript)
 
 ---
 
