@@ -35,7 +35,7 @@ Voy a crear un repositorio por cada materia cursada, en esta lista encontrarán 
 | [Estadística](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/tree/main/estadistica)  <img src="https://img.icons8.com/emoji/30/null/party-popper.png"/>aprobado con **8** |
 | [Inglés II](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/tree/main/ingles2)  <img src="https://img.icons8.com/emoji/30/null/party-popper.png"/>aprobado con **9** |
 | [Laboratorio de computación 2](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/tree/main/laboratorio2)  <img src="https://img.icons8.com/emoji/30/null/party-popper.png"/>aprobado con **9** |
-| [Metodología de la Investigación](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/tree/main/metodologia_investigacion)  <img src="https://img.icons8.com/emoji/30/null/party-popper.png"/>aprobado con **!0** |
+| [Metodología de la Investigación](https://github.com/eugenia1984/UTN-FRSR-Programacion-1year-2semester/tree/main/metodologia_investigacion)  <img src="https://img.icons8.com/emoji/30/null/party-popper.png"/>aprobado con **10** |
 
 ---
 
@@ -46,11 +46,11 @@ Voy a crear un repositorio por cada materia cursada, en esta lista encontrarán 
 
 | [**2do Año - 1er Semestre**](https://github.com/eugenia1984/UTN-FRSR-Programacion/tree/main/2do_anio_1er_semestre) |
 | ---------------------- |
-| [Programación 3](https://github.com/eugenia1984/UTN-FRSR-Programacion/tree/main/2do_anio_1er_semestre/programacion_3) <img src="https://img.icons8.com/emoji/30/null/party-popper.png"/>aprobado con 10|
-| [Organización Contable de la Empresa](https://github.com/eugenia1984/UTN-FRSR-Programacion/tree/main/2do_anio_1er_semestre/organizacion_contable) / [Ingles III](https://github.com/eugenia1984/UTN-FRSR-Programacion/tree/main/2do_anio_1er_semestre/ingles_3)(INGLES 10) <img src="https://img.icons8.com/emoji/30/null/party-popper.png"/>aprobado con 8 (NO DA EL PROMEDIO -> ESPERO RESPUESTA)|
-| [Organización Empresarial](https://github.com/eugenia1984/UTN-FRSR-Programacion/tree/main/2do_anio_1er_semestre/organizacion_empresarial) <img src="https://img.icons8.com/emoji/30/null/party-popper.png"/>aprobado con 10 |
-| [Elementos de la investigación Operativa](https://github.com/eugenia1984/UTN-FRSR-Programacion/tree/main/2do_anio_1er_semestre/elementos_de_la_investigacion_operativa) <img src="https://img.icons8.com/emoji/30/null/party-popper.png"/>aprobado con 10|
-| [Laboratorio de Computación 3](https://github.com/eugenia1984/UTN-FRSR-Programacion/tree/main/2do_anio_1er_semestre/laboratorioIII) <img src="https://img.icons8.com/emoji/30/null/party-popper.png"/>aprobado con 10 |
+| [Programación 3](https://github.com/eugenia1984/UTN-FRSR-Programacion/tree/main/2do_anio_1er_semestre/programacion_3) <img src="https://img.icons8.com/emoji/30/null/party-popper.png"/>aprobado con **10** |
+| [Organización Contable de la Empresa](https://github.com/eugenia1984/UTN-FRSR-Programacion/tree/main/2do_anio_1er_semestre/organizacion_contable) / [Ingles III](https://github.com/eugenia1984/UTN-FRSR-Programacion/tree/main/2do_anio_1er_semestre/ingles_3) (INGLES **10**) <img src="https://img.icons8.com/emoji/30/null/party-popper.png"/>aprobado con 8 (NO DA EL PROMEDIO -> ESPERO RESPUESTA)|
+| [Organización Empresarial](https://github.com/eugenia1984/UTN-FRSR-Programacion/tree/main/2do_anio_1er_semestre/organizacion_empresarial) <img src="https://img.icons8.com/emoji/30/null/party-popper.png"/> aprobado con **10** |
+| [Elementos de la investigación Operativa](https://github.com/eugenia1984/UTN-FRSR-Programacion/tree/main/2do_anio_1er_semestre/elementos_de_la_investigacion_operativa) <img src="https://img.icons8.com/emoji/30/null/party-popper.png"/> aprobado con **10** |
+| [Laboratorio de Computación 3](https://github.com/eugenia1984/UTN-FRSR-Programacion/tree/main/2do_anio_1er_semestre/laboratorioIII) <img src="https://img.icons8.com/emoji/30/null/party-popper.png"/> aprobado con **10** |
 
 
 ### :computer: Segundo semestre
