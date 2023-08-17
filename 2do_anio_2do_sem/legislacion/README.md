@@ -2,4 +2,14 @@
 
 - [Programa](https://github.com/eugenia1984/UTN-FRSR-Programacion/blob/main/2do_anio_2do_sem/legislacion/programa.md)
 
+- CONTRATOS lABORALES Y NORMAS JURIDICAS
+
+- LEY DE HABEAS DATA Y REGLAMENTACION
+
+- PROPIEDAD INTELECTUAL Y DERECHOS DE AUTOR
+
+- FIRMA DIGITAL - EXPEDIENTE ELECTRONICO
+
+- LEGISLACION EN LAS TICS 
+
 --- 
