@@ -87,7 +87,7 @@ La norma jurídica debe adecuarse al derecho natural, ya que éste es inmutable 
 
 **Derecho Subjetivo**: Es el derecho o facultad de un individuo de obrar de determinada manera o de exigir una conducta dada. Se pueden dividir en: 
 
----
+
 
 **Absolutos**: El sujeto obligado es toda la sociedad 
 
