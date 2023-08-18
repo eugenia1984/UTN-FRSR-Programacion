@@ -2,7 +2,7 @@
 
 - [Programa](https://github.com/eugenia1984/UTN-FRSR-Programacion/blob/main/2do_anio_2do_sem/legislacion/programa.md)
 
-- CONTRATOS LABORALES Y NORMAS JURIDICAS
+- CONTRATOS LABORALES Y NORMAS JURIDICAS: [Contrato laboral, norma juridica](https://github.com/eugenia1984/UTN-FRSR-Programacion/blob/main/2do_anio_2do_sem/legislacion/contrato_laboral_norma_juridica.md)
 
 - LEY DE HABEAS DATA Y REGLAMENTACION
 
