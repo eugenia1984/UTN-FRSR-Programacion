@@ -1,6 +1,8 @@
 # PYTHON
 
-## Clase 02 - LU 28 AUG - Profundizando en Python con Sistemas Numéricos -> Parte 1
+## [Clase 02 - LU 28 AUG](https://github.com/eugenia1984/UTN-FRSR-Programacion/tree/main/2do_anio_2do_sem/laboratorio_programacion/python/clase2) 
+
+Profundizando en Python con Sistemas Numéricos -> Parte 1
 
 - 2.1 Comenzamos con -> Decimal, Binario, Octal y Hexadecimal
 
