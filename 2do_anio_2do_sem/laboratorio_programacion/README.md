@@ -4,7 +4,7 @@
 
 ## Lenguajes
 
-- Python
+- [Python](https://github.com/eugenia1984/UTN-FRSR-Programacion/tree/main/2do_anio_2do_sem/laboratorio_programacion/python)
 
 - [JavaScript](https://github.com/eugenia1984/UTN-FRSR-Programacion/tree/main/2do_anio_2do_sem/laboratorio_programacion/javascript)
 
