@@ -11,7 +11,7 @@
 1.6 BRIEF Y REQUERIMIENTOS TÉCNICOS
 ```
 
-- Clase 2 - LU 28 AUG: Comenzamos con algunas bases de lo que es el diseño...
+- [Clase 2](https://github.com/eugenia1984/UTN-FRSR-Programacion/blob/main/2do_anio_2do_sem/laboratorio_programacion/disenio/clase02.md) - LU 28 AUG: Comenzamos con algunas bases de lo que es el diseño...
 
 ```
 2.1 El proceso creativo, diseño UX
