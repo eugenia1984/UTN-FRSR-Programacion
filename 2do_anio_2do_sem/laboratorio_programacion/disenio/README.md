@@ -22,6 +22,6 @@
 ```
 
 
-- Clase 3
+- Clase 3 - LU 4 SEP
 
 ---
