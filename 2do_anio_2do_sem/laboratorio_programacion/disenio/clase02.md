@@ -11,11 +11,17 @@ los usuarios y su usabilidad.
 Que nuestras acciones en las
 paginas sean muy amables
         |
-
+1 - Investigación
+Recopilar datos de como se
+comporta el usuario y como
+usa otras apps similares
+      |
+2. Analisis
+Analizar la información
+agruparla según los objetivos
+hacia el usuario
 ```    
 
-
-![image](https://github.com/eugenia1984/UTN-FRSR-Programacion/assets/72580574/d81f19fd-f163-43e1-bddb-e12445aeddb7)
 
 
 
