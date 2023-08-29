@@ -4,7 +4,7 @@
 
 Profundizando en Python con Sistemas Numéricos -> Parte 1:  Comenzamos con -> Decimal, Binario, Octal y Hexadecimal / Seguimos con -> Decimal, Binario, Octal y Hexadecimal Ahora con int('valor', base) / Tipo float como constructor y comienzo de exponencial / Exponencial negativo y positivo / Valor Infinito Positivo y negativo
 
-## - Clase 3 - LU 4 SEP
+## Clase 3 - LU 4 SEP
 
 ## Clase 5 - LU 11 SEP
 
