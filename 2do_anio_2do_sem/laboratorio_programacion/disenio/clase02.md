@@ -3,8 +3,17 @@
 
 ## 2.1 El proceso creativo, diseño UX
 
+```
+UX (User Experience)
+        |
+Es el diseño que se enfoca en
+los usuarios y su usabilidad.
+Que nuestras acciones en las
+paginas sean muy amables
+        |
 
-![image](https://github.com/eugenia1984/UTN-FRSR-Programacion/assets/72580574/408d7cad-9bf5-4a08-bda6-6422ac08b2d7)
+```    
+
 
 ![image](https://github.com/eugenia1984/UTN-FRSR-Programacion/assets/72580574/d81f19fd-f163-43e1-bddb-e12445aeddb7)
 
