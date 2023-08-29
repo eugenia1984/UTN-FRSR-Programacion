@@ -92,11 +92,16 @@ En versión mobile:
 
 ![image](https://github.com/eugenia1984/UTN-FRSR-Programacion/assets/72580574/321f3aa2-5621-4bbe-b929-ecf7e6c7795c)
 
+Es el momento de ponerle el color a los bocetos -> **UI** USER INTERFACE
+
+---
 
 ### Moodboard
 
 
-![image](https://github.com/eugenia1984/UTN-FRSR-Programacion/assets/72580574/1d827226-8ace-44ae-8ec9-55030e137da3)
+Su traducción literal es **mapa de inspiración**.
+
+Un moodboard es una colección de referencias visuales, un tablero o un documento donde empezamos a recopilar referencias, es una herramienta creativa que consiste en una visualizacion rápida de imágenes y palabras en un mismo soporte.
 
 
 ---
