@@ -11,21 +11,53 @@ los usuarios y su usabilidad.
 Que nuestras acciones en las
 paginas sean muy amables
         |
-1 - Investigación
+1 - INVESTIGACIÓN
 Recopilar datos de como se
 comporta el usuario y como
 usa otras apps similares
-      |
-2. Analisis
+        |
+2. ANÁLISIS
 Analizar la información
 agruparla según los objetivos
 hacia el usuario
+        |
+3. DISEÑO
+Crear prototipos, flujos de
+usuario para visualizar las
+mejores características
+para el producto final
+       |
+4. PRUEBAS DE USUARIO
+Se realizan pruebas con
+sketches(borradores) para
+ver la interacciòn con el
+usuario con el producto
+sin ser el resultado final
 ```    
 
 
 
+## Work-flow (diagrama de flujo de la web)
+
+Suponemos que viene un cliente, con un negocio de restaurante de hamburguesas, hacemos un diagrama de flujo
+
+En el Navbar tiene: 
+
+Menu - Pedidos (para los pedidos on line) 
+
+Contacto (para que se comuniquen y vean las sucursales) 
+
+Paginas extras (en las redes sociales)
 
 ![image](https://github.com/eugenia1984/UTN-FRSR-Programacion/assets/72580574/d146893a-e07e-40bf-baff-d9e6157e2243)
+
+Se definen las secicones principales, secundarias.
+
+## User flow
+
+Los pasos que va a tener que hacer el usuario para completar una tarea.
+
+Ejemplo del user flow de un pedido:
 
 ![image](https://github.com/eugenia1984/UTN-FRSR-Programacion/assets/72580574/5c3ab607-6a4a-420b-a9fb-8ed6a4b3d610)
 
