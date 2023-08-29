@@ -1,0 +1,133 @@
+/* Reset */
+*,
+*::before,
+*::after {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  scroll-behavior: smooth;
+}
+
+body {
+  font-family: 'Montserrat', sans-serif;
+}
+
+/* Products Styles */
+.card-products-container {
+  margin: 5vh auto;
+}
+
+.card-products {
+  text-align: center;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  flex-wrap: wrap;
+}
+
+.card-products img {
+  margin-top: 40px;
+  width: 250px;
+  height: 250px;
+  object-fit: cover; /* Sino pierde la proporcion de la imagen y se deforma*/
+}
+
+.card-products button {
+  border: none;
+  outline: 0;
+  padding: 10px;
+  color: white;
+  font-weight: 800;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  background-color: #1bcb7f;
+  text-align: center;
+  cursor: pointer;
+  width: 100%;
+  font-size: 15px;
+  margin-top: 12px;
+  border-radius: 7px;
+  -webkit-border-radius: 7px;
+  -moz-border-radius: 7px;
+  -ms-border-radius: 7px;
+  -o-border-radius: 7px;
+  transition: transform 0.2s ease-in-out;
+}
+
+.card-products button:hover {
+  opacity: 0.8;
+}
+
+/* Shopping cart */
+section#cart-btn {
+  z-index: 1;
+  position: fixed;
+  bottom: 10px;
+  right: 10px;
+  background: #ff0000;
+  padding: 12px;
+  border-radius: 50%;
+  transition: transform 0.2s ease-in-out;
+  -webkit-transition: transform 0.2s ease-in-out;
+  -moz-transition: transform 0.2s ease-in-out;
+  -ms-transition: transform 0.2s ease-in-out;
+  -o-transition: transform 0.2s ease-in-out;
+}
+
+section#cart-btn:hover {
+  background: #c21515;
+}
+
+/* cart modal */
+.modal-overlay {
+  display: none;
+  background-color: #c7c0c088;
+  box-shadow: 0px 3px 6px #00000029;
+  padding: 40px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  -webkit-transform: translate(-50%, -50%);
+  -moz-transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  -o-transform: translate(-50%, -50%);
+  z-index: 2;
+  min-height: 100%;
+  min-width: 100%;
+}
+
+.modal-container {
+  display: none;
+  background-color: #fff;
+  box-shadow: 0px 3px 6px #00000029;
+  padding: 40px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  -webkit-transform: translate(-50%, -50%);
+  -moz-transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  -o-transform: translate(-50%, -50%);
+  max-width: 100%;
+  z-index: 3;
+  max-height: 80vh;
+  overflow-y: auto;
+}
+
+.modal-container::-webkit-scrollbar {
+  display: none;
+}
+
+.modal-close {
+  float: right;
+  cursor: pointer;
+}
+
+.modal-title {
+  font-size: 24px;
+  font-weight: bold;
+  margin-bottom: 20px;
+  text-align: center;
+}
