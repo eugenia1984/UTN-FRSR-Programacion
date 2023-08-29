@@ -66,7 +66,7 @@ Ejemplo del user flow de un pedido:
 
 ## 2.2 Continuamos con los wireframes
 
-### DIAGRAMS DE FLUJO
+### DIAGRAMAS DE FLUJO
 
 Nos permite llevar los requerimientos de nuestros BRIEF a elementos tangibles
 
@@ -76,11 +76,11 @@ WIREFRAMES -> son planos o bosquejos de nuestra aplicación. Tienen dos tipos: B
 
 Ejemplos:
 
-Desktop: 
+En versión desktop: 
 
 ![image](https://github.com/eugenia1984/UTN-FRSR-Programacion/assets/72580574/4fc4e920-50ba-4cb6-a25f-61b0323eb6d2)
 
-Mobile:
+En versión mobile:
 
 
 ![image](https://github.com/eugenia1984/UTN-FRSR-Programacion/assets/72580574/6281f646-1c2f-4985-a8cc-baf0cd3e529e)
