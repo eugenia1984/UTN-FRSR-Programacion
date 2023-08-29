@@ -11,17 +11,17 @@ los usuarios y su usabilidad.
 Que nuestras acciones en las
 paginas sean muy amables
         |
-1 - INVESTIGACIÓN
+   1 - INVESTIGACIÓN
 Recopilar datos de como se
 comporta el usuario y como
 usa otras apps similares
         |
-2. ANÁLISIS
+    2. ANÁLISIS
 Analizar la información
 agruparla según los objetivos
 hacia el usuario
         |
-3. DISEÑO
+     3. DISEÑO
 Crear prototipos, flujos de
 usuario para visualizar las
 mejores características
@@ -51,7 +51,7 @@ Paginas extras (en las redes sociales)
 
 ![image](https://github.com/eugenia1984/UTN-FRSR-Programacion/assets/72580574/d146893a-e07e-40bf-baff-d9e6157e2243)
 
-Se definen las secicones principales, secundarias.
+Se definen las secciones principales, secundarias.
 
 ## User flow
 
@@ -66,8 +66,12 @@ Ejemplo del user flow de un pedido:
 
 ## 2.2 Continuamos con los wireframes
 
+### DIAGRAMS DE FLUJO
 
-![image](https://github.com/eugenia1984/UTN-FRSR-Programacion/assets/72580574/4ca70a9d-6015-44c6-ab29-6454d0953e06)
+Nos permite llevar los requerimientos de nuestros BRIEF a elementos tangibles
+
+WIREFRAMES -> son planos o bosquejos de nuestra aplicación. Tienen dos tipos: BAJO NIVEL (a mano) y ALTO NIVEL (en un programa)
+
 
 
 Ejemplos:
