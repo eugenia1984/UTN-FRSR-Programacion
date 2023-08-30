@@ -65,6 +65,7 @@ aside#der input [type=“submit”] {
 Entonces estamos llamando utilizando el atributo
 
 ---
+---
 
 ## Propiedades de enlace:
 
@@ -116,12 +117,15 @@ a.botones: active {
 # Como añadimos enlaces a los links Desde html
 
 ```HTML
-<selection>
-<aisde id=“izq”>
-<ul>
+<section>
+<aside id=“izq”>
+ <ul>
        <li><ahref=“#”>link1</a></li>
        <li><ahref=“#”>link2</a></li>
        <li><ahref=“#”>link3</a></li>
+ <ul>
+</aside>
+</section>
 ```
 
 Si queremos eliminar las línas debajo del link o enlace utilizaremos en CSS
@@ -141,6 +145,7 @@ Para eso crearemos una caja debajo del body de nombre Chat
 ```HTML
 <body>
 <div id =“chat”></div>
+</body>
 ```
 
 Por lo general la ubicación del chat siempre va arriba
@@ -170,13 +175,14 @@ Por ej: en muchos sitios web donde sale una caja que dice “subcribirse”
 - 0 --> valor nulo hasta 3 para que me quede la cabecera en el nivel superior.
 
 ```
-Color:White;
-Tex-align:center;
-Line-heign:40px
-Font-family: “kausha scrip”, cursive;
-Font-size:20px;
-Border-radius:20px 20 px,0 0;
-Curso: pointer;
+{
+color:White;
+tex-align:center;
+line-heign:40px
+font-family: “kausha scrip”, cursive;
+font-size:20px;
+border-radius:20px 20 px,0 0;
+curso: pointer;
 }
 ```
 
@@ -188,28 +194,29 @@ Curso: pointer;
 
 ---
 
-Como separar lo realizado en Html de lo de Css:_
+# Como separar lo realizado en Html de lo de Css:
 
 
 Es importante separar las hojas de Style de CSS de las hojas de HTML.
 
 Seleccionaremos todo lo que utilizamos en CSS.
 
- Para eso vamos a crear un archivo de hoja de Style y pasamos todo a la hoja de creada y guardamos.
+Para eso vamos a crear un archivo de hoja de Style y pasamos todo a la hoja de creada y guardamos.
 
 Para Vincular la hoja de Style a la hoja Html
 
-<titele>
-
-<link href=
-
+```HTML
+<title>
 <link href= “estilo.css” type=“text”/css” rel =“stylesheet” media=“”>
-
+```
  
 
 Siempre lo ubicamos en la hoja de html debajo del titulo             
 
-Actividades:
+---
+
+# :star: Actividades:
+
 1- Realizar cuestionario para la asistencia
 
 2-En grupo realizar la actividad n° 1 añadiendo a la maquetación de muestro sitio web
@@ -230,29 +237,29 @@ Nombre y apellido de los alumnos que participaron
 
 Fecha de entrega: 01/09
 
-Poo: programación orientada a objetos
+---
+
+# :star: Poo: programación orientada a objetos
 
 
 
-¿Qué es la Poo?
+## ¿Qué es la Poo?
 
 Es un paradigma basado en envolver bloques de información y su comportamiento relacionado, en lotes especiales.
 
 
-
-Objetos o clases:
+# Objetos o clases:
 
 Utilizaremos el diagrama UML:
 
+![image](https://github.com/eugenia1984/UTN-FRSR-Programacion/assets/72580574/c7ad10e2-8b5a-491f-8ef9-a38090f81d0d)
 
 
 UML--> no es un lenguaje de programación , pero es una herramienta que me permite generar código en diversos lenguajes utilizando diagramas.
 
-UML --> Guarda una relación directa con el análisis
+UML --> Guarda una relación directa con el análisis y el diseño orientado a objetos
 
-y el diseño orientado a objetos
-
-Diagrama UML:
+# Diagrama UML:
 
 Este diagrama me va a permitir describir, los límites, la lectura. La estructura y el comportamiento del sistema y los objetivos que contiene.
 
@@ -260,22 +267,28 @@ Este diagrama me va a permitir describir, los límites, la lectura. La estructur
 
 
 
-Función del Modelo y Diseño orientado a Objetos:
+![image](https://github.com/eugenia1984/UTN-FRSR-Programacion/assets/72580574/873d96dc-f421-44a3-a16c-1c5d97e8b8a8)
+
+# Función del Modelo y Diseño orientado a Objetos:
+
 En la informática vamos a tener muchos modelos para la resolución de problemas
 
 Tenemos 4 categorías
 
-•Lenguaje Imperativos
-•Funcionales
-•Declarativos
-•OOP (ORIENTADA A OBJETOS)
-•
+• Lenguaje Imperativos
+• Funcionales
+• Declarativos
+• OOP (ORIENTADA A OBJETOS)
+
 El que veremos nosotros será el orientado a objetos, donde los algoritmos se van a expresar definiendo objetos y haciendo que los objetos interactúen entre si.
 
- ¿Qué son los objetos?
+---
+
+# ¿Qué son los objetos?
 
 
 UML me permite:
+
 Me va a permitir trabajar sobre 3 enfoques:
 
 •Diseño orientado a objetos
@@ -286,16 +299,18 @@ Me va a permitir trabajar sobre 3 enfoques:
 
 Estos enfoques facilitan la práctica para la construcción y documentación de diferentes aspectos del modelado de sistemas de software de negocios.
 
-Objeto o Clase :El gato sería el objeto en este ejemplo. Si el Gato tuviese nombre por ejemplo Lolo, sería una instancia de la clase Gato.
+- Objeto o Clase :El gato sería el objeto en este ejemplo. Si el Gato tuviese nombre por ejemplo Lolo, sería una instancia de la clase Gato.
 
-Atributos. Cada gato tiene varios atributos estándar: edad, peso, color, comida favorita, etc esos van a ser los campos de la clase.
+- Atributos. Cada gato tiene varios atributos estándar: edad, peso, color, comida favorita, etc esos van a ser los campos de la clase.
 
-Métodos de la clases: respiran, corren, comen, duermen, maullán.
+- Métodos de la clases: respiran, corren, comen, duermen, maullán.
 
 
+![image](https://github.com/eugenia1984/UTN-FRSR-Programacion/assets/72580574/305da57c-cdd7-43cf-b865-9137eda794fb)
 
 
 
 La información almacenada dentro de los campos del objeto suelen denominarse estados y todo los métodos del objeto definen su comportamiento.
 
 
+![image](https://github.com/eugenia1984/UTN-FRSR-Programacion/assets/72580574/e27963a4-54dc-43de-844b-f6f95ecf8334)
