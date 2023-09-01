@@ -81,6 +81,178 @@ En el archivo columna.html ingresaran los siguientes datos y la meta etiqueta
 •Por lo tanto, si el usuario se ve obligado a desplazarse horizontalmente o alejarse para ver toda la página web, la experiencia del usuario será deficiente.
 
 ---
+
+## REGLAS A TENER EN CUENTA:
+
+1. NO utilice elementos grandes de ancho fijo: por ejemplo, si una imagen se muestra con un ancho mayor que la ventana gráfica, puede hacer que la ventana gráfica se desplace horizontalmente. Se debe  ajustar este contenido para que quepa dentro del ancho de la ventana gráfica.
+
+2. NO permita que el contenido dependa de un ancho de ventana gráfica particular para renderizarse bien : dado que las dimensiones de la pantalla y el ancho en píxeles CSS varían ampliamente entre dispositivos, el contenido no debe depender de un ancho de ventana gráfica particular para renderizarse bien.
+
+3. Utilice consultas de medios CSS para aplicar diferentes estilos a pantallas pequeñas y grandes : establecer anchos CSS absolutos grandes para elementos de página hará que el elemento sea demasiado ancho para la ventana gráfica en un dispositivo más pequeño. En su lugar, considere utilizar valores de ancho relativo, como ancho: 100%. Además, tenga cuidado al utilizar valores de posicionamiento absoluto grandes. Puede hacer que el elemento caiga fuera de la ventana gráfica en dispositivos pequeños.
+
+---
+
+## Vista de Cuadrícula:
+
+• Muchas páginas web se basan en una vista de cuadrícula, lo que significa que la página está dividida en columnas.
+
+Una vista de cuadrícula receptiva a menudo tiene 12 columnas y un ancho total del 100%, y se reducirá y expandirá a medida que cambie el tamaño de la ventana del navegador
+
+![image](https://github.com/eugenia1984/UTN-FRSR-Programacion/assets/72580574/718b1118-1c59-48cc-a380-23dd06337bf3)
+
+Usar una vista de cuadrícula es muy útil al diseñar páginas web. Facilita la colocación de elementos en la página
+
+---
+Para construir una cuadrícula responsiva:
+
+•Primero asegúrese de que todos los elementos HTML tengan la box-sizing propiedad establecida en border-box. Esto asegura que el relleno y el borde estén incluidos en el ancho y alto total de los elementos.
+
+•Agregue el siguiente código en su CSS:
+
+```CSS
+* {
+  box-sizing: border-box;
+}
+```
+
+Para una página web responsiva simple, con dos columnas:
+
+```CSS
+.menu {
+  width: 25%;
+  float: left;
+}
+
+.main {
+  width: 75%;
+  float: left;
+}
+```
+
+![image](https://github.com/eugenia1984/UTN-FRSR-Programacion/assets/72580574/5e729ea1-5992-4774-a63b-41aafad25abf)
+
+Sitios web de ayuda:
+
+•https://www.w3schools.com
+
+•https://css3generator.com
+
+---
+---
+
+# :star: POO: ENCAPSULACIÓN:
+
+
+![image](https://github.com/eugenia1984/UTN-FRSR-Programacion/assets/72580574/d8baae15-eaa4-4297-bbed-6c62e727666a)
+
+•Cuando nos referimos a encapsular hacemos referencia a hacer algo privado, y por ello, accesible únicamente desde dentro de lo métodos de su propia clase.
+•Existe un modelo un poco menos restrictivo, llamado protegido que hace que un miembro de una clase también esté disponible para las subclases.
+
+## HERENCIA:
+•La herencia es la capacidad de crear nuevas clases sobre otras existentes. Su principal ventaja esa la reutilización del código.
+
+•Si se quiere crear una nueva clase diferente a las que ya existen, no hay necesidad de duplicar el código. Sólo se extiende la clase existente y colocas la funcionalidad adicional dentro de una subclase resultante que hereda los campos y métodos de la superclase.
+
+•También debes implementar todos los métodos abstractos, aunque no tengan sentido en tu subclase.
+
+Diagrama UML de extensión de una única clase en comparación con la implementación  de múltiples interfaces al mismo tiempo.
+
+![image](https://github.com/eugenia1984/UTN-FRSR-Programacion/assets/72580574/beef2bcb-ab6c-4840-be82-4b24d5ab0a4b)
+
+•En la mayoría de los lenguajes de programación una subclase puede extender una única superclase. Y cualquier clase puede implementar varias interfaces al mismo tiempo.
+
+•Pero si una superclase implantarla  una interfaz, todas sus subclases deben implementarla también.
+
+## Polimorfismo:
+
+•Es la capacidad que tiene un programa de detectar la verdadera clase de un objeto e invocar su implementación. Aunque su tipo real sea desconocido en el contexto actúal.
+
+•Podemos definirlo también como la capacidad de un objeto para fingir ser otra cosa, normalmente una clase que extiende o una interfaz que implementa.
+
+•Por ejemplo: Algunos “animales” pueden emitir sonidos, entonces podemos anticipar que todas las subclases necesitarán sobre escribir el método base “emitir sonido” . Para que cada subclase pueda emitir el sonido correcto, por lo tanto, podemos declararlo abstracto directamente. Permitiéndonos omitir cualquier implementación por defecto del método en la superclase, pero fuerza a las superclases a establecer las suyas propias.
+
+•Si ponemos varios gatos y perros dentro de una gran bolsa. Después con los ojos tapados , vamos sacando los animales de la bolsa  uno por uno . Al sacar un animal, no estemos seguros de los que es, pero si lo abrazamos , el animal emitirá un sonido específico de alegría dependiendo de su clase especifica.
+
+![image](https://github.com/eugenia1984/UTN-FRSR-Programacion/assets/72580574/821e7e1a-55ac-438b-984c-d477e5ac8fc8)
+
+•El programa no conoce el tipo concreto del objeto que esta dentro de la variable a, pero gracias al polimorfismo, el programa puede rastrear la subclase del objeto cuyo método está siendo ejecutado, y ejecutar el comportamiento adecuado.
+
+![image](https://github.com/eugenia1984/UTN-FRSR-Programacion/assets/72580574/35363ef7-d4ba-4f6e-8a0e-0b9d3c9b5f7d)
+
+---
+
+## Relaciones entre Objetos:
+
+DEPENDENCIA: La dependencia es el tipo de relación más básica y débil entre clases. Existe una dependencia entre dos clases cuando ciertos cambios en la definición de una clase pueden provocar modificaciones en otra.
+La dependencia ocurre cuando se utiliza nombre de clases concretas en el código.
+
+Por ejemplo:  en un diagrama UML : un profesor depende de los materiales del curso.
+
+
+![image](https://github.com/eugenia1984/UTN-FRSR-Programacion/assets/72580574/5b854314-8c3c-43d1-97bf-f5d29adde1d5)
+
+•Un diagrama UML  no muestra todas las dependencias; hay demasiadas en cualquier código real.
+• Se debe ser muy selectivo y mostrar únicamente aquellas que son importantes para lo que sea que están comunicando.
+
+## Asociación:
+
+Es una relación en la que un objeto utiliza o interactúa con otro. En diagramas UML, la relación de asociación se muestra mediante una flecha simple desde un objeto y apuntando hacia el objeto que utiliza.
+
+Es normal tener una asociación bidireccional, en este caso, la flecha tiene una punta en cada extremo.
+
+![image](https://github.com/eugenia1984/UTN-FRSR-Programacion/assets/72580574/7e2b5b21-bcbd-4d55-ac09-5c10f5baced4)
+
+
+## En la asociación puede haber una dependencia y dependencia simple:
+
+•La asociación puede tener una dependencia en la que el objeto siempre tiene acceso a los objetos con los que interactúa.
+
+•En la asociación de dependencia simple no establece un vínculo permanente entre los objetos.
+
+•Por lo general la asociación se utiliza para representar un campo en una clase, siempre habrá un vínculo mientras se pida una orden para un cliente, pero no siempre tiene que ser un campo.
+
+## Agregación:
+
+•La agregación es un tipo especializado de asociación que representa relaciones ”uno a muchos”, “muchos a muchos” o “todos a partes” entre múltiples objetos.
+
+•Con la agregación, un objeto “tiene” un grupo de otros objetos y sirve como contenedor y puede vincularse a varios contenedores al mismo tiempo.
+
+• Por ejemplo: Agregación en UML , los departamentos contienen profesores.
+
+
+![image](https://github.com/eugenia1984/UTN-FRSR-Programacion/assets/72580574/a3952dc1-ba29-4d74-b800-930b9869dff8)
+
+## Composición:
+
+•La composición es un tipo específico de agregación en la que un objeto se compone de una o más instancias del otro.
+
+•El componente sólo puede existir como parte del contenedor.
+
+•En UML, la relación de composición se representa igual que en la agregación, pero con un diagrama relleno en la base de las flechas.
+
+•Por ejemplo: composición en UML, la universidad consta de departamentos.
+
+
+![image](https://github.com/eugenia1984/UTN-FRSR-Programacion/assets/72580574/fd2c6b5e-fb7a-4ea2-b165-6335d666d4b8)
+
+## Conexión entre si:
+
+•Dependencia : La clase A verse afectada por cambios enla clase B.
+
+•Asociación: El objeto A conoce el objeto B, LA Case A depende de B
+
+•Agregación: El objeto A conoce el objeto B y consiste en b, la clase A depende de B.
+
+•Composición: El objeto A conoce el objeto B y consiste en B y gestiona el ciclo vital de B, la clase A depende de B.
+
+•Implementación: La clase A define métodos declarados en la interfaz B, los objetos A pueden tratarse como b, la calase A depende de B
+
+## Relación entre objetos y clases: de la más débil a la más fuerte:
+
+
+![image](https://github.com/eugenia1984/UTN-FRSR-Programacion/assets/72580574/8d6ea7db-b650-406b-afe5-d89070322c43)
+
+---
 ---
 
 ## :star: Actividades:
