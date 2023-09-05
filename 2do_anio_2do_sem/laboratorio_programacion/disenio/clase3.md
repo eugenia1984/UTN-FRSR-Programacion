@@ -33,7 +33,7 @@ Es una fuente tradicional, sofisticada, confiable, practica y formal
 
 Se puede usar en logos, textos de parrafos, titulos o impresos
 
-##Sans Serif
+## Sans Serif
 
 Es una fuente moderna, limpia, humanista, geometrica y universal.
 
@@ -49,6 +49,31 @@ Se puede isar en logos, titulos e invitaciones y para textos cortos.
 ---
 
 ## :star: 3.2 Grillas y Layout
+
+## GRILLAS (GRID)
+
+Es un sistema de columnas para los diferentes tamaños de dispositivos
+
+-> Es pre procesadores, **scss** podemos definir breakpoint y con los mixin ajustar:
+
+![image](https://github.com/eugenia1984/UTN-FRSR-Programacion/assets/72580574/c55a35c4-2219-4e86-8be1-2754bd8a1294)
+
+Igual esto si se usa Bootstrap, MUI, Tailwind o cualquier libreria ya esta definido, sino con un CSS normal se puede, no es necesario el preprocesador.
+
+
+Configurando el grillado:
+
+![image](https://github.com/eugenia1984/UTN-FRSR-Programacion/assets/72580574/3e7d8a49-bbc3-4d5c-b7e0-5991e68332f4)
+
+Agregando display: grid:
+
+![image](https://github.com/eugenia1984/UTN-FRSR-Programacion/assets/72580574/2d7c1568-f90c-43a1-959a-346e6693646c)
+
+
+
+## STYLE GUIDE
+
+Es una pagina de muestra donde tenemos nuestros componentes y tienen su propias hojas de css.
 
 ---
 
