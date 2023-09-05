@@ -80,14 +80,49 @@ Es una pagina de muestra donde tenemos nuestros componentes y tienen su propias 
 
 ## :star: 3.3 Style Guide
 
+-> Encapsular las funcionalidades en componentes, para poder reutilizar entre proyectos.
+
+-> wireframes + funcionalidad y componentes -> producto final
+
+
+![image](https://github.com/eugenia1984/UTN-FRSR-Programacion/assets/72580574/9f4a878d-99ec-4566-9eb2-7ba89820c1d7)
+
 ---
 
 ## :star: 3.4 Themes
 
+- Es una capa de color y estilos que se añade por encima de nuestra aplicación y nos permite tener distintas variaciones sin hacer cambios drasticos en nuestro codigo. Esto lo hace customizable
+
+- Para tener varios themes, se crea una rchivo de css por cada theme, pudiendose intercambiar una por otra desde un archivo donde se configuran todos los archivos importados, sin tener que cambiar toda la programación de la aplicación. Simplemente con cambiar el nombre de un archivo por otro se realiza el cambio de theme.
+- 
 ---
 
 
 ## :star: 3.5 Imágenes web
+
+### Tipos de diseño:
+
+- Elige imagenes que aporten al contenido
+
+- Utiliza imagenes en las que tu publico objetivo se vea reflejado
+
+- Elige imagenes consistentes con tu paleta y theme
+  
+## Imagenes web...
+
+... **svg** indicado para iconos y animaciones. Es vectorial y permite ser editado con css
+
+...**jpg** indicado para fotografias o imagenes con degradado (menos pesado)
+
+...**gif** no recomendado para animaciones de larga duracion por ser muy pesadas
+
+... **pgn** indicado para imagenes decorativas que requieren un fondo transparente
+
+### Rendimiento y accesibilidad
+
+- Evitar exportar imagenes con texto incluido
+- Exportar la imagen al tamaño del contenedor
+- Utilizar la funcion "alt" si tiene un fin comunicativo -> MUY MAL -> por cuention de ACCESIBILIDAD todas deben tener alt, widht y heigth.
 
 ---
 
