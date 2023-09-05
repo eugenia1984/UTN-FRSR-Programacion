@@ -22,6 +22,18 @@
 ```
 
 
-- Clase 3 - LU 4 SEP
+- [Clase 3](https://github.com/eugenia1984/UTN-FRSR-Programacion/blob/main/2do_anio_2do_sem/laboratorio_programacion/disenio/clase3.md)- LU 4 SEP:
+
+```
+Psicologia de la tipografía
+3.1 Tipografía
+3.2 Grillas y Layout
+3.3 Style Guide
+3.4 Themes
+3.5 Imágenes web
+3.6 Gráficos en movimiento para la web
+3.7 Repaso resumido del diseño
+3.8 Aquí está el enlace a Miro, dónde están todas las anotaciones
+```
 
 ---
