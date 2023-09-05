@@ -149,6 +149,8 @@ Es una pagina de muestra donde tenemos nuestros componentes y tienen su propias 
 
 ## :star: 3.7 Repaso resumido del diseño
 
+[link](https://miro.com/app/board/uXjVMuNifuE=/)
+
 ---
 
 ## :star: 3.8 Aquí está el enlace a Miro, dónde están todas las anotaciones
