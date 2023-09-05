@@ -32,8 +32,7 @@ Psicologia de la tipografía
 3.4 Themes
 3.5 Imágenes web
 3.6 Gráficos en movimiento para la web
-3.7 Repaso resumido del diseño
-3.8 Aquí está el enlace a Miro, dónde están todas las anotaciones
+3.7 Aquí está el enlace a Miro, dónde están todas las anotaciones
 ```
 
 ---
