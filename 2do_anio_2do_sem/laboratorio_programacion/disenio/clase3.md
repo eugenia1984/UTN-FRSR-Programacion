@@ -128,6 +128,22 @@ Es una pagina de muestra donde tenemos nuestros componentes y tienen su propias 
 
 ## :star: 3.6 Gráficos en movimiento para la web
 
+- **CSS ANIMADO**, indicado para enimaciones sencillas y transiciones
+
+- **SVG ANIMADO**, indicado para animaciones de elementos vectoriales
+
+- **JS CANVA; WEBGEL**, indicado para animaciones complejas como animaciones 3d
+
+- **VIDEOS**, indicado para filmaciones y animaciones de alta complejidad y corta duracion
+
+- Evita que una animación bloquee la lestura basica
+
+- Evita que tus animaciones se reproduzcan automaticamente
+
+- Si tus animaciones aportan al contenido añade transcripciones.
+
+- Elige animaciones que aporten al contenido
+    
 ---
 
 
