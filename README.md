@@ -66,17 +66,17 @@ Voy a crear un repositorio por cada materia cursada, en esta lista encontrarán 
 
 ## Stack teconológico 🛠️
 
-**PseInt**
+- **PseInt**
 
-**Java** <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/>
+- **Java** <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/>
 
-**Python** <img src="https://img.icons8.com/color/48/000000/python--v1.png"/>
+- **Python** <img src="https://img.icons8.com/color/48/000000/python--v1.png"/>
 
-**JavaScript** <img src="https://img.icons8.com/fluency/48/null/javascript.png"/>
+- **JavaScript** <img src="https://img.icons8.com/fluency/48/null/javascript.png"/>
 
-**HTML5** <img width="48" height="48" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html-5--v1"/>
+- **HTML5** <img width="48" height="48" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html-5--v1"/>
 
-**CSS3** <img width="48" height="48" src="https://img.icons8.com/color/48/css3.png" alt="css3"/>
+- **CSS3** <img width="48" height="48" src="https://img.icons8.com/color/48/css3.png" alt="css3"/>
 
 ---
 
