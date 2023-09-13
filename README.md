@@ -58,7 +58,7 @@ Voy a crear un repositorio por cada materia cursada, en esta lista encontrarán 
 | 2do Año - 2do Semestre |
 | ---------------------- |
 | Metodología de Sistemas 1 |
-| Diseño y Administración de Base de Datos |
+| [Diseño y Administración de Base de Datos](https://github.com/eugenia1984/UTN-FRSR-Programacion/tree/main/2do_anio_2do_sem/base_de_datos) |
 | [Legislación](https://github.com/eugenia1984/UTN-FRSR-Programacion/tree/main/2do_anio_2do_sem/legislacion) |
 | [Laboratorio de Computación IV / Programacion IV](https://github.com/eugenia1984/UTN-FRSR-Programacion/tree/main/2do_anio_2do_sem/laboratorio_programacion) |
 
