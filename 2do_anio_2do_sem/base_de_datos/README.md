@@ -12,9 +12,9 @@
 
 - [Clase 5](https://github.com/eugenia1984/UTN-FRSR-Programacion/blob/main/2do_anio_2do_sem/base_de_datos/clase5.md):  POO - Diseño web responsive
 
-- Clase 6 : Introducción a Sass y Poo -Principios Solid
+- [Clase 6](https://github.com/eugenia1984/UTN-FRSR-Programacion/blob/main/2do_anio_2do_sem/base_de_datos/clase6.md): Introducción a Sass y Poo -Principios Solid
 
-- Clase 7:
+- [Clase 7](https://github.com/eugenia1984/UTN-FRSR-Programacion/blob/main/2do_anio_2do_sem/base_de_datos/clase7.md): Sass y Poo
 
 - Clase 8:
     
