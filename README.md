@@ -94,7 +94,7 @@ Voy a crear un repositorio por cada materia cursada, en esta lista encontrarán 
 
 ## Notas: 
 
-Aprecio tu interés por este repositorio ⌨️ con ❤️ de [María Eugenia Costa](https://github.com/eugenia1984)  😊 y seguime en [LinkedIn](https://www.linkedin.com/in/maríaeugeniacosta/)
+Aprecio tu interés por este repositorio ⌨️ con ❤️ de [María Eugenia Costa](https://github.com/eugenia1984)  😊 y seguime en [LinkedIn - maria-eugenia-costa](https://www.linkedin.com/in/maria-eugenia-costa/)
 
 ---
 ---
